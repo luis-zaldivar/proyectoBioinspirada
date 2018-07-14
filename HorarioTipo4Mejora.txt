@@ -1,0 +1,3201 @@
+Fuente 0:
+Salon 1:
+Periodo 1:	P1-U2	P0-U2	P3-U3	P0-U3	P3-U1	
+Periodo 2:	P0-U2	P1-U1	P0-U0	P2-U0	P1-U2	
+Periodo 3:	P1-U1	P1-U1	P1-U2	P1-U3	P0-U2	
+Periodo 4:	P2-U0	P2-U2	P3-U2	P0-U1	P3-U3	
+Periodo 5:	P3-U1	P3-U3	P0-U3	P1-U2	P1-U3	
+Periodo 6:	P1-U0	P1-U0	P1-U1	P2-U3	P0-U2	
+Salon 2:
+Periodo 1:	P1-U3	P0-U3	P0-U2	P2-U0	P0-U1	
+Periodo 2:	P1-U2	P3-U2	P3-U1	P3-U0	P0-U3	
+Periodo 3:	P2-U2	P1-U2	P1-U3	P1-U2	P3-U3	
+Periodo 4:	P3-U3	P1-U0	P3-U2	P2-U2	P2-U3	
+Periodo 5:	P1-U1	P3-U2	P2-U0	P2-U2	P1-U1	
+Periodo 6:	P3-U2	P3-U3	P0-U0	P0-U3	P0-U2	
+Salon 3:
+Periodo 1:	P0-U3	P1-U1	P1-U0	P2-U0	P2-U1	
+Periodo 2:	P0-U2	P0-U3	P3-U2	P1-U3	P3-U0	
+Periodo 3:	P0-U1	P3-U0	P2-U3	P2-U0	P3-U1	
+Periodo 4:	P3-U2	P2-U3	P0-U2	P1-U3	P0-U1	
+Periodo 5:	P1-U2	P1-U2	P3-U1	P1-U2	P1-U0	
+Periodo 6:	P2-U2	P2-U0	P1-U3	P2-U0	P3-U3	
+Salon 4:
+Periodo 1:	P3-U0	P3-U3	P0-U0	P2-U0	P3-U2	
+Periodo 2:	P2-U2	P1-U0	P1-U1	P0-U1	P3-U3	
+Periodo 3:	P1-U3	P1-U3	P0-U0	P3-U2	P1-U3	
+Periodo 4:	P1-U3	P0-U0	P1-U0	P2-U2	P3-U1	
+Periodo 5:	P3-U3	P0-U3	P0-U3	P2-U3	P0-U0	
+Periodo 6:	P2-U1	P0-U0	P2-U1	P2-U3	P2-U0	
+======================================================================
+Fitness : 38 Intentos: 0
+######################################################################
+Fuente 1:
+Salon 1:
+Periodo 1:	P1-U3	P2-U0	P2-U1	P2-U3	P1-U0	
+Periodo 2:	P0-U1	P0-U0	P2-U2	P3-U1	P2-U1	
+Periodo 3:	P2-U3	P3-U2	P2-U0	P3-U0	P3-U0	
+Periodo 4:	P3-U0	P3-U2	P3-U3	P3-U1	P2-U2	
+Periodo 5:	P3-U3	P0-U3	P0-U3	P0-U3	P2-U0	
+Periodo 6:	P1-U2	P2-U1	P0-U2	P1-U0	P0-U0	
+Salon 2:
+Periodo 1:	P1-U3	P3-U2	P2-U3	P3-U1	P3-U2	
+Periodo 2:	P3-U1	P3-U3	P2-U0	P2-U2	P1-U3	
+Periodo 3:	P3-U3	P2-U0	P0-U2	P0-U1	P0-U2	
+Periodo 4:	P3-U1	P3-U3	P0-U1	P0-U3	P3-U2	
+Periodo 5:	P3-U2	P0-U2	P2-U3	P0-U3	P2-U1	
+Periodo 6:	P3-U2	P1-U0	P2-U1	P2-U2	P3-U2	
+Salon 3:
+Periodo 1:	P0-U3	P3-U0	P1-U1	P1-U3	P3-U0	
+Periodo 2:	P3-U2	P1-U3	P0-U3	P0-U3	P1-U1	
+Periodo 3:	P3-U1	P3-U0	P2-U3	P1-U0	P2-U2	
+Periodo 4:	P3-U2	P1-U2	P1-U2	P2-U0	P3-U3	
+Periodo 5:	P2-U1	P2-U2	P3-U0	P0-U3	P3-U0	
+Periodo 6:	P0-U2	P1-U2	P0-U2	P3-U3	P2-U2	
+Salon 4:
+Periodo 1:	P3-U3	P0-U2	P3-U2	P2-U0	P2-U1	
+Periodo 2:	P0-U2	P1-U0	P2-U2	P0-U2	P1-U2	
+Periodo 3:	P3-U1	P1-U0	P2-U1	P1-U0	P2-U3	
+Periodo 4:	P0-U0	P3-U1	P0-U1	P0-U1	P1-U1	
+Periodo 5:	P0-U0	P0-U0	P0-U1	P2-U1	P1-U0	
+Periodo 6:	P0-U1	P2-U3	P0-U0	P2-U0	P3-U3	
+======================================================================
+Fitness : 38 Intentos: 0
+######################################################################
+Fuente 2:
+Salon 1:
+Periodo 1:	P2-U1	P2-U2	P1-U2	P0-U1	P3-U3	
+Periodo 2:	P1-U2	P0-U1	P1-U2	P2-U2	P2-U3	
+Periodo 3:	P1-U0	P2-U0	P3-U3	P0-U2	P1-U1	
+Periodo 4:	P2-U0	P3-U1	P0-U3	P2-U1	P1-U3	
+Periodo 5:	P3-U1	P3-U2	P2-U3	P1-U0	P3-U3	
+Periodo 6:	P1-U2	P3-U2	P3-U1	P0-U1	P2-U3	
+Salon 2:
+Periodo 1:	P2-U3	P0-U0	P0-U3	P2-U0	P0-U3	
+Periodo 2:	P2-U1	P1-U0	P2-U3	P0-U3	P1-U2	
+Periodo 3:	P0-U3	P2-U2	P0-U3	P2-U2	P1-U0	
+Periodo 4:	P0-U3	P1-U1	P2-U0	P1-U2	P1-U1	
+Periodo 5:	P0-U1	P0-U2	P3-U0	P2-U3	P2-U3	
+Periodo 6:	P2-U0	P1-U2	P0-U0	P3-U0	P1-U3	
+Salon 3:
+Periodo 1:	P0-U0	P3-U3	P2-U0	P3-U2	P0-U0	
+Periodo 2:	P3-U3	P3-U3	P0-U0	P1-U2	P0-U2	
+Periodo 3:	P2-U2	P3-U2	P1-U0	P0-U2	P3-U0	
+Periodo 4:	P3-U0	P3-U0	P3-U2	P3-U3	P2-U3	
+Periodo 5:	P2-U3	P3-U0	P0-U2	P3-U1	P3-U2	
+Periodo 6:	P2-U1	P2-U3	P2-U3	P3-U3	P3-U3	
+Salon 4:
+Periodo 1:	P1-U0	P2-U3	P2-U0	P1-U0	P3-U3	
+Periodo 2:	P2-U1	P0-U1	P2-U1	P3-U0	P1-U1	
+Periodo 3:	P0-U1	P1-U1	P0-U2	P0-U0	P3-U2	
+Periodo 4:	P1-U1	P3-U3	P0-U0	P1-U0	P0-U2	
+Periodo 5:	P0-U0	P2-U2	P0-U3	P0-U1	P2-U2	
+Periodo 6:	P0-U1	P1-U3	P1-U0	P3-U0	P2-U0	
+======================================================================
+Fitness : 35 Intentos: 0
+######################################################################
+Fuente 3:
+Salon 1:
+Periodo 1:	P2-U0	P3-U0	P1-U2	P2-U0	P2-U3	
+Periodo 2:	P1-U2	P1-U1	P1-U2	P0-U1	P2-U2	
+Periodo 3:	P1-U0	P2-U0	P3-U3	P1-U2	P0-U1	
+Periodo 4:	P0-U1	P3-U0	P3-U3	P1-U0	P3-U2	
+Periodo 5:	P3-U1	P2-U3	P1-U0	P2-U3	P1-U2	
+Periodo 6:	P1-U2	P2-U2	P3-U1	P1-U0	P2-U3	
+Salon 2:
+Periodo 1:	P0-U3	P2-U2	P0-U1	P1-U3	P1-U0	
+Periodo 2:	P2-U0	P2-U3	P1-U2	P2-U2	P2-U2	
+Periodo 3:	P3-U1	P0-U2	P0-U3	P3-U3	P0-U2	
+Periodo 4:	P0-U3	P2-U2	P1-U3	P2-U1	P2-U0	
+Periodo 5:	P2-U0	P0-U0	P3-U0	P2-U1	P2-U1	
+Periodo 6:	P2-U0	P0-U0	P0-U2	P2-U2	P2-U0	
+Salon 3:
+Periodo 1:	P3-U0	P1-U3	P3-U0	P3-U3	P2-U2	
+Periodo 2:	P3-U3	P0-U3	P3-U1	P1-U2	P3-U0	
+Periodo 3:	P3-U3	P3-U3	P1-U0	P3-U1	P3-U1	
+Periodo 4:	P3-U1	P3-U2	P3-U2	P0-U0	P2-U2	
+Periodo 5:	P2-U1	P2-U1	P0-U3	P0-U0	P3-U2	
+Periodo 6:	P3-U1	P0-U2	P2-U0	P3-U1	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P3-U0	P3-U0	P1-U0	P3-U3	
+Periodo 2:	P2-U1	P1-U0	P3-U0	P2-U1	P1-U0	
+Periodo 3:	P0-U3	P1-U3	P0-U1	P3-U1	P1-U1	
+Periodo 4:	P1-U3	P1-U2	P0-U1	P2-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P3-U2	P0-U1	P1-U1	
+Periodo 6:	P0-U1	P2-U1	P1-U0	P2-U3	P1-U2	
+======================================================================
+Fitness : 35 Intentos: 0
+######################################################################
+Fuente 4:
+Salon 1:
+Periodo 1:	P2-U1	P1-U1	P0-U2	P0-U1	P2-U2	
+Periodo 2:	P1-U2	P1-U1	P3-U0	P2-U2	P2-U3	
+Periodo 3:	P1-U0	P3-U1	P3-U1	P1-U2	P0-U0	
+Periodo 4:	P2-U0	P2-U1	P1-U2	P0-U3	P2-U0	
+Periodo 5:	P3-U1	P1-U0	P2-U3	P2-U3	P2-U2	
+Periodo 6:	P1-U2	P2-U1	P0-U0	P3-U2	P1-U0	
+Salon 2:
+Periodo 1:	P0-U3	P2-U2	P0-U3	P0-U2	P3-U2	
+Periodo 2:	P2-U0	P2-U1	P0-U2	P0-U3	P3-U2	
+Periodo 3:	P3-U1	P1-U2	P1-U1	P2-U2	P2-U1	
+Periodo 4:	P0-U1	P3-U2	P1-U1	P0-U2	P1-U1	
+Periodo 5:	P3-U0	P0-U1	P3-U0	P3-U0	P1-U2	
+Periodo 6:	P2-U3	P1-U1	P3-U0	P2-U1	P0-U1	
+Salon 3:
+Periodo 1:	P3-U1	P3-U3	P3-U0	P1-U3	P1-U1	
+Periodo 2:	P3-U2	P3-U0	P3-U0	P0-U3	P0-U2	
+Periodo 3:	P1-U3	P1-U0	P2-U3	P0-U2	P3-U1	
+Periodo 4:	P3-U2	P1-U0	P3-U1	P3-U0	P2-U2	
+Periodo 5:	P1-U3	P3-U2	P0-U2	P1-U0	P3-U2	
+Periodo 6:	P3-U1	P2-U1	P0-U2	P3-U1	P3-U0	
+Salon 4:
+Periodo 1:	P3-U2	P0-U2	P3-U2	P1-U0	P3-U3	
+Periodo 2:	P1-U0	P0-U1	P1-U0	P1-U0	P1-U0	
+Periodo 3:	P0-U3	P1-U1	P1-U3	P2-U2	P2-U2	
+Periodo 4:	P1-U1	P3-U1	P0-U2	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P0-U1	P0-U2	
+Periodo 6:	P0-U0	P1-U3	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 33 Intentos: 0
+######################################################################
+Fuente 5:
+Salon 1:
+Periodo 1:	P3-U1	P1-U1	P2-U3	P0-U1	P2-U2	
+Periodo 2:	P3-U2	P1-U2	P1-U2	P3-U1	P2-U1	
+Periodo 3:	P1-U0	P0-U1	P0-U2	P3-U3	P0-U3	
+Periodo 4:	P2-U0	P2-U0	P1-U3	P2-U1	P2-U2	
+Periodo 5:	P3-U0	P3-U1	P0-U0	P1-U0	P1-U2	
+Periodo 6:	P0-U1	P2-U1	P1-U0	P0-U2	P1-U2	
+Salon 2:
+Periodo 1:	P2-U3	P2-U3	P0-U3	P2-U1	P2-U1	
+Periodo 2:	P2-U2	P3-U1	P1-U2	P2-U1	P1-U1	
+Periodo 3:	P3-U3	P2-U0	P0-U3	P2-U3	P1-U0	
+Periodo 4:	P2-U1	P3-U3	P1-U1	P2-U0	P1-U2	
+Periodo 5:	P2-U1	P0-U1	P3-U0	P1-U2	P2-U1	
+Periodo 6:	P2-U1	P1-U2	P0-U1	P2-U2	P0-U1	
+Salon 3:
+Periodo 1:	P2-U2	P3-U3	P3-U3	P0-U0	P3-U3	
+Periodo 2:	P1-U1	P0-U2	P3-U1	P2-U0	P0-U2	
+Periodo 3:	P2-U1	P3-U3	P2-U3	P0-U3	P3-U1	
+Periodo 4:	P2-U0	P1-U2	P3-U2	P3-U3	P2-U1	
+Periodo 5:	P0-U0	P2-U2	P3-U2	P3-U0	P3-U2	
+Periodo 6:	P3-U1	P3-U3	P2-U3	P3-U1	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P0-U2	P2-U0	P2-U2	P0-U1	
+Periodo 2:	P0-U3	P3-U3	P0-U1	P3-U0	P3-U2	
+Periodo 3:	P0-U3	P1-U1	P3-U3	P2-U1	P2-U2	
+Periodo 4:	P2-U2	P3-U3	P2-U0	P1-U0	P2-U0	
+Periodo 5:	P2-U0	P3-U0	P3-U0	P0-U1	P2-U3	
+Periodo 6:	P2-U2	P0-U3	P1-U0	P0-U2	P0-U1	
+======================================================================
+Fitness : 32 Intentos: 0
+######################################################################
+Fuente 6:
+Salon 1:
+Periodo 1:	P3-U0	P3-U1	P1-U1	P0-U1	P2-U3	
+Periodo 2:	P1-U3	P1-U0	P1-U2	P2-U2	P1-U1	
+Periodo 3:	P3-U0	P1-U0	P3-U3	P3-U2	P0-U1	
+Periodo 4:	P3-U1	P1-U0	P2-U3	P2-U1	P3-U2	
+Periodo 5:	P3-U1	P1-U0	P2-U3	P1-U0	P1-U2	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U1	P2-U3	
+Salon 2:
+Periodo 1:	P0-U3	P2-U2	P1-U1	P2-U0	P0-U1	
+Periodo 2:	P0-U0	P2-U2	P2-U3	P0-U3	P3-U2	
+Periodo 3:	P3-U1	P2-U0	P0-U3	P2-U3	P0-U2	
+Periodo 4:	P0-U3	P0-U3	P1-U1	P0-U2	P1-U2	
+Periodo 5:	P0-U2	P0-U2	P3-U0	P3-U0	P2-U1	
+Periodo 6:	P2-U0	P1-U2	P0-U3	P2-U2	P3-U0	
+Salon 3:
+Periodo 1:	P2-U2	P3-U0	P3-U3	P3-U3	P1-U2	
+Periodo 2:	P3-U3	P3-U0	P3-U1	P1-U2	P3-U1	
+Periodo 3:	P2-U3	P0-U3	P1-U0	P0-U2	P3-U0	
+Periodo 4:	P3-U0	P3-U2	P2-U1	P3-U3	P2-U2	
+Periodo 5:	P2-U1	P2-U2	P2-U1	P2-U3	P2-U3	
+Periodo 6:	P3-U1	P3-U2	P2-U3	P3-U1	P3-U0	
+Salon 4:
+Periodo 1:	P2-U3	P3-U1	P1-U3	P1-U0	P3-U3	
+Periodo 2:	P0-U3	P0-U1	P1-U0	P0-U2	P1-U0	
+Periodo 3:	P0-U3	P1-U1	P1-U3	P3-U1	P2-U2	
+Periodo 4:	P1-U1	P3-U3	P0-U0	P1-U3	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P3-U1	P0-U1	P0-U2	
+Periodo 6:	P0-U0	P0-U1	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 28 Intentos: 1
+######################################################################
+Fuente 7:
+Salon 1:
+Periodo 1:	P3-U3	P1-U1	P1-U2	P0-U1	P2-U3	
+Periodo 2:	P1-U3	P1-U1	P2-U3	P2-U2	P2-U3	
+Periodo 3:	P1-U0	P0-U1	P3-U3	P1-U2	P0-U1	
+Periodo 4:	P2-U0	P2-U3	P2-U3	P2-U1	P3-U2	
+Periodo 5:	P3-U0	P1-U0	P2-U3	P1-U0	P1-U2	
+Periodo 6:	P1-U0	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P0-U3	P0-U0	P0-U3	P2-U0	P0-U0	
+Periodo 2:	P2-U0	P2-U3	P2-U3	P0-U3	P3-U2	
+Periodo 3:	P2-U3	P2-U0	P2-U3	P2-U3	P3-U3	
+Periodo 4:	P0-U1	P0-U3	P1-U1	P0-U2	P1-U2	
+Periodo 5:	P0-U1	P0-U2	P3-U0	P2-U1	P2-U1	
+Periodo 6:	P0-U0	P1-U2	P0-U3	P0-U0	P0-U1	
+Salon 3:
+Periodo 1:	P3-U3	P3-U3	P3-U3	P3-U3	P1-U2	
+Periodo 2:	P3-U3	P3-U0	P3-U1	P1-U2	P0-U2	
+Periodo 3:	P2-U3	P3-U3	P1-U0	P0-U2	P3-U1	
+Periodo 4:	P3-U0	P1-U2	P3-U1	P3-U3	P2-U2	
+Periodo 5:	P2-U1	P2-U2	P0-U2	P3-U1	P3-U2	
+Periodo 6:	P3-U1	P3-U3	P2-U3	P3-U3	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P0-U2	P2-U0	P1-U3	P3-U0	
+Periodo 2:	P0-U3	P0-U1	P0-U1	P3-U0	P1-U0	
+Periodo 3:	P0-U3	P1-U3	P2-U3	P3-U1	P2-U2	
+Periodo 4:	P1-U1	P3-U3	P0-U0	P1-U0	P0-U2	
+Periodo 5:	P0-U3	P3-U1	P1-U1	P0-U1	P0-U3	
+Periodo 6:	P0-U0	P0-U1	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 16 Intentos: 1
+######################################################################
+Fuente 8:
+Salon 1:
+Periodo 1:	P3-U3	P1-U1	P1-U2	P0-U3	P1-U3	
+Periodo 2:	P1-U2	P1-U3	P1-U2	P2-U2	P2-U2	
+Periodo 3:	P1-U0	P0-U3	P0-U0	P1-U0	P0-U1	
+Periodo 4:	P2-U0	P2-U1	P0-U1	P2-U1	P3-U2	
+Periodo 5:	P2-U3	P1-U0	P2-U3	P1-U0	P1-U2	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P0-U3	P2-U2	P0-U3	P2-U1	P0-U1	
+Periodo 2:	P2-U0	P2-U3	P2-U3	P0-U3	P3-U1	
+Periodo 3:	P3-U1	P2-U0	P2-U2	P2-U0	P1-U0	
+Periodo 4:	P0-U3	P0-U3	P1-U1	P0-U2	P1-U1	
+Periodo 5:	P0-U2	P0-U2	P3-U0	P2-U3	P2-U1	
+Periodo 6:	P2-U0	P1-U2	P0-U0	P1-U3	P0-U1	
+Salon 3:
+Periodo 1:	P2-U2	P3-U3	P3-U3	P3-U3	P1-U2	
+Periodo 2:	P3-U3	P3-U0	P3-U1	P1-U2	P0-U2	
+Periodo 3:	P2-U3	P3-U3	P3-U3	P0-U0	P3-U1	
+Periodo 4:	P3-U1	P1-U2	P1-U2	P3-U3	P2-U2	
+Periodo 5:	P2-U1	P2-U2	P0-U2	P3-U1	P3-U2	
+Periodo 6:	P3-U1	P0-U2	P2-U3	P3-U0	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P0-U2	P2-U0	P1-U0	P3-U3	
+Periodo 2:	P0-U0	P0-U1	P0-U1	P3-U0	P3-U0	
+Periodo 3:	P0-U3	P1-U1	P1-U3	P3-U1	P2-U2	
+Periodo 4:	P1-U1	P3-U3	P2-U0	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P0-U1	P0-U2	
+Periodo 6:	P3-U2	P0-U1	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 13 Intentos: 0
+######################################################################
+Fuente 9:
+Salon 1:
+Periodo 1:	P3-U3	P1-U1	P1-U2	P0-U1	P2-U2	
+Periodo 2:	P1-U2	P1-U3	P1-U2	P2-U2	P2-U3	
+Periodo 3:	P1-U0	P0-U3	P3-U3	P1-U0	P0-U1	
+Periodo 4:	P2-U0	P2-U1	P0-U1	P2-U1	P3-U2	
+Periodo 5:	P3-U0	P1-U0	P2-U3	P1-U0	P1-U2	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P0-U3	P2-U3	P0-U3	P2-U0	P0-U1	
+Periodo 2:	P2-U0	P2-U2	P2-U3	P0-U3	P3-U2	
+Periodo 3:	P3-U1	P1-U3	P2-U3	P2-U3	P1-U0	
+Periodo 4:	P0-U3	P0-U3	P1-U1	P0-U0	P1-U2	
+Periodo 5:	P0-U2	P0-U2	P3-U0	P2-U3	P2-U1	
+Periodo 6:	P2-U0	P1-U2	P0-U3	P2-U1	P0-U1	
+Salon 3:
+Periodo 1:	P2-U2	P3-U3	P3-U3	P3-U3	P1-U2	
+Periodo 2:	P3-U3	P3-U0	P3-U1	P1-U2	P0-U2	
+Periodo 3:	P2-U3	P3-U3	P3-U3	P0-U2	P3-U1	
+Periodo 4:	P3-U1	P1-U2	P3-U1	P3-U3	P2-U0	
+Periodo 5:	P2-U1	P3-U1	P0-U2	P2-U3	P3-U2	
+Periodo 6:	P1-U3	P1-U3	P2-U3	P3-U0	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P0-U0	P2-U0	P1-U3	P3-U3	
+Periodo 2:	P0-U0	P0-U1	P2-U0	P3-U0	P1-U0	
+Periodo 3:	P0-U3	P1-U3	P1-U3	P3-U1	P2-U2	
+Periodo 4:	P1-U1	P3-U3	P2-U0	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P0-U1	P0-U2	
+Periodo 6:	P0-U1	P0-U1	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 13 Intentos: 2
+######################################################################
+Fuente 10:
+Salon 1:
+Periodo 1:	P3-U3	P1-U1	P1-U2	P0-U0	P2-U3	
+Periodo 2:	P1-U3	P1-U1	P1-U2	P0-U1	P2-U3	
+Periodo 3:	P1-U0	P0-U1	P3-U3	P1-U0	P0-U1	
+Periodo 4:	P2-U0	P2-U1	P0-U1	P2-U1	P3-U2	
+Periodo 5:	P3-U0	P1-U0	P2-U3	P1-U0	P1-U2	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P0-U3	P2-U2	P0-U3	P2-U0	P0-U1	
+Periodo 2:	P2-U0	P2-U2	P2-U3	P0-U3	P3-U2	
+Periodo 3:	P3-U1	P0-U2	P0-U3	P2-U3	P1-U0	
+Periodo 4:	P0-U3	P0-U3	P3-U1	P0-U2	P1-U2	
+Periodo 5:	P0-U2	P0-U2	P3-U0	P1-U1	P2-U1	
+Periodo 6:	P2-U0	P1-U2	P0-U0	P2-U2	P0-U1	
+Salon 3:
+Periodo 1:	P2-U2	P3-U3	P3-U0	P3-U3	P1-U2	
+Periodo 2:	P3-U3	P3-U0	P3-U1	P1-U2	P2-U2	
+Periodo 3:	P2-U3	P3-U3	P2-U3	P0-U2	P3-U1	
+Periodo 4:	P3-U1	P1-U2	P2-U1	P3-U3	P2-U0	
+Periodo 5:	P2-U1	P2-U2	P0-U2	P2-U3	P3-U2	
+Periodo 6:	P3-U1	P3-U2	P2-U3	P3-U1	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P0-U0	P2-U0	P1-U0	P3-U0	
+Periodo 2:	P0-U3	P2-U1	P0-U1	P3-U0	P1-U0	
+Periodo 3:	P0-U3	P1-U3	P1-U3	P3-U1	P2-U2	
+Periodo 4:	P1-U0	P3-U3	P2-U1	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P0-U1	P0-U3	
+Periodo 6:	P0-U1	P0-U1	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 12 Intentos: 0
+######################################################################
+Fuente 11:
+Salon 1:
+Periodo 1:	P3-U3	P1-U1	P1-U2	P0-U1	P2-U2	
+Periodo 2:	P1-U3	P1-U1	P1-U2	P2-U2	P2-U3	
+Periodo 3:	P1-U0	P0-U3	P3-U3	P1-U2	P0-U3	
+Periodo 4:	P2-U0	P2-U1	P1-U2	P2-U1	P3-U2	
+Periodo 5:	P3-U0	P1-U0	P2-U3	P1-U0	P1-U2	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P1-U2	P2-U2	P0-U3	P2-U0	P0-U3	
+Periodo 2:	P2-U1	P2-U3	P2-U3	P0-U3	P3-U2	
+Periodo 3:	P3-U1	P2-U0	P2-U2	P2-U3	P1-U0	
+Periodo 4:	P0-U3	P0-U3	P1-U1	P0-U2	P1-U2	
+Periodo 5:	P0-U2	P0-U2	P3-U0	P2-U3	P2-U1	
+Periodo 6:	P2-U0	P1-U1	P0-U3	P0-U0	P0-U1	
+Salon 3:
+Periodo 1:	P2-U2	P3-U3	P3-U3	P3-U3	P1-U2	
+Periodo 2:	P3-U3	P3-U0	P3-U1	P1-U2	P0-U2	
+Periodo 3:	P2-U3	P3-U3	P1-U0	P0-U2	P3-U1	
+Periodo 4:	P3-U0	P1-U2	P3-U2	P3-U3	P2-U2	
+Periodo 5:	P2-U1	P2-U2	P0-U2	P3-U1	P3-U2	
+Periodo 6:	P3-U1	P3-U2	P2-U3	P3-U1	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P0-U2	P2-U0	P1-U0	P3-U3	
+Periodo 2:	P0-U0	P0-U1	P0-U1	P1-U3	P1-U0	
+Periodo 3:	P0-U3	P1-U3	P2-U3	P3-U1	P2-U2	
+Periodo 4:	P1-U1	P3-U3	P2-U0	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P0-U1	P0-U2	
+Periodo 6:	P0-U0	P0-U1	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 12 Intentos: 0
+######################################################################
+Fuente 12:
+Salon 1:
+Periodo 1:	P3-U3	P1-U1	P1-U2	P0-U2	P2-U3	
+Periodo 2:	P1-U3	P1-U1	P1-U2	P2-U2	P2-U3	
+Periodo 3:	P3-U0	P2-U3	P3-U3	P1-U0	P0-U1	
+Periodo 4:	P2-U0	P2-U1	P0-U1	P2-U1	P3-U2	
+Periodo 5:	P3-U1	P1-U0	P2-U3	P1-U0	P1-U2	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P0-U3	P2-U2	P0-U3	P2-U0	P0-U1	
+Periodo 2:	P2-U1	P2-U3	P2-U3	P0-U3	P3-U2	
+Periodo 3:	P3-U1	P2-U0	P0-U3	P2-U3	P1-U0	
+Periodo 4:	P0-U3	P0-U3	P2-U0	P0-U0	P0-U1	
+Periodo 5:	P0-U2	P0-U2	P3-U0	P3-U0	P2-U1	
+Periodo 6:	P2-U0	P1-U1	P0-U3	P2-U1	P0-U1	
+Salon 3:
+Periodo 1:	P2-U2	P3-U3	P3-U3	P3-U3	P1-U2	
+Periodo 2:	P3-U3	P3-U3	P3-U1	P1-U2	P0-U2	
+Periodo 3:	P2-U3	P3-U3	P1-U0	P0-U2	P1-U2	
+Periodo 4:	P3-U0	P1-U2	P3-U1	P3-U3	P2-U2	
+Periodo 5:	P2-U1	P2-U2	P1-U3	P2-U3	P3-U2	
+Periodo 6:	P3-U1	P3-U2	P2-U3	P3-U1	P2-U1	
+Salon 4:
+Periodo 1:	P1-U0	P0-U2	P2-U0	P1-U0	P3-U3	
+Periodo 2:	P0-U0	P0-U1	P0-U1	P3-U0	P1-U0	
+Periodo 3:	P0-U3	P1-U3	P0-U2	P3-U1	P2-U2	
+Periodo 4:	P1-U1	P3-U3	P3-U2	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P0-U1	P0-U2	
+Periodo 6:	P0-U0	P0-U1	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 12 Intentos: 0
+######################################################################
+Fuente 13:
+Salon 1:
+Periodo 1:	P3-U3	P1-U1	P1-U2	P0-U1	P2-U3	
+Periodo 2:	P1-U3	P1-U1	P1-U2	P0-U1	P2-U3	
+Periodo 3:	P1-U0	P0-U3	P3-U3	P1-U0	P0-U0	
+Periodo 4:	P2-U0	P2-U1	P0-U1	P2-U1	P3-U2	
+Periodo 5:	P3-U0	P1-U0	P2-U3	P1-U0	P1-U2	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P3-U1	P1-U0	
+Salon 2:
+Periodo 1:	P0-U3	P2-U2	P0-U3	P2-U1	P0-U1	
+Periodo 2:	P2-U0	P2-U2	P2-U3	P0-U3	P3-U2	
+Periodo 3:	P3-U2	P2-U0	P0-U3	P2-U3	P1-U0	
+Periodo 4:	P0-U3	P0-U3	P1-U3	P0-U2	P1-U2	
+Periodo 5:	P0-U2	P0-U2	P3-U0	P3-U0	P2-U1	
+Periodo 6:	P2-U0	P1-U2	P0-U3	P2-U2	P3-U0	
+Salon 3:
+Periodo 1:	P2-U2	P3-U3	P2-U3	P3-U3	P1-U2	
+Periodo 2:	P3-U3	P3-U0	P3-U1	P1-U2	P0-U2	
+Periodo 3:	P2-U3	P3-U3	P2-U3	P0-U0	P3-U1	
+Periodo 4:	P3-U1	P1-U2	P3-U1	P3-U3	P2-U2	
+Periodo 5:	P2-U1	P2-U2	P0-U2	P2-U3	P0-U3	
+Periodo 6:	P3-U1	P3-U2	P0-U0	P3-U1	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P0-U2	P2-U0	P1-U0	P3-U3	
+Periodo 2:	P0-U0	P0-U1	P0-U1	P3-U0	P1-U0	
+Periodo 3:	P0-U3	P1-U3	P2-U3	P3-U1	P2-U2	
+Periodo 4:	P1-U1	P3-U3	P2-U1	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P0-U1	P0-U2	
+Periodo 6:	P0-U0	P0-U1	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 11 Intentos: 0
+######################################################################
+Fuente 14:
+Salon 1:
+Periodo 1:	P3-U3	P3-U0	P1-U2	P0-U1	P2-U3	
+Periodo 2:	P1-U3	P1-U1	P1-U2	P2-U2	P2-U2	
+Periodo 3:	P1-U0	P2-U3	P0-U0	P1-U0	P0-U0	
+Periodo 4:	P1-U1	P2-U1	P0-U1	P2-U1	P3-U2	
+Periodo 5:	P3-U1	P1-U0	P2-U3	P1-U0	P1-U2	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P0-U3	P2-U2	P0-U3	P2-U0	P0-U1	
+Periodo 2:	P2-U0	P2-U3	P2-U3	P0-U3	P3-U1	
+Periodo 3:	P3-U1	P0-U2	P0-U1	P2-U0	P1-U0	
+Periodo 4:	P0-U3	P0-U3	P1-U3	P0-U2	P1-U1	
+Periodo 5:	P0-U2	P0-U2	P3-U0	P3-U0	P2-U1	
+Periodo 6:	P2-U0	P1-U2	P0-U3	P2-U3	P0-U3	
+Salon 3:
+Periodo 1:	P2-U3	P3-U3	P3-U3	P3-U3	P1-U2	
+Periodo 2:	P3-U3	P3-U0	P3-U1	P1-U2	P0-U2	
+Periodo 3:	P1-U1	P3-U3	P2-U3	P0-U2	P3-U0	
+Periodo 4:	P3-U0	P1-U2	P3-U1	P3-U3	P2-U0	
+Periodo 5:	P2-U1	P2-U2	P0-U2	P2-U3	P3-U2	
+Periodo 6:	P3-U1	P3-U2	P2-U3	P3-U1	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P0-U0	P2-U0	P1-U0	P3-U3	
+Periodo 2:	P0-U0	P0-U1	P0-U1	P3-U0	P1-U0	
+Periodo 3:	P2-U2	P2-U1	P1-U3	P3-U1	P2-U2	
+Periodo 4:	P1-U1	P3-U1	P3-U3	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P0-U1	P0-U3	
+Periodo 6:	P0-U0	P0-U1	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 10 Intentos: 1
+######################################################################
+Fuente 15:
+Salon 1:
+Periodo 1:	P3-U3	P0-U2	P1-U2	P0-U1	P2-U3	
+Periodo 2:	P1-U3	P1-U1	P1-U2	P0-U1	P2-U3	
+Periodo 3:	P1-U0	P0-U1	P3-U3	P2-U1	P0-U0	
+Periodo 4:	P2-U0	P2-U1	P0-U1	P2-U1	P3-U2	
+Periodo 5:	P3-U0	P1-U0	P2-U3	P1-U0	P1-U1	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P0-U3	P2-U2	P0-U3	P2-U1	P0-U1	
+Periodo 2:	P2-U1	P2-U2	P2-U3	P2-U2	P3-U1	
+Periodo 3:	P2-U0	P2-U0	P0-U3	P1-U1	P1-U0	
+Periodo 4:	P0-U3	P0-U3	P2-U0	P0-U2	P1-U1	
+Periodo 5:	P0-U2	P0-U2	P3-U0	P3-U0	P2-U1	
+Periodo 6:	P2-U0	P1-U2	P0-U0	P2-U2	P0-U1	
+Salon 3:
+Periodo 1:	P0-U1	P3-U3	P3-U3	P3-U3	P1-U2	
+Periodo 2:	P3-U3	P3-U0	P1-U2	P1-U2	P0-U2	
+Periodo 3:	P2-U3	P3-U3	P2-U3	P3-U2	P3-U0	
+Periodo 4:	P3-U1	P1-U2	P3-U1	P3-U3	P2-U2	
+Periodo 5:	P2-U2	P2-U2	P0-U2	P2-U3	P3-U2	
+Periodo 6:	P3-U1	P3-U2	P0-U1	P3-U1	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P1-U0	P2-U0	P1-U0	P3-U3	
+Periodo 2:	P0-U3	P0-U1	P0-U1	P3-U0	P1-U0	
+Periodo 3:	P0-U3	P1-U3	P0-U2	P3-U1	P2-U2	
+Periodo 4:	P1-U1	P3-U1	P1-U1	P1-U0	P2-U3	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P3-U1	P0-U2	
+Periodo 6:	P0-U0	P0-U1	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 10 Intentos: 4
+######################################################################
+Fuente 16:
+Salon 1:
+Periodo 1:	P3-U3	P1-U1	P1-U2	P0-U1	P2-U2	
+Periodo 2:	P1-U2	P1-U1	P1-U2	P2-U2	P2-U2	
+Periodo 3:	P1-U0	P0-U1	P0-U3	P2-U1	P0-U1	
+Periodo 4:	P2-U0	P2-U1	P0-U1	P2-U1	P3-U2	
+Periodo 5:	P3-U1	P1-U0	P2-U3	P1-U0	P1-U2	
+Periodo 6:	P1-U2	P0-U0	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P0-U3	P2-U2	P0-U3	P2-U1	P0-U1	
+Periodo 2:	P2-U0	P2-U3	P2-U3	P0-U3	P3-U2	
+Periodo 3:	P3-U1	P2-U0	P0-U1	P1-U1	P1-U0	
+Periodo 4:	P0-U3	P0-U3	P2-U0	P0-U2	P1-U1	
+Periodo 5:	P0-U2	P0-U2	P3-U0	P3-U0	P2-U1	
+Periodo 6:	P2-U0	P1-U2	P0-U0	P2-U2	P0-U1	
+Salon 3:
+Periodo 1:	P2-U2	P3-U0	P3-U3	P3-U3	P1-U2	
+Periodo 2:	P3-U3	P3-U0	P3-U1	P1-U2	P0-U2	
+Periodo 3:	P2-U3	P3-U3	P3-U3	P0-U2	P3-U1	
+Periodo 4:	P1-U0	P1-U2	P3-U1	P3-U3	P2-U2	
+Periodo 5:	P2-U1	P2-U2	P0-U2	P2-U3	P3-U2	
+Periodo 6:	P3-U1	P3-U2	P2-U3	P3-U1	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P0-U2	P2-U0	P1-U0	P3-U3	
+Periodo 2:	P0-U0	P0-U1	P0-U1	P3-U0	P1-U0	
+Periodo 3:	P0-U3	P1-U3	P1-U3	P3-U3	P2-U2	
+Periodo 4:	P1-U1	P3-U3	P2-U1	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P0-U1	P0-U2	
+Periodo 6:	P0-U0	P3-U3	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 9 Intentos: 4
+######################################################################
+Fuente 17:
+Salon 1:
+Periodo 1:	P3-U3	P1-U1	P1-U2	P0-U1	P2-U3	
+Periodo 2:	P1-U3	P1-U1	P1-U2	P2-U2	P2-U3	
+Periodo 3:	P1-U0	P2-U0	P3-U3	P1-U2	P0-U0	
+Periodo 4:	P2-U0	P2-U1	P1-U2	P2-U1	P3-U2	
+Periodo 5:	P3-U0	P1-U0	P2-U3	P1-U0	P1-U2	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P0-U3	P2-U1	P0-U3	P2-U1	P0-U1	
+Periodo 2:	P2-U0	P2-U3	P2-U3	P0-U3	P3-U2	
+Periodo 3:	P3-U1	P0-U2	P0-U3	P2-U3	P1-U0	
+Periodo 4:	P0-U1	P0-U3	P1-U1	P0-U2	P1-U2	
+Periodo 5:	P0-U1	P0-U2	P3-U0	P2-U3	P2-U1	
+Periodo 6:	P2-U0	P1-U1	P0-U3	P0-U0	P0-U1	
+Salon 3:
+Periodo 1:	P2-U2	P3-U3	P3-U3	P3-U3	P1-U2	
+Periodo 2:	P3-U3	P3-U0	P3-U1	P1-U2	P0-U2	
+Periodo 3:	P2-U3	P3-U3	P1-U0	P0-U2	P3-U1	
+Periodo 4:	P3-U1	P1-U2	P3-U1	P3-U3	P2-U0	
+Periodo 5:	P2-U1	P2-U2	P0-U2	P3-U1	P3-U2	
+Periodo 6:	P3-U1	P3-U2	P2-U3	P3-U1	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P0-U0	P2-U0	P1-U0	P3-U3	
+Periodo 2:	P0-U3	P0-U1	P0-U1	P1-U3	P1-U0	
+Periodo 3:	P0-U3	P1-U3	P2-U3	P3-U1	P2-U2	
+Periodo 4:	P1-U0	P3-U3	P2-U0	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P0-U1	P0-U3	
+Periodo 6:	P0-U0	P0-U1	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 9 Intentos: 6
+######################################################################
+Fuente 18:
+Salon 1:
+Periodo 1:	P3-U3	P1-U1	P1-U2	P0-U1	P2-U3	
+Periodo 2:	P1-U3	P1-U1	P1-U2	P2-U2	P2-U3	
+Periodo 3:	P1-U0	P0-U3	P3-U3	P1-U0	P0-U0	
+Periodo 4:	P2-U0	P2-U1	P1-U2	P2-U1	P3-U2	
+Periodo 5:	P3-U1	P1-U0	P2-U3	P1-U0	P1-U2	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P0-U3	P2-U2	P0-U3	P2-U1	P0-U1	
+Periodo 2:	P2-U0	P2-U2	P2-U3	P0-U3	P3-U2	
+Periodo 3:	P3-U2	P2-U0	P0-U3	P2-U3	P1-U0	
+Periodo 4:	P0-U3	P0-U3	P1-U3	P0-U2	P1-U2	
+Periodo 5:	P0-U2	P0-U2	P3-U0	P3-U0	P2-U1	
+Periodo 6:	P3-U1	P1-U2	P0-U3	P2-U1	P0-U1	
+Salon 3:
+Periodo 1:	P2-U2	P3-U3	P3-U3	P3-U3	P1-U2	
+Periodo 2:	P3-U3	P3-U0	P3-U1	P1-U2	P0-U2	
+Periodo 3:	P2-U3	P3-U3	P2-U3	P0-U0	P3-U1	
+Periodo 4:	P3-U0	P1-U2	P3-U1	P3-U3	P2-U0	
+Periodo 5:	P2-U1	P2-U2	P0-U2	P3-U1	P3-U2	
+Periodo 6:	P3-U1	P3-U2	P0-U0	P3-U3	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P0-U2	P2-U0	P1-U0	P3-U3	
+Periodo 2:	P0-U0	P0-U1	P0-U1	P3-U0	P1-U0	
+Periodo 3:	P0-U3	P1-U1	P2-U3	P3-U1	P2-U2	
+Periodo 4:	P1-U1	P3-U3	P2-U1	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P0-U1	P0-U2	
+Periodo 6:	P0-U0	P0-U1	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 9 Intentos: 0
+######################################################################
+Fuente 19:
+Salon 1:
+Periodo 1:	P3-U3	P1-U1	P1-U2	P0-U1	P2-U3	
+Periodo 2:	P1-U3	P1-U0	P1-U2	P2-U2	P2-U3	
+Periodo 3:	P1-U0	P0-U3	P3-U3	P1-U0	P0-U1	
+Periodo 4:	P2-U0	P2-U1	P1-U2	P2-U1	P3-U2	
+Periodo 5:	P3-U0	P1-U0	P2-U3	P1-U0	P1-U2	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P0-U3	P2-U2	P0-U3	P2-U0	P0-U1	
+Periodo 2:	P2-U0	P2-U3	P2-U3	P0-U3	P3-U2	
+Periodo 3:	P3-U1	P2-U0	P2-U2	P2-U3	P1-U0	
+Periodo 4:	P0-U1	P0-U3	P2-U0	P0-U0	P1-U1	
+Periodo 5:	P0-U1	P0-U2	P3-U0	P3-U0	P2-U1	
+Periodo 6:	P2-U0	P1-U2	P0-U3	P2-U1	P0-U1	
+Salon 3:
+Periodo 1:	P2-U2	P3-U3	P3-U3	P3-U3	P1-U2	
+Periodo 2:	P3-U3	P3-U0	P3-U1	P1-U2	P0-U2	
+Periodo 3:	P2-U3	P3-U3	P2-U3	P0-U2	P3-U0	
+Periodo 4:	P3-U1	P1-U2	P3-U1	P3-U3	P2-U2	
+Periodo 5:	P2-U1	P2-U2	P0-U2	P2-U3	P3-U2	
+Periodo 6:	P3-U1	P3-U2	P2-U3	P3-U0	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P0-U3	P2-U0	P1-U0	P3-U3	
+Periodo 2:	P0-U3	P0-U1	P0-U1	P3-U0	P1-U0	
+Periodo 3:	P0-U3	P1-U1	P1-U3	P3-U1	P2-U2	
+Periodo 4:	P1-U1	P3-U3	P2-U1	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P0-U1	P0-U2	
+Periodo 6:	P0-U0	P0-U1	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 8 Intentos: 0
+######################################################################
+Fuente 20:
+Salon 1:
+Periodo 1:	P3-U3	P1-U1	P1-U2	P0-U1	P2-U2	
+Periodo 2:	P1-U2	P1-U1	P1-U2	P0-U1	P2-U3	
+Periodo 3:	P1-U0	P2-U0	P3-U3	P1-U0	P0-U0	
+Periodo 4:	P2-U0	P2-U1	P2-U3	P2-U1	P3-U2	
+Periodo 5:	P3-U0	P1-U0	P2-U3	P1-U0	P1-U2	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P0-U3	P2-U2	P0-U3	P2-U0	P0-U1	
+Periodo 2:	P2-U0	P2-U2	P2-U3	P0-U3	P3-U2	
+Periodo 3:	P3-U1	P0-U2	P0-U3	P2-U3	P1-U0	
+Periodo 4:	P0-U3	P0-U3	P0-U2	P0-U2	P1-U2	
+Periodo 5:	P0-U2	P0-U2	P3-U0	P3-U0	P2-U1	
+Periodo 6:	P2-U0	P1-U1	P0-U0	P2-U1	P0-U1	
+Salon 3:
+Periodo 1:	P2-U2	P3-U3	P3-U3	P3-U3	P1-U2	
+Periodo 2:	P3-U3	P3-U0	P3-U1	P1-U2	P0-U2	
+Periodo 3:	P2-U3	P3-U3	P1-U0	P0-U2	P3-U1	
+Periodo 4:	P3-U1	P1-U2	P3-U2	P3-U3	P2-U2	
+Periodo 5:	P2-U1	P2-U2	P0-U2	P2-U3	P3-U2	
+Periodo 6:	P3-U1	P3-U2	P2-U3	P3-U3	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P0-U0	P2-U2	P1-U0	P3-U3	
+Periodo 2:	P2-U0	P0-U1	P0-U1	P3-U0	P1-U0	
+Periodo 3:	P0-U3	P1-U3	P1-U3	P3-U1	P2-U2	
+Periodo 4:	P1-U1	P3-U3	P2-U0	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P0-U1	P0-U3	
+Periodo 6:	P0-U0	P0-U1	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 8 Intentos: 20
+######################################################################
+Fuente 21:
+Salon 1:
+Periodo 1:	P3-U3	P1-U1	P1-U2	P0-U2	P2-U3	
+Periodo 2:	P2-U2	P1-U1	P1-U2	P2-U2	P2-U2	
+Periodo 3:	P1-U0	P0-U3	P0-U3	P1-U0	P0-U0	
+Periodo 4:	P2-U0	P2-U1	P2-U3	P2-U1	P3-U2	
+Periodo 5:	P3-U1	P1-U0	P2-U3	P1-U0	P1-U2	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P0-U3	P2-U2	P0-U3	P2-U0	P0-U1	
+Periodo 2:	P2-U1	P2-U2	P2-U3	P2-U2	P3-U2	
+Periodo 3:	P0-U1	P2-U0	P2-U3	P2-U0	P1-U0	
+Periodo 4:	P0-U1	P0-U3	P1-U3	P0-U0	P1-U2	
+Periodo 5:	P0-U2	P0-U1	P3-U0	P3-U0	P2-U1	
+Periodo 6:	P2-U0	P1-U2	P0-U3	P2-U1	P0-U1	
+Salon 3:
+Periodo 1:	P2-U2	P1-U0	P3-U3	P3-U3	P1-U2	
+Periodo 2:	P3-U3	P3-U0	P3-U1	P1-U2	P0-U2	
+Periodo 3:	P2-U3	P3-U3	P3-U3	P0-U2	P3-U1	
+Periodo 4:	P3-U1	P1-U2	P3-U2	P3-U3	P2-U2	
+Periodo 5:	P2-U1	P2-U2	P0-U2	P2-U3	P3-U2	
+Periodo 6:	P3-U1	P3-U2	P2-U3	P3-U1	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P0-U3	P2-U0	P1-U0	P3-U3	
+Periodo 2:	P0-U3	P0-U1	P0-U1	P3-U0	P1-U0	
+Periodo 3:	P0-U3	P1-U1	P1-U1	P3-U1	P2-U2	
+Periodo 4:	P1-U1	P3-U3	P0-U0	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P0-U1	P0-U2	
+Periodo 6:	P0-U0	P0-U1	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 8 Intentos: 5
+######################################################################
+Fuente 22:
+Salon 1:
+Periodo 1:	P3-U3	P1-U1	P1-U2	P0-U1	P2-U3	
+Periodo 2:	P1-U3	P1-U3	P1-U2	P2-U2	P2-U3	
+Periodo 3:	P1-U0	P2-U0	P0-U3	P1-U0	P0-U1	
+Periodo 4:	P2-U0	P2-U1	P1-U2	P2-U1	P3-U1	
+Periodo 5:	P3-U0	P1-U0	P2-U3	P1-U0	P1-U2	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P0-U3	P2-U1	P0-U3	P2-U1	P0-U1	
+Periodo 2:	P2-U1	P2-U2	P2-U3	P0-U3	P3-U2	
+Periodo 3:	P3-U1	P2-U0	P2-U3	P2-U0	P1-U0	
+Periodo 4:	P0-U1	P0-U3	P2-U0	P0-U2	P1-U1	
+Periodo 5:	P0-U2	P0-U2	P3-U0	P3-U0	P2-U1	
+Periodo 6:	P2-U0	P1-U2	P0-U3	P2-U1	P0-U1	
+Salon 3:
+Periodo 1:	P2-U2	P3-U3	P3-U0	P3-U3	P1-U2	
+Periodo 2:	P3-U0	P3-U0	P3-U1	P1-U2	P0-U2	
+Periodo 3:	P2-U3	P0-U0	P2-U3	P0-U0	P3-U1	
+Periodo 4:	P3-U0	P1-U2	P3-U1	P3-U3	P2-U2	
+Periodo 5:	P2-U1	P2-U2	P0-U2	P2-U3	P3-U2	
+Periodo 6:	P3-U1	P3-U3	P2-U3	P3-U1	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P0-U2	P2-U0	P1-U0	P3-U3	
+Periodo 2:	P0-U0	P0-U1	P0-U1	P3-U0	P1-U0	
+Periodo 3:	P0-U3	P1-U3	P1-U1	P3-U1	P2-U2	
+Periodo 4:	P1-U1	P3-U3	P0-U0	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P0-U1	P0-U2	
+Periodo 6:	P0-U0	P0-U1	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 8 Intentos: 1
+######################################################################
+Fuente 23:
+Salon 1:
+Periodo 1:	P3-U3	P1-U1	P1-U2	P0-U1	P2-U3	
+Periodo 2:	P1-U3	P1-U1	P1-U2	P0-U1	P2-U3	
+Periodo 3:	P1-U0	P0-U1	P3-U3	P1-U0	P0-U3	
+Periodo 4:	P2-U0	P2-U1	P1-U2	P2-U1	P3-U2	
+Periodo 5:	P3-U0	P1-U0	P2-U3	P1-U0	P1-U2	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P0-U3	P2-U2	P0-U3	P2-U0	P0-U1	
+Periodo 2:	P2-U0	P2-U3	P2-U3	P0-U3	P3-U2	
+Periodo 3:	P3-U1	P2-U0	P2-U2	P2-U3	P1-U0	
+Periodo 4:	P0-U1	P0-U3	P2-U0	P0-U2	P1-U1	
+Periodo 5:	P0-U1	P0-U2	P3-U0	P3-U0	P2-U1	
+Periodo 6:	P2-U0	P1-U2	P0-U3	P2-U2	P0-U1	
+Salon 3:
+Periodo 1:	P2-U2	P3-U0	P3-U3	P3-U3	P1-U2	
+Periodo 2:	P3-U3	P3-U0	P3-U1	P1-U2	P0-U2	
+Periodo 3:	P2-U3	P3-U3	P2-U3	P0-U2	P3-U1	
+Periodo 4:	P3-U1	P1-U2	P3-U1	P3-U3	P2-U2	
+Periodo 5:	P2-U1	P2-U2	P0-U2	P2-U3	P3-U2	
+Periodo 6:	P3-U1	P3-U2	P2-U3	P3-U3	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P0-U3	P2-U0	P1-U0	P3-U3	
+Periodo 2:	P0-U3	P0-U1	P0-U1	P3-U0	P1-U0	
+Periodo 3:	P0-U3	P1-U1	P1-U3	P3-U1	P2-U2	
+Periodo 4:	P1-U1	P3-U3	P2-U0	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P0-U1	P0-U2	
+Periodo 6:	P0-U0	P0-U1	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 7 Intentos: 0
+######################################################################
+Fuente 24:
+Salon 1:
+Periodo 1:	P3-U3	P1-U1	P2-U3	P0-U1	P2-U2	
+Periodo 2:	P1-U3	P1-U1	P1-U2	P0-U1	P2-U3	
+Periodo 3:	P1-U0	P0-U3	P3-U3	P1-U2	P0-U1	
+Periodo 4:	P2-U0	P2-U1	P2-U3	P2-U1	P3-U2	
+Periodo 5:	P3-U1	P1-U0	P2-U3	P1-U0	P1-U2	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P0-U3	P2-U2	P0-U3	P2-U0	P0-U1	
+Periodo 2:	P2-U1	P2-U2	P2-U3	P0-U3	P3-U2	
+Periodo 3:	P1-U3	P2-U0	P0-U3	P2-U3	P1-U0	
+Periodo 4:	P0-U3	P0-U3	P2-U0	P0-U0	P1-U2	
+Periodo 5:	P0-U2	P0-U2	P3-U0	P3-U0	P2-U1	
+Periodo 6:	P2-U0	P1-U1	P0-U0	P2-U2	P0-U1	
+Salon 3:
+Periodo 1:	P2-U2	P3-U3	P3-U0	P3-U3	P1-U2	
+Periodo 2:	P3-U3	P3-U0	P3-U1	P1-U2	P0-U2	
+Periodo 3:	P2-U3	P3-U3	P3-U3	P0-U2	P3-U1	
+Periodo 4:	P3-U1	P1-U2	P3-U2	P3-U3	P2-U2	
+Periodo 5:	P2-U1	P2-U2	P0-U2	P2-U3	P3-U2	
+Periodo 6:	P3-U1	P3-U2	P2-U3	P3-U1	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P0-U2	P1-U3	P1-U0	P3-U3	
+Periodo 2:	P0-U3	P0-U1	P0-U1	P3-U0	P1-U0	
+Periodo 3:	P0-U3	P1-U1	P1-U3	P3-U1	P2-U2	
+Periodo 4:	P1-U1	P3-U3	P2-U0	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P0-U1	P0-U2	
+Periodo 6:	P0-U1	P0-U1	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 7 Intentos: 47
+######################################################################
+Fuente 25:
+Salon 1:
+Periodo 1:	P3-U3	P1-U1	P1-U2	P0-U0	P2-U3	
+Periodo 2:	P1-U3	P1-U1	P1-U3	P0-U3	P2-U2	
+Periodo 3:	P1-U0	P2-U0	P0-U0	P1-U0	P0-U1	
+Periodo 4:	P2-U0	P2-U1	P0-U1	P2-U1	P3-U2	
+Periodo 5:	P3-U1	P1-U0	P2-U3	P1-U0	P1-U2	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P0-U3	P2-U1	P0-U3	P2-U0	P0-U1	
+Periodo 2:	P2-U0	P2-U2	P2-U3	P2-U2	P3-U1	
+Periodo 3:	P3-U1	P0-U2	P3-U0	P2-U3	P1-U0	
+Periodo 4:	P0-U3	P0-U3	P2-U0	P0-U2	P1-U1	
+Periodo 5:	P0-U2	P0-U2	P3-U0	P2-U3	P2-U1	
+Periodo 6:	P2-U0	P1-U2	P0-U0	P2-U1	P0-U1	
+Salon 3:
+Periodo 1:	P2-U2	P3-U3	P3-U3	P3-U0	P1-U2	
+Periodo 2:	P3-U3	P3-U0	P3-U1	P1-U2	P0-U2	
+Periodo 3:	P2-U3	P3-U3	P1-U0	P0-U2	P3-U1	
+Periodo 4:	P3-U1	P1-U2	P3-U1	P3-U3	P2-U0	
+Periodo 5:	P2-U1	P2-U2	P0-U2	P3-U1	P3-U2	
+Periodo 6:	P3-U1	P3-U3	P2-U3	P3-U1	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P0-U0	P2-U2	P1-U0	P3-U3	
+Periodo 2:	P0-U3	P0-U1	P0-U1	P3-U0	P1-U0	
+Periodo 3:	P0-U3	P1-U1	P2-U3	P3-U1	P2-U2	
+Periodo 4:	P1-U1	P3-U3	P2-U1	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P0-U1	P0-U2	
+Periodo 6:	P0-U0	P0-U1	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 7 Intentos: 8
+######################################################################
+Fuente 26:
+Salon 1:
+Periodo 1:	P3-U3	P1-U1	P1-U2	P0-U2	P2-U3	
+Periodo 2:	P1-U3	P1-U1	P1-U2	P0-U3	P2-U2	
+Periodo 3:	P1-U0	P2-U0	P3-U3	P1-U0	P0-U1	
+Periodo 4:	P2-U0	P2-U1	P0-U1	P2-U1	P3-U2	
+Periodo 5:	P3-U1	P1-U0	P2-U3	P1-U0	P1-U2	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P0-U3	P2-U2	P0-U3	P2-U0	P0-U1	
+Periodo 2:	P2-U0	P2-U2	P2-U3	P0-U3	P3-U2	
+Periodo 3:	P3-U1	P2-U0	P0-U3	P2-U0	P1-U0	
+Periodo 4:	P0-U1	P0-U3	P3-U1	P0-U2	P1-U2	
+Periodo 5:	P0-U2	P0-U2	P3-U0	P2-U3	P2-U1	
+Periodo 6:	P2-U0	P1-U2	P0-U0	P2-U1	P0-U1	
+Salon 3:
+Periodo 1:	P2-U2	P3-U3	P3-U3	P3-U3	P1-U3	
+Periodo 2:	P3-U3	P3-U0	P3-U1	P1-U2	P0-U2	
+Periodo 3:	P2-U3	P3-U3	P1-U0	P0-U2	P3-U0	
+Periodo 4:	P3-U1	P1-U2	P2-U1	P3-U3	P2-U2	
+Periodo 5:	P2-U1	P2-U2	P0-U2	P3-U1	P3-U2	
+Periodo 6:	P3-U1	P3-U3	P2-U3	P3-U1	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P0-U0	P2-U0	P1-U0	P3-U3	
+Periodo 2:	P0-U3	P0-U1	P0-U1	P3-U0	P1-U0	
+Periodo 3:	P0-U3	P1-U3	P1-U3	P3-U1	P2-U2	
+Periodo 4:	P1-U1	P3-U3	P2-U0	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P0-U1	P0-U2	
+Periodo 6:	P0-U0	P0-U1	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 7 Intentos: 33
+######################################################################
+Fuente 27:
+Salon 1:
+Periodo 1:	P3-U3	P1-U1	P1-U2	P0-U1	P2-U3	
+Periodo 2:	P1-U3	P1-U0	P1-U2	P2-U2	P2-U3	
+Periodo 3:	P3-U0	P0-U1	P3-U3	P2-U1	P0-U1	
+Periodo 4:	P2-U0	P2-U1	P2-U3	P2-U1	P3-U2	
+Periodo 5:	P3-U1	P1-U0	P2-U3	P1-U0	P1-U2	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P0-U3	P2-U2	P0-U3	P2-U0	P0-U1	
+Periodo 2:	P2-U0	P2-U2	P2-U3	P0-U3	P3-U2	
+Periodo 3:	P3-U1	P2-U0	P0-U3	P2-U3	P1-U0	
+Periodo 4:	P0-U3	P0-U3	P1-U1	P0-U2	P1-U2	
+Periodo 5:	P0-U2	P0-U2	P3-U0	P3-U0	P2-U1	
+Periodo 6:	P2-U0	P1-U2	P0-U3	P2-U2	P0-U1	
+Salon 3:
+Periodo 1:	P2-U2	P3-U0	P3-U3	P3-U3	P1-U2	
+Periodo 2:	P3-U3	P3-U0	P3-U1	P1-U2	P0-U2	
+Periodo 3:	P2-U3	P3-U3	P1-U0	P0-U2	P3-U0	
+Periodo 4:	P3-U0	P1-U2	P2-U1	P3-U3	P2-U2	
+Periodo 5:	P2-U1	P2-U2	P0-U0	P2-U3	P3-U2	
+Periodo 6:	P3-U1	P3-U2	P2-U3	P3-U1	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P0-U0	P1-U3	P1-U0	P3-U3	
+Periodo 2:	P0-U3	P0-U1	P0-U1	P3-U0	P1-U0	
+Periodo 3:	P0-U3	P1-U1	P1-U3	P3-U1	P2-U2	
+Periodo 4:	P1-U1	P3-U3	P0-U0	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P0-U1	P0-U2	
+Periodo 6:	P0-U0	P0-U1	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 7 Intentos: 41
+######################################################################
+Fuente 28:
+Salon 1:
+Periodo 1:	P3-U3	P1-U1	P1-U2	P0-U1	P2-U3	
+Periodo 2:	P1-U3	P1-U1	P1-U2	P0-U3	P2-U2	
+Periodo 3:	P1-U0	P2-U0	P0-U3	P1-U2	P0-U1	
+Periodo 4:	P2-U0	P2-U1	P0-U1	P2-U1	P3-U3	
+Periodo 5:	P3-U1	P1-U0	P2-U3	P1-U0	P1-U2	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P0-U3	P2-U2	P0-U3	P2-U1	P0-U1	
+Periodo 2:	P2-U3	P2-U2	P2-U3	P1-U1	P3-U1	
+Periodo 3:	P3-U1	P0-U2	P2-U3	P2-U0	P1-U0	
+Periodo 4:	P0-U1	P0-U3	P1-U3	P0-U2	P1-U1	
+Periodo 5:	P0-U2	P0-U2	P3-U0	P3-U0	P2-U0	
+Periodo 6:	P2-U0	P1-U2	P0-U0	P2-U2	P0-U1	
+Salon 3:
+Periodo 1:	P2-U2	P3-U3	P3-U3	P3-U3	P1-U2	
+Periodo 2:	P3-U3	P3-U0	P3-U1	P2-U1	P0-U2	
+Periodo 3:	P2-U3	P3-U3	P1-U0	P0-U2	P3-U0	
+Periodo 4:	P3-U0	P1-U2	P3-U1	P3-U3	P2-U2	
+Periodo 5:	P2-U1	P2-U2	P0-U2	P2-U3	P3-U2	
+Periodo 6:	P3-U1	P3-U2	P2-U3	P3-U1	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P0-U2	P2-U2	P1-U0	P3-U3	
+Periodo 2:	P0-U0	P0-U1	P0-U1	P3-U0	P1-U0	
+Periodo 3:	P0-U3	P1-U3	P2-U3	P3-U1	P2-U2	
+Periodo 4:	P1-U1	P3-U3	P2-U0	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U1	P1-U1	P0-U1	P0-U3	
+Periodo 6:	P0-U1	P0-U1	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 6 Intentos: 1
+######################################################################
+Fuente 29:
+Salon 1:
+Periodo 1:	P3-U3	P1-U1	P1-U2	P0-U1	P2-U2	
+Periodo 2:	P1-U3	P1-U3	P1-U2	P2-U2	P2-U3	
+Periodo 3:	P1-U0	P0-U3	P3-U3	P1-U0	P0-U1	
+Periodo 4:	P2-U2	P2-U1	P1-U2	P2-U1	P3-U2	
+Periodo 5:	P3-U1	P1-U0	P2-U3	P1-U0	P1-U2	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P0-U3	P2-U1	P0-U3	P2-U0	P0-U1	
+Periodo 2:	P2-U0	P2-U3	P2-U3	P0-U3	P3-U2	
+Periodo 3:	P3-U1	P2-U0	P2-U3	P2-U3	P1-U0	
+Periodo 4:	P0-U3	P0-U3	P1-U1	P0-U2	P1-U2	
+Periodo 5:	P0-U2	P0-U2	P3-U0	P3-U0	P2-U1	
+Periodo 6:	P2-U0	P1-U1	P0-U0	P2-U1	P0-U1	
+Salon 3:
+Periodo 1:	P2-U2	P3-U3	P3-U3	P3-U3	P1-U2	
+Periodo 2:	P3-U3	P3-U0	P3-U1	P1-U2	P0-U2	
+Periodo 3:	P2-U3	P3-U3	P3-U3	P0-U2	P3-U1	
+Periodo 4:	P3-U1	P1-U2	P3-U2	P3-U3	P2-U2	
+Periodo 5:	P2-U1	P2-U2	P0-U2	P2-U3	P3-U2	
+Periodo 6:	P3-U1	P3-U2	P2-U3	P3-U1	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P0-U2	P2-U0	P1-U0	P3-U3	
+Periodo 2:	P0-U3	P0-U1	P0-U1	P3-U0	P1-U0	
+Periodo 3:	P0-U0	P1-U3	P0-U2	P3-U1	P2-U2	
+Periodo 4:	P1-U1	P3-U3	P0-U0	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P0-U1	P0-U2	
+Periodo 6:	P0-U1	P0-U1	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 6 Intentos: 4
+######################################################################
+Fuente 30:
+Salon 1:
+Periodo 1:	P3-U3	P1-U1	P1-U2	P0-U0	P2-U2	
+Periodo 2:	P1-U3	P1-U1	P1-U2	P2-U2	P2-U2	
+Periodo 3:	P1-U0	P2-U3	P3-U3	P1-U2	P0-U1	
+Periodo 4:	P2-U0	P2-U1	P0-U1	P2-U1	P3-U2	
+Periodo 5:	P3-U0	P1-U0	P2-U3	P1-U0	P1-U2	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P0-U3	P2-U2	P0-U3	P2-U1	P0-U1	
+Periodo 2:	P2-U0	P2-U3	P2-U3	P0-U3	P3-U2	
+Periodo 3:	P3-U1	P0-U2	P2-U2	P2-U0	P1-U0	
+Periodo 4:	P0-U3	P0-U3	P1-U1	P0-U2	P1-U1	
+Periodo 5:	P0-U2	P0-U2	P3-U1	P2-U3	P2-U1	
+Periodo 6:	P2-U0	P1-U2	P0-U3	P2-U1	P0-U1	
+Salon 3:
+Periodo 1:	P2-U2	P3-U3	P3-U3	P3-U3	P1-U2	
+Periodo 2:	P3-U3	P3-U0	P3-U1	P1-U2	P0-U2	
+Periodo 3:	P2-U3	P3-U3	P1-U0	P0-U2	P3-U0	
+Periodo 4:	P3-U1	P1-U2	P3-U1	P3-U3	P2-U0	
+Periodo 5:	P2-U1	P2-U2	P0-U2	P3-U1	P3-U2	
+Periodo 6:	P3-U1	P3-U3	P2-U3	P3-U1	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P0-U0	P2-U0	P1-U0	P3-U3	
+Periodo 2:	P0-U3	P0-U1	P0-U1	P3-U0	P1-U0	
+Periodo 3:	P0-U3	P1-U1	P1-U3	P3-U1	P2-U2	
+Periodo 4:	P1-U1	P3-U3	P2-U0	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P0-U1	P0-U3	
+Periodo 6:	P0-U1	P0-U1	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 6 Intentos: 33
+######################################################################
+Fuente 31:
+Salon 1:
+Periodo 1:	P3-U3	P0-U2	P2-U3	P0-U1	P2-U2	
+Periodo 2:	P1-U3	P1-U1	P1-U2	P2-U2	P2-U3	
+Periodo 3:	P1-U0	P2-U0	P3-U3	P1-U2	P0-U0	
+Periodo 4:	P2-U0	P2-U1	P0-U1	P2-U1	P3-U3	
+Periodo 5:	P3-U1	P1-U0	P2-U3	P1-U0	P1-U1	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P0-U3	P2-U2	P0-U3	P2-U0	P0-U1	
+Periodo 2:	P2-U0	P2-U3	P2-U3	P2-U2	P3-U2	
+Periodo 3:	P3-U1	P0-U2	P0-U3	P2-U3	P1-U0	
+Periodo 4:	P0-U1	P0-U3	P1-U3	P0-U0	P1-U2	
+Periodo 5:	P0-U2	P0-U2	P3-U0	P3-U0	P2-U1	
+Periodo 6:	P2-U0	P1-U2	P0-U0	P2-U2	P0-U1	
+Salon 3:
+Periodo 1:	P2-U2	P3-U3	P3-U0	P3-U3	P1-U2	
+Periodo 2:	P3-U3	P3-U0	P3-U1	P1-U2	P0-U2	
+Periodo 3:	P2-U3	P3-U3	P1-U0	P0-U2	P3-U0	
+Periodo 4:	P3-U1	P1-U2	P3-U2	P3-U3	P2-U2	
+Periodo 5:	P2-U1	P2-U2	P0-U2	P2-U3	P3-U2	
+Periodo 6:	P3-U1	P3-U3	P2-U3	P3-U1	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P0-U0	P1-U3	P1-U0	P3-U3	
+Periodo 2:	P0-U3	P0-U1	P0-U1	P3-U0	P1-U0	
+Periodo 3:	P0-U0	P1-U3	P1-U3	P3-U1	P2-U2	
+Periodo 4:	P1-U1	P3-U3	P2-U0	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P0-U1	P0-U2	
+Periodo 6:	P0-U1	P0-U1	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 6 Intentos: 41
+######################################################################
+Fuente 32:
+Salon 1:
+Periodo 1:	P3-U3	P1-U1	P1-U2	P0-U0	P2-U3	
+Periodo 2:	P1-U3	P1-U1	P1-U2	P2-U2	P2-U3	
+Periodo 3:	P3-U0	P0-U1	P0-U3	P1-U0	P0-U1	
+Periodo 4:	P2-U0	P2-U1	P0-U1	P2-U1	P3-U2	
+Periodo 5:	P3-U1	P1-U0	P2-U3	P1-U0	P1-U2	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P0-U3	P2-U2	P0-U3	P2-U0	P0-U1	
+Periodo 2:	P2-U1	P2-U3	P2-U3	P0-U3	P0-U1	
+Periodo 3:	P1-U3	P2-U0	P2-U3	P2-U3	P1-U0	
+Periodo 4:	P0-U3	P0-U3	P2-U0	P0-U0	P1-U2	
+Periodo 5:	P0-U1	P0-U2	P3-U0	P3-U0	P2-U1	
+Periodo 6:	P2-U0	P1-U1	P0-U0	P2-U1	P0-U1	
+Salon 3:
+Periodo 1:	P2-U2	P3-U3	P3-U3	P3-U3	P1-U2	
+Periodo 2:	P3-U3	P3-U3	P3-U1	P1-U2	P3-U3	
+Periodo 3:	P2-U3	P3-U3	P3-U3	P0-U2	P3-U1	
+Periodo 4:	P3-U0	P1-U2	P3-U1	P3-U3	P2-U2	
+Periodo 5:	P2-U1	P2-U2	P0-U2	P2-U3	P3-U2	
+Periodo 6:	P3-U1	P3-U2	P2-U3	P3-U1	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P0-U2	P2-U0	P1-U0	P3-U3	
+Periodo 2:	P0-U0	P0-U1	P0-U1	P3-U0	P1-U0	
+Periodo 3:	P0-U3	P1-U3	P1-U3	P3-U1	P2-U2	
+Periodo 4:	P1-U1	P3-U3	P2-U0	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P0-U1	P0-U2	
+Periodo 6:	P0-U1	P0-U1	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 6 Intentos: 35
+######################################################################
+Fuente 33:
+Salon 1:
+Periodo 1:	P3-U3	P1-U1	P1-U2	P0-U2	P2-U3	
+Periodo 2:	P1-U3	P1-U1	P1-U2	P0-U3	P2-U2	
+Periodo 3:	P1-U0	P2-U0	P3-U3	P1-U0	P0-U1	
+Periodo 4:	P2-U0	P2-U1	P0-U1	P2-U1	P3-U2	
+Periodo 5:	P3-U1	P1-U0	P2-U3	P1-U0	P1-U1	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P0-U3	P2-U2	P0-U3	P2-U0	P0-U1	
+Periodo 2:	P2-U0	P2-U3	P2-U3	P0-U3	P3-U2	
+Periodo 3:	P3-U1	P2-U0	P0-U3	P2-U3	P1-U0	
+Periodo 4:	P0-U3	P0-U3	P3-U1	P0-U2	P1-U2	
+Periodo 5:	P0-U2	P0-U2	P3-U0	P3-U0	P2-U1	
+Periodo 6:	P2-U0	P1-U2	P0-U0	P2-U1	P0-U1	
+Salon 3:
+Periodo 1:	P2-U2	P3-U3	P3-U3	P3-U3	P1-U2	
+Periodo 2:	P3-U3	P3-U0	P3-U1	P1-U2	P0-U2	
+Periodo 3:	P2-U3	P3-U3	P1-U0	P0-U2	P3-U1	
+Periodo 4:	P3-U1	P1-U2	P2-U1	P3-U3	P2-U2	
+Periodo 5:	P2-U1	P2-U2	P0-U2	P2-U3	P3-U2	
+Periodo 6:	P3-U1	P3-U2	P2-U3	P3-U1	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P0-U0	P2-U0	P1-U0	P3-U3	
+Periodo 2:	P0-U3	P0-U1	P0-U1	P3-U0	P1-U0	
+Periodo 3:	P0-U3	P1-U3	P1-U3	P3-U1	P2-U2	
+Periodo 4:	P1-U1	P3-U3	P2-U1	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P0-U1	P0-U2	
+Periodo 6:	P0-U0	P0-U1	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 6 Intentos: 41
+######################################################################
+Fuente 34:
+Salon 1:
+Periodo 1:	P3-U3	P1-U1	P1-U2	P0-U1	P2-U3	
+Periodo 2:	P1-U3	P1-U3	P1-U2	P0-U1	P2-U3	
+Periodo 3:	P3-U0	P2-U0	P3-U3	P1-U2	P0-U1	
+Periodo 4:	P2-U0	P2-U1	P1-U2	P2-U1	P3-U3	
+Periodo 5:	P3-U0	P1-U0	P2-U3	P1-U0	P1-U2	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P0-U3	P2-U1	P0-U3	P2-U0	P0-U1	
+Periodo 2:	P2-U0	P2-U2	P2-U3	P0-U3	P3-U2	
+Periodo 3:	P3-U1	P0-U2	P0-U3	P2-U3	P1-U0	
+Periodo 4:	P0-U1	P0-U3	P0-U2	P0-U2	P1-U2	
+Periodo 5:	P0-U2	P0-U2	P3-U0	P3-U0	P2-U1	
+Periodo 6:	P2-U0	P1-U2	P0-U3	P2-U1	P0-U1	
+Salon 3:
+Periodo 1:	P2-U2	P3-U3	P3-U0	P3-U0	P1-U2	
+Periodo 2:	P3-U3	P3-U0	P3-U1	P1-U2	P0-U2	
+Periodo 3:	P2-U3	P3-U3	P1-U0	P0-U2	P3-U1	
+Periodo 4:	P3-U1	P1-U2	P3-U1	P3-U3	P2-U2	
+Periodo 5:	P2-U1	P2-U0	P0-U2	P2-U3	P3-U2	
+Periodo 6:	P3-U1	P3-U3	P2-U3	P3-U0	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P0-U2	P2-U0	P1-U3	P3-U3	
+Periodo 2:	P0-U3	P0-U1	P0-U1	P3-U0	P1-U0	
+Periodo 3:	P0-U3	P1-U1	P1-U3	P3-U1	P2-U2	
+Periodo 4:	P1-U1	P3-U3	P2-U1	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P0-U1	P0-U2	
+Periodo 6:	P0-U0	P0-U1	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 6 Intentos: 32
+######################################################################
+Fuente 35:
+Salon 1:
+Periodo 1:	P3-U3	P1-U1	P1-U2	P0-U1	P2-U3	
+Periodo 2:	P1-U2	P1-U1	P1-U2	P0-U3	P2-U3	
+Periodo 3:	P1-U0	P2-U0	P3-U3	P1-U0	P0-U1	
+Periodo 4:	P2-U0	P2-U1	P0-U1	P2-U1	P3-U2	
+Periodo 5:	P3-U0	P1-U0	P2-U3	P3-U2	P1-U2	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P0-U3	P2-U1	P0-U2	P2-U1	P0-U1	
+Periodo 2:	P2-U0	P2-U2	P2-U3	P0-U3	P3-U1	
+Periodo 3:	P3-U1	P0-U2	P2-U2	P2-U3	P1-U0	
+Periodo 4:	P0-U1	P0-U3	P1-U1	P0-U2	P1-U1	
+Periodo 5:	P0-U2	P0-U2	P3-U0	P2-U3	P2-U1	
+Periodo 6:	P2-U0	P1-U2	P0-U0	P2-U1	P0-U1	
+Salon 3:
+Periodo 1:	P2-U2	P3-U3	P3-U3	P3-U3	P1-U2	
+Periodo 2:	P3-U3	P3-U0	P3-U1	P1-U2	P0-U2	
+Periodo 3:	P2-U3	P3-U3	P1-U0	P0-U2	P3-U1	
+Periodo 4:	P3-U1	P1-U2	P3-U1	P3-U3	P2-U2	
+Periodo 5:	P2-U1	P2-U2	P0-U2	P2-U3	P3-U2	
+Periodo 6:	P3-U1	P3-U3	P2-U3	P3-U1	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P0-U0	P2-U0	P1-U0	P3-U3	
+Periodo 2:	P0-U0	P0-U1	P0-U1	P3-U0	P1-U0	
+Periodo 3:	P0-U3	P1-U3	P1-U3	P3-U1	P2-U2	
+Periodo 4:	P1-U1	P3-U3	P2-U1	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P0-U1	P0-U2	
+Periodo 6:	P0-U1	P0-U1	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 6 Intentos: 23
+######################################################################
+Fuente 36:
+Salon 1:
+Periodo 1:	P3-U3	P1-U1	P1-U2	P0-U1	P2-U3	
+Periodo 2:	P1-U3	P1-U1	P1-U2	P2-U2	P2-U2	
+Periodo 3:	P3-U0	P0-U1	P0-U3	P1-U0	P0-U3	
+Periodo 4:	P2-U0	P2-U1	P0-U1	P2-U1	P3-U2	
+Periodo 5:	P3-U0	P1-U0	P2-U3	P1-U0	P1-U2	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P0-U3	P2-U2	P0-U3	P2-U0	P0-U1	
+Periodo 2:	P2-U0	P2-U2	P2-U3	P0-U3	P3-U2	
+Periodo 3:	P3-U1	P2-U0	P2-U2	P2-U3	P1-U0	
+Periodo 4:	P0-U1	P0-U3	P1-U3	P0-U2	P1-U2	
+Periodo 5:	P0-U2	P0-U2	P3-U1	P3-U0	P2-U1	
+Periodo 6:	P2-U0	P1-U1	P0-U3	P2-U1	P0-U1	
+Salon 3:
+Periodo 1:	P2-U2	P3-U3	P3-U3	P3-U3	P1-U2	
+Periodo 2:	P3-U3	P3-U0	P3-U1	P1-U2	P0-U2	
+Periodo 3:	P2-U3	P3-U3	P3-U3	P0-U0	P3-U1	
+Periodo 4:	P3-U0	P1-U2	P3-U1	P3-U3	P2-U2	
+Periodo 5:	P2-U1	P2-U2	P0-U2	P2-U3	P3-U2	
+Periodo 6:	P3-U1	P3-U2	P2-U3	P3-U0	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P0-U3	P2-U0	P1-U0	P3-U0	
+Periodo 2:	P0-U0	P0-U1	P0-U1	P3-U0	P1-U0	
+Periodo 3:	P0-U3	P1-U1	P1-U3	P3-U1	P2-U2	
+Periodo 4:	P1-U1	P3-U3	P2-U0	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P0-U1	P0-U3	
+Periodo 6:	P0-U0	P0-U1	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 6 Intentos: 16
+######################################################################
+Fuente 37:
+Salon 1:
+Periodo 1:	P3-U3	P1-U1	P1-U2	P0-U1	P2-U3	
+Periodo 2:	P1-U3	P1-U1	P1-U2	P2-U2	P2-U2	
+Periodo 3:	P1-U0	P0-U3	P0-U0	P2-U1	P0-U0	
+Periodo 4:	P2-U0	P2-U1	P0-U1	P2-U1	P3-U2	
+Periodo 5:	P3-U1	P1-U0	P2-U3	P1-U0	P1-U2	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P0-U3	P2-U2	P0-U3	P2-U0	P0-U1	
+Periodo 2:	P2-U1	P2-U2	P2-U3	P0-U3	P3-U1	
+Periodo 3:	P3-U1	P2-U0	P0-U1	P3-U2	P1-U0	
+Periodo 4:	P0-U3	P0-U3	P1-U1	P0-U0	P1-U1	
+Periodo 5:	P0-U2	P0-U2	P3-U0	P3-U0	P2-U1	
+Periodo 6:	P2-U0	P1-U2	P0-U0	P2-U2	P0-U1	
+Salon 3:
+Periodo 1:	P2-U2	P3-U3	P3-U3	P3-U3	P1-U2	
+Periodo 2:	P3-U3	P3-U0	P3-U1	P1-U2	P0-U2	
+Periodo 3:	P2-U3	P3-U3	P2-U3	P0-U2	P3-U0	
+Periodo 4:	P3-U0	P1-U2	P3-U1	P3-U3	P2-U2	
+Periodo 5:	P2-U1	P2-U2	P0-U2	P2-U3	P3-U2	
+Periodo 6:	P3-U1	P3-U2	P2-U3	P3-U1	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P0-U2	P2-U0	P1-U0	P3-U3	
+Periodo 2:	P0-U3	P0-U1	P0-U1	P3-U0	P1-U0	
+Periodo 3:	P0-U3	P1-U3	P1-U3	P3-U1	P2-U2	
+Periodo 4:	P1-U1	P3-U3	P2-U1	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P0-U1	P0-U3	
+Periodo 6:	P0-U0	P0-U1	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 6 Intentos: 41
+######################################################################
+Fuente 38:
+Salon 1:
+Periodo 1:	P3-U3	P1-U1	P1-U2	P0-U2	P2-U3	
+Periodo 2:	P1-U3	P1-U1	P1-U2	P2-U2	P2-U2	
+Periodo 3:	P1-U0	P0-U3	P3-U3	P2-U1	P0-U1	
+Periodo 4:	P2-U0	P2-U1	P0-U1	P2-U1	P3-U2	
+Periodo 5:	P3-U0	P1-U0	P2-U3	P1-U0	P1-U2	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P0-U3	P2-U2	P0-U2	P2-U1	P0-U1	
+Periodo 2:	P2-U0	P2-U3	P2-U3	P0-U3	P3-U2	
+Periodo 3:	P3-U1	P2-U0	P0-U3	P1-U1	P1-U0	
+Periodo 4:	P0-U1	P0-U3	P1-U1	P0-U2	P1-U2	
+Periodo 5:	P0-U2	P0-U2	P3-U0	P3-U0	P2-U1	
+Periodo 6:	P2-U0	P1-U2	P0-U3	P2-U2	P0-U1	
+Salon 3:
+Periodo 1:	P2-U2	P3-U3	P3-U3	P3-U3	P1-U2	
+Periodo 2:	P3-U3	P3-U0	P3-U1	P1-U2	P0-U2	
+Periodo 3:	P2-U3	P3-U3	P3-U3	P0-U0	P3-U1	
+Periodo 4:	P3-U1	P1-U2	P3-U1	P3-U3	P2-U2	
+Periodo 5:	P2-U1	P2-U2	P0-U2	P3-U1	P3-U2	
+Periodo 6:	P3-U1	P3-U3	P2-U3	P3-U0	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P0-U2	P2-U0	P1-U0	P3-U3	
+Periodo 2:	P0-U0	P0-U1	P0-U0	P3-U0	P1-U0	
+Periodo 3:	P0-U3	P1-U3	P1-U3	P3-U1	P2-U2	
+Periodo 4:	P1-U1	P3-U3	P2-U0	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P0-U1	P0-U2	
+Periodo 6:	P0-U0	P0-U1	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 6 Intentos: 0
+######################################################################
+Fuente 39:
+Salon 1:
+Periodo 1:	P3-U3	P1-U1	P1-U2	P0-U1	P2-U2	
+Periodo 2:	P1-U3	P1-U1	P1-U2	P2-U2	P2-U3	
+Periodo 3:	P1-U0	P0-U3	P0-U3	P1-U0	P0-U1	
+Periodo 4:	P2-U0	P2-U1	P0-U1	P2-U1	P3-U2	
+Periodo 5:	P3-U0	P1-U0	P2-U3	P1-U0	P1-U2	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P0-U3	P2-U2	P0-U3	P2-U0	P0-U1	
+Periodo 2:	P2-U1	P2-U3	P2-U3	P0-U3	P3-U1	
+Periodo 3:	P3-U1	P2-U0	P0-U1	P2-U3	P1-U0	
+Periodo 4:	P0-U3	P0-U3	P1-U3	P0-U2	P1-U1	
+Periodo 5:	P0-U2	P0-U2	P3-U0	P3-U0	P2-U1	
+Periodo 6:	P2-U0	P1-U2	P0-U0	P2-U1	P0-U1	
+Salon 3:
+Periodo 1:	P2-U2	P3-U3	P3-U3	P3-U3	P1-U2	
+Periodo 2:	P3-U3	P3-U0	P3-U1	P1-U2	P0-U2	
+Periodo 3:	P2-U3	P3-U3	P3-U3	P0-U0	P3-U0	
+Periodo 4:	P3-U1	P1-U2	P2-U1	P3-U3	P2-U2	
+Periodo 5:	P2-U1	P2-U2	P0-U2	P2-U3	P3-U2	
+Periodo 6:	P3-U1	P3-U2	P2-U3	P3-U1	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P0-U2	P2-U0	P1-U0	P3-U3	
+Periodo 2:	P0-U3	P0-U1	P0-U1	P3-U0	P1-U0	
+Periodo 3:	P0-U3	P1-U3	P1-U1	P3-U1	P2-U2	
+Periodo 4:	P1-U1	P3-U3	P2-U0	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P0-U1	P0-U2	
+Periodo 6:	P0-U0	P0-U1	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 6 Intentos: 2
+######################################################################
+Fuente 40:
+Salon 1:
+Periodo 1:	P3-U3	P1-U1	P1-U2	P0-U2	P2-U3	
+Periodo 2:	P1-U3	P1-U1	P1-U2	P2-U2	P2-U3	
+Periodo 3:	P1-U0	P2-U0	P3-U1	P1-U0	P0-U1	
+Periodo 4:	P2-U0	P2-U1	P0-U1	P2-U1	P3-U2	
+Periodo 5:	P3-U1	P1-U0	P2-U3	P1-U0	P1-U2	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P0-U3	P2-U2	P0-U3	P2-U0	P0-U1	
+Periodo 2:	P2-U1	P2-U2	P2-U3	P0-U3	P3-U1	
+Periodo 3:	P3-U1	P0-U2	P0-U3	P2-U0	P1-U0	
+Periodo 4:	P0-U3	P0-U3	P1-U3	P0-U2	P1-U1	
+Periodo 5:	P0-U2	P0-U2	P3-U0	P2-U3	P2-U1	
+Periodo 6:	P2-U0	P1-U2	P0-U0	P2-U2	P0-U1	
+Salon 3:
+Periodo 1:	P2-U2	P3-U3	P3-U3	P3-U3	P1-U2	
+Periodo 2:	P3-U3	P3-U0	P3-U1	P1-U2	P0-U2	
+Periodo 3:	P2-U3	P3-U3	P1-U0	P0-U2	P3-U1	
+Periodo 4:	P3-U1	P1-U2	P3-U1	P3-U3	P2-U2	
+Periodo 5:	P2-U1	P2-U2	P0-U2	P2-U3	P3-U2	
+Periodo 6:	P3-U1	P3-U2	P2-U3	P3-U3	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P0-U0	P2-U0	P1-U3	P3-U3	
+Periodo 2:	P0-U3	P0-U1	P0-U1	P3-U0	P1-U0	
+Periodo 3:	P0-U0	P1-U3	P2-U3	P3-U1	P2-U2	
+Periodo 4:	P1-U1	P3-U3	P2-U1	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P0-U1	P0-U3	
+Periodo 6:	P0-U0	P0-U1	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 6 Intentos: 2
+######################################################################
+Fuente 41:
+Salon 1:
+Periodo 1:	P3-U3	P1-U1	P1-U2	P0-U1	P2-U3	
+Periodo 2:	P1-U3	P1-U1	P1-U2	P2-U2	P2-U3	
+Periodo 3:	P1-U2	P2-U3	P3-U3	P1-U2	P0-U1	
+Periodo 4:	P2-U0	P2-U1	P0-U1	P2-U1	P3-U2	
+Periodo 5:	P3-U0	P1-U0	P2-U3	P1-U0	P1-U2	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P0-U3	P2-U2	P0-U3	P2-U0	P0-U1	
+Periodo 2:	P2-U0	P2-U3	P2-U3	P0-U3	P3-U2	
+Periodo 3:	P3-U1	P0-U2	P0-U3	P2-U3	P1-U0	
+Periodo 4:	P0-U3	P0-U3	P3-U1	P0-U0	P1-U2	
+Periodo 5:	P0-U1	P0-U2	P3-U0	P3-U0	P2-U1	
+Periodo 6:	P2-U0	P1-U2	P0-U0	P2-U1	P0-U1	
+Salon 3:
+Periodo 1:	P2-U2	P3-U3	P3-U0	P3-U3	P1-U2	
+Periodo 2:	P3-U3	P3-U0	P3-U1	P1-U2	P0-U2	
+Periodo 3:	P2-U3	P3-U3	P2-U3	P0-U2	P3-U1	
+Periodo 4:	P3-U1	P1-U2	P2-U1	P3-U3	P2-U0	
+Periodo 5:	P2-U1	P2-U2	P0-U2	P2-U3	P3-U2	
+Periodo 6:	P3-U1	P3-U2	P2-U3	P3-U1	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P0-U2	P2-U0	P1-U0	P3-U0	
+Periodo 2:	P0-U0	P0-U1	P0-U1	P3-U0	P1-U0	
+Periodo 3:	P0-U3	P1-U1	P1-U3	P3-U1	P2-U2	
+Periodo 4:	P1-U0	P3-U3	P0-U0	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P0-U1	P0-U2	
+Periodo 6:	P0-U1	P0-U1	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 6 Intentos: 3
+######################################################################
+Fuente 42:
+Salon 1:
+Periodo 1:	P3-U3	P1-U1	P1-U2	P0-U0	P2-U2	
+Periodo 2:	P1-U3	P1-U1	P1-U2	P2-U2	P2-U2	
+Periodo 3:	P1-U0	P2-U0	P3-U3	P1-U2	P0-U0	
+Periodo 4:	P2-U0	P2-U1	P0-U1	P2-U1	P3-U2	
+Periodo 5:	P3-U1	P1-U0	P2-U3	P1-U0	P1-U2	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P0-U3	P2-U2	P0-U3	P2-U1	P0-U1	
+Periodo 2:	P2-U0	P2-U2	P2-U3	P0-U3	P3-U2	
+Periodo 3:	P3-U1	P2-U0	P0-U3	P2-U3	P1-U0	
+Periodo 4:	P0-U1	P0-U3	P1-U1	P0-U2	P1-U2	
+Periodo 5:	P0-U2	P0-U1	P3-U0	P3-U0	P2-U1	
+Periodo 6:	P2-U0	P1-U1	P0-U3	P2-U1	P0-U1	
+Salon 3:
+Periodo 1:	P2-U2	P3-U3	P3-U3	P3-U3	P1-U2	
+Periodo 2:	P3-U3	P3-U0	P3-U1	P1-U2	P0-U2	
+Periodo 3:	P2-U3	P3-U3	P2-U3	P0-U2	P3-U1	
+Periodo 4:	P3-U1	P1-U2	P3-U1	P3-U3	P2-U2	
+Periodo 5:	P2-U1	P2-U2	P0-U2	P2-U3	P3-U2	
+Periodo 6:	P3-U1	P3-U3	P2-U3	P3-U1	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P0-U0	P2-U0	P1-U0	P3-U3	
+Periodo 2:	P0-U3	P0-U1	P0-U1	P3-U0	P1-U0	
+Periodo 3:	P0-U3	P1-U1	P1-U3	P3-U1	P2-U2	
+Periodo 4:	P1-U1	P3-U3	P2-U0	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P0-U1	P0-U2	
+Periodo 6:	P0-U0	P0-U1	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 6 Intentos: 4
+######################################################################
+Fuente 43:
+Salon 1:
+Periodo 1:	P3-U3	P1-U1	P1-U2	P0-U1	P2-U3	
+Periodo 2:	P1-U3	P1-U1	P1-U2	P2-U2	P2-U3	
+Periodo 3:	P1-U0	P0-U3	P0-U3	P1-U2	P0-U1	
+Periodo 4:	P2-U0	P2-U1	P0-U1	P2-U1	P3-U2	
+Periodo 5:	P3-U1	P1-U0	P2-U3	P1-U0	P1-U2	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P0-U3	P2-U2	P0-U3	P2-U1	P0-U1	
+Periodo 2:	P2-U1	P2-U3	P2-U3	P0-U3	P0-U1	
+Periodo 3:	P3-U1	P2-U0	P2-U3	P3-U2	P1-U0	
+Periodo 4:	P0-U1	P0-U3	P2-U0	P0-U0	P1-U2	
+Periodo 5:	P0-U2	P0-U2	P3-U0	P3-U0	P2-U1	
+Periodo 6:	P2-U0	P1-U1	P0-U0	P2-U1	P0-U1	
+Salon 3:
+Periodo 1:	P2-U2	P1-U3	P3-U3	P3-U3	P1-U2	
+Periodo 2:	P3-U3	P3-U3	P3-U1	P1-U2	P3-U3	
+Periodo 3:	P2-U3	P3-U3	P3-U3	P0-U2	P3-U1	
+Periodo 4:	P3-U1	P1-U2	P3-U1	P3-U3	P2-U0	
+Periodo 5:	P2-U1	P2-U2	P0-U2	P2-U3	P3-U2	
+Periodo 6:	P3-U1	P3-U2	P2-U3	P3-U1	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P0-U2	P2-U0	P1-U0	P3-U3	
+Periodo 2:	P0-U0	P0-U1	P0-U1	P3-U0	P1-U0	
+Periodo 3:	P0-U3	P1-U3	P1-U1	P3-U1	P2-U2	
+Periodo 4:	P1-U1	P3-U3	P2-U0	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P0-U1	P0-U2	
+Periodo 6:	P0-U1	P0-U1	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 6 Intentos: 36
+######################################################################
+Fuente 44:
+Salon 1:
+Periodo 1:	P3-U3	P1-U1	P1-U2	P0-U2	P2-U3	
+Periodo 2:	P1-U2	P1-U1	P1-U2	P2-U2	P2-U2	
+Periodo 3:	P1-U0	P0-U1	P3-U3	P1-U0	P0-U0	
+Periodo 4:	P2-U0	P2-U1	P0-U1	P2-U1	P3-U2	
+Periodo 5:	P3-U1	P1-U0	P2-U3	P1-U0	P1-U2	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P0-U3	P2-U2	P0-U3	P2-U0	P0-U1	
+Periodo 2:	P2-U1	P2-U2	P2-U3	P0-U3	P3-U2	
+Periodo 3:	P3-U1	P2-U0	P0-U3	P3-U2	P1-U0	
+Periodo 4:	P0-U3	P0-U3	P2-U0	P0-U0	P1-U2	
+Periodo 5:	P0-U2	P0-U2	P3-U0	P3-U0	P2-U1	
+Periodo 6:	P2-U0	P1-U2	P0-U3	P2-U2	P0-U1	
+Salon 3:
+Periodo 1:	P2-U2	P3-U0	P3-U3	P3-U3	P1-U2	
+Periodo 2:	P3-U3	P3-U0	P3-U1	P1-U2	P0-U2	
+Periodo 3:	P2-U3	P3-U3	P1-U0	P0-U2	P3-U1	
+Periodo 4:	P3-U1	P1-U2	P2-U1	P3-U3	P2-U2	
+Periodo 5:	P2-U1	P2-U2	P0-U2	P2-U3	P3-U2	
+Periodo 6:	P3-U1	P3-U2	P2-U3	P3-U1	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P0-U2	P2-U2	P1-U3	P3-U3	
+Periodo 2:	P0-U3	P0-U1	P0-U1	P3-U0	P1-U0	
+Periodo 3:	P0-U3	P1-U1	P1-U3	P3-U1	P2-U2	
+Periodo 4:	P1-U1	P3-U3	P2-U1	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P0-U1	P0-U2	
+Periodo 6:	P0-U0	P0-U1	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 6 Intentos: 23
+######################################################################
+Fuente 45:
+Salon 1:
+Periodo 1:	P3-U3	P1-U1	P1-U2	P0-U1	P2-U3	
+Periodo 2:	P1-U2	P1-U1	P1-U2	P0-U1	P2-U2	
+Periodo 3:	P1-U0	P0-U3	P3-U3	P1-U0	P0-U1	
+Periodo 4:	P2-U0	P2-U1	P1-U2	P2-U1	P3-U2	
+Periodo 5:	P3-U1	P1-U0	P2-U3	P1-U0	P1-U2	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P0-U3	P2-U2	P0-U3	P2-U0	P0-U1	
+Periodo 2:	P2-U0	P2-U3	P2-U3	P2-U2	P3-U2	
+Periodo 3:	P3-U1	P2-U0	P0-U3	P2-U3	P1-U0	
+Periodo 4:	P0-U3	P0-U3	P2-U0	P0-U2	P1-U1	
+Periodo 5:	P0-U1	P0-U2	P3-U0	P3-U0	P2-U1	
+Periodo 6:	P2-U0	P1-U2	P0-U3	P2-U2	P0-U1	
+Salon 3:
+Periodo 1:	P2-U2	P3-U0	P3-U0	P3-U3	P1-U2	
+Periodo 2:	P3-U3	P3-U0	P3-U1	P1-U2	P0-U2	
+Periodo 3:	P2-U3	P3-U3	P2-U3	P0-U2	P3-U1	
+Periodo 4:	P3-U1	P1-U2	P3-U2	P3-U3	P2-U2	
+Periodo 5:	P2-U1	P2-U2	P0-U2	P2-U3	P3-U2	
+Periodo 6:	P3-U1	P3-U2	P2-U3	P3-U3	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P0-U2	P2-U0	P1-U0	P3-U3	
+Periodo 2:	P0-U3	P0-U1	P0-U1	P3-U0	P1-U0	
+Periodo 3:	P0-U3	P1-U1	P1-U3	P3-U1	P2-U2	
+Periodo 4:	P1-U1	P3-U3	P2-U0	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P0-U1	P0-U2	
+Periodo 6:	P0-U0	P0-U1	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 6 Intentos: 30
+######################################################################
+Fuente 46:
+Salon 1:
+Periodo 1:	P3-U3	P1-U1	P1-U2	P0-U1	P2-U3	
+Periodo 2:	P1-U3	P1-U3	P1-U2	P0-U1	P2-U3	
+Periodo 3:	P1-U0	P2-U0	P0-U3	P1-U0	P0-U1	
+Periodo 4:	P2-U0	P2-U1	P0-U1	P2-U1	P3-U1	
+Periodo 5:	P3-U0	P1-U0	P2-U3	P1-U0	P1-U2	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P0-U3	P2-U1	P0-U3	P2-U0	P0-U1	
+Periodo 2:	P2-U1	P2-U2	P2-U3	P0-U3	P3-U2	
+Periodo 3:	P3-U1	P0-U2	P2-U3	P2-U3	P1-U0	
+Periodo 4:	P0-U1	P0-U3	P2-U0	P0-U0	P1-U2	
+Periodo 5:	P0-U2	P0-U2	P3-U0	P3-U0	P2-U1	
+Periodo 6:	P2-U0	P1-U2	P0-U3	P2-U1	P0-U1	
+Salon 3:
+Periodo 1:	P2-U2	P3-U3	P3-U3	P3-U3	P1-U2	
+Periodo 2:	P3-U3	P3-U0	P3-U1	P1-U1	P0-U2	
+Periodo 3:	P2-U3	P3-U3	P3-U3	P0-U2	P3-U1	
+Periodo 4:	P3-U1	P1-U2	P3-U1	P3-U3	P2-U2	
+Periodo 5:	P2-U1	P2-U2	P0-U2	P2-U3	P3-U2	
+Periodo 6:	P3-U1	P3-U3	P2-U3	P3-U1	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P0-U2	P2-U0	P1-U0	P3-U3	
+Periodo 2:	P0-U0	P0-U1	P0-U1	P3-U0	P1-U0	
+Periodo 3:	P0-U3	P1-U1	P1-U3	P3-U1	P2-U2	
+Periodo 4:	P1-U1	P3-U3	P2-U0	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P0-U1	P0-U2	
+Periodo 6:	P0-U0	P0-U1	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 6 Intentos: 41
+######################################################################
+Fuente 47:
+Salon 1:
+Periodo 1:	P3-U3	P1-U1	P1-U2	P0-U2	P2-U2	
+Periodo 2:	P1-U2	P1-U1	P1-U2	P2-U2	P2-U3	
+Periodo 3:	P1-U0	P0-U3	P3-U3	P1-U0	P0-U1	
+Periodo 4:	P2-U0	P2-U1	P0-U1	P2-U1	P3-U2	
+Periodo 5:	P3-U0	P1-U0	P2-U3	P1-U0	P1-U2	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P0-U3	P2-U2	P0-U3	P2-U0	P0-U1	
+Periodo 2:	P2-U1	P2-U3	P2-U3	P0-U3	P3-U2	
+Periodo 3:	P3-U1	P2-U0	P0-U3	P2-U0	P1-U0	
+Periodo 4:	P0-U1	P0-U3	P1-U3	P0-U2	P3-U0	
+Periodo 5:	P0-U2	P0-U2	P3-U0	P2-U3	P2-U1	
+Periodo 6:	P2-U0	P1-U2	P0-U0	P2-U1	P0-U1	
+Salon 3:
+Periodo 1:	P2-U2	P3-U3	P3-U3	P3-U3	P1-U2	
+Periodo 2:	P3-U3	P3-U0	P3-U1	P1-U2	P0-U3	
+Periodo 3:	P2-U3	P3-U3	P2-U3	P0-U0	P3-U1	
+Periodo 4:	P3-U1	P1-U2	P3-U1	P3-U3	P2-U2	
+Periodo 5:	P2-U1	P2-U2	P0-U2	P3-U1	P3-U2	
+Periodo 6:	P3-U1	P3-U3	P2-U3	P3-U0	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P0-U2	P2-U0	P1-U0	P3-U3	
+Periodo 2:	P0-U3	P0-U1	P0-U1	P3-U0	P1-U0	
+Periodo 3:	P0-U3	P1-U1	P1-U3	P3-U1	P2-U2	
+Periodo 4:	P1-U1	P3-U3	P2-U1	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P0-U1	P0-U2	
+Periodo 6:	P0-U0	P0-U1	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 5 Intentos: 22
+######################################################################
+Fuente 48:
+Salon 1:
+Periodo 1:	P3-U3	P1-U1	P1-U2	P0-U2	P2-U3	
+Periodo 2:	P1-U3	P1-U1	P1-U2	P2-U2	P2-U3	
+Periodo 3:	P1-U0	P2-U0	P3-U3	P1-U0	P0-U0	
+Periodo 4:	P2-U0	P2-U1	P0-U1	P2-U1	P3-U3	
+Periodo 5:	P3-U1	P1-U0	P2-U3	P1-U0	P1-U2	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P0-U3	P2-U2	P0-U3	P2-U1	P0-U1	
+Periodo 2:	P2-U0	P2-U2	P2-U3	P0-U3	P3-U2	
+Periodo 3:	P3-U1	P0-U2	P0-U3	P3-U2	P1-U0	
+Periodo 4:	P0-U3	P0-U3	P2-U0	P0-U0	P1-U2	
+Periodo 5:	P0-U1	P0-U2	P3-U1	P3-U0	P2-U1	
+Periodo 6:	P2-U0	P1-U2	P0-U3	P2-U2	P0-U1	
+Salon 3:
+Periodo 1:	P2-U2	P3-U3	P3-U3	P3-U3	P1-U2	
+Periodo 2:	P3-U3	P3-U0	P3-U1	P1-U2	P0-U2	
+Periodo 3:	P2-U3	P3-U3	P1-U0	P0-U2	P3-U1	
+Periodo 4:	P3-U1	P1-U2	P3-U1	P3-U3	P2-U2	
+Periodo 5:	P2-U1	P2-U2	P0-U2	P2-U3	P3-U2	
+Periodo 6:	P3-U1	P3-U2	P2-U3	P3-U1	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P0-U2	P2-U2	P1-U0	P3-U3	
+Periodo 2:	P0-U3	P0-U1	P0-U1	P1-U3	P1-U0	
+Periodo 3:	P0-U3	P1-U1	P2-U3	P3-U1	P2-U2	
+Periodo 4:	P1-U1	P3-U3	P2-U0	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P0-U1	P0-U2	
+Periodo 6:	P0-U0	P0-U1	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 5 Intentos: 10
+######################################################################
+Fuente 49:
+Salon 1:
+Periodo 1:	P3-U3	P1-U1	P1-U2	P0-U1	P2-U3	
+Periodo 2:	P1-U3	P1-U1	P1-U2	P2-U2	P2-U3	
+Periodo 3:	P1-U0	P2-U3	P3-U3	P1-U2	P0-U1	
+Periodo 4:	P2-U0	P2-U1	P0-U1	P2-U1	P3-U2	
+Periodo 5:	P3-U1	P1-U0	P2-U3	P1-U0	P1-U2	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P0-U3	P2-U2	P0-U3	P2-U0	P0-U1	
+Periodo 2:	P2-U1	P2-U3	P2-U3	P0-U3	P3-U2	
+Periodo 3:	P3-U1	P0-U2	P0-U3	P2-U3	P1-U0	
+Periodo 4:	P0-U3	P0-U3	P3-U1	P0-U0	P1-U2	
+Periodo 5:	P0-U1	P0-U2	P3-U0	P3-U0	P2-U1	
+Periodo 6:	P2-U0	P1-U2	P0-U0	P2-U1	P0-U1	
+Salon 3:
+Periodo 1:	P2-U2	P3-U3	P3-U0	P3-U3	P1-U2	
+Periodo 2:	P3-U3	P3-U3	P3-U1	P1-U2	P0-U2	
+Periodo 3:	P2-U3	P3-U3	P2-U3	P0-U2	P3-U1	
+Periodo 4:	P3-U1	P1-U2	P2-U1	P3-U3	P2-U0	
+Periodo 5:	P2-U1	P2-U2	P0-U2	P2-U3	P3-U2	
+Periodo 6:	P3-U1	P3-U2	P2-U3	P3-U1	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P0-U0	P2-U0	P1-U0	P3-U3	
+Periodo 2:	P0-U0	P0-U1	P0-U1	P3-U0	P1-U0	
+Periodo 3:	P0-U3	P1-U1	P1-U3	P3-U1	P2-U2	
+Periodo 4:	P1-U0	P3-U3	P0-U0	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P0-U1	P0-U2	
+Periodo 6:	P0-U0	P0-U1	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 5 Intentos: 45
+######################################################################
+Fuente 50:
+Salon 1:
+Periodo 1:	P3-U3	P1-U1	P1-U2	P0-U1	P2-U2	
+Periodo 2:	P1-U2	P1-U3	P1-U2	P2-U2	P2-U3	
+Periodo 3:	P1-U0	P0-U3	P0-U3	P1-U0	P0-U1	
+Periodo 4:	P2-U0	P2-U1	P0-U1	P2-U1	P3-U2	
+Periodo 5:	P3-U0	P1-U0	P2-U3	P1-U0	P1-U2	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P0-U3	P2-U2	P0-U3	P2-U0	P0-U1	
+Periodo 2:	P2-U1	P2-U3	P2-U3	P0-U3	P3-U2	
+Periodo 3:	P3-U1	P2-U0	P2-U3	P2-U3	P1-U0	
+Periodo 4:	P0-U1	P0-U3	P1-U3	P0-U2	P1-U2	
+Periodo 5:	P0-U2	P0-U2	P3-U0	P3-U0	P2-U1	
+Periodo 6:	P2-U0	P1-U2	P0-U0	P2-U1	P0-U1	
+Salon 3:
+Periodo 1:	P2-U2	P3-U3	P3-U3	P3-U3	P1-U2	
+Periodo 2:	P3-U3	P3-U0	P3-U1	P1-U2	P0-U2	
+Periodo 3:	P2-U3	P3-U3	P3-U3	P0-U0	P3-U1	
+Periodo 4:	P3-U0	P1-U2	P2-U1	P3-U3	P2-U2	
+Periodo 5:	P2-U1	P2-U2	P0-U2	P2-U3	P3-U2	
+Periodo 6:	P3-U1	P3-U2	P2-U3	P3-U1	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P0-U2	P2-U0	P1-U0	P3-U3	
+Periodo 2:	P0-U3	P0-U1	P0-U1	P3-U0	P1-U0	
+Periodo 3:	P0-U3	P1-U3	P1-U1	P3-U1	P2-U2	
+Periodo 4:	P1-U1	P3-U3	P2-U1	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P0-U1	P0-U2	
+Periodo 6:	P0-U0	P0-U1	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 5 Intentos: 28
+######################################################################
+Fuente 51:
+Salon 1:
+Periodo 1:	P3-U3	P0-U2	P1-U2	P0-U1	P2-U3	
+Periodo 2:	P1-U3	P1-U1	P1-U2	P2-U2	P2-U3	
+Periodo 3:	P1-U0	P0-U1	P3-U3	P2-U1	P0-U0	
+Periodo 4:	P2-U0	P2-U1	P0-U1	P2-U1	P3-U2	
+Periodo 5:	P3-U0	P1-U2	P2-U3	P1-U0	P1-U2	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P0-U3	P2-U2	P0-U3	P2-U1	P0-U1	
+Periodo 2:	P2-U0	P2-U2	P2-U3	P2-U2	P3-U2	
+Periodo 3:	P3-U1	P2-U0	P0-U1	P1-U0	P1-U0	
+Periodo 4:	P0-U3	P0-U3	P2-U0	P0-U2	P1-U2	
+Periodo 5:	P0-U2	P0-U2	P3-U0	P3-U0	P2-U1	
+Periodo 6:	P2-U0	P1-U2	P0-U3	P2-U2	P0-U1	
+Salon 3:
+Periodo 1:	P2-U2	P3-U3	P3-U3	P3-U3	P1-U2	
+Periodo 2:	P3-U3	P3-U0	P3-U1	P1-U2	P0-U2	
+Periodo 3:	P2-U3	P3-U3	P1-U0	P0-U2	P3-U1	
+Periodo 4:	P3-U1	P1-U2	P3-U1	P3-U3	P2-U2	
+Periodo 5:	P2-U1	P2-U2	P0-U2	P2-U3	P3-U2	
+Periodo 6:	P3-U1	P3-U3	P2-U3	P3-U1	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P1-U0	P2-U0	P1-U0	P3-U3	
+Periodo 2:	P0-U0	P0-U1	P0-U1	P3-U0	P1-U0	
+Periodo 3:	P0-U3	P1-U1	P0-U2	P3-U1	P2-U2	
+Periodo 4:	P1-U1	P3-U1	P1-U1	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P0-U1	P0-U3	
+Periodo 6:	P0-U0	P0-U1	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 5 Intentos: 32
+######################################################################
+Fuente 52:
+Salon 1:
+Periodo 1:	P3-U3	P1-U1	P1-U2	P0-U2	P2-U3	
+Periodo 2:	P1-U3	P1-U1	P1-U2	P2-U2	P2-U3	
+Periodo 3:	P1-U0	P0-U3	P3-U3	P2-U1	P0-U0	
+Periodo 4:	P2-U0	P2-U1	P0-U1	P2-U1	P3-U2	
+Periodo 5:	P3-U1	P1-U0	P2-U3	P1-U0	P1-U2	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P0-U3	P2-U2	P0-U2	P2-U1	P0-U1	
+Periodo 2:	P2-U0	P2-U2	P2-U3	P0-U3	P3-U2	
+Periodo 3:	P3-U1	P2-U0	P0-U3	P1-U1	P1-U0	
+Periodo 4:	P0-U1	P0-U3	P2-U0	P0-U2	P1-U1	
+Periodo 5:	P0-U2	P0-U2	P3-U0	P3-U0	P2-U1	
+Periodo 6:	P2-U0	P1-U1	P0-U3	P2-U2	P0-U1	
+Salon 3:
+Periodo 1:	P2-U2	P3-U3	P3-U3	P3-U3	P1-U2	
+Periodo 2:	P3-U3	P3-U0	P3-U1	P1-U2	P0-U2	
+Periodo 3:	P2-U3	P3-U3	P1-U0	P0-U2	P3-U1	
+Periodo 4:	P3-U1	P1-U2	P3-U1	P3-U3	P2-U2	
+Periodo 5:	P2-U1	P2-U2	P0-U2	P2-U3	P3-U2	
+Periodo 6:	P3-U1	P3-U2	P2-U3	P3-U0	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P0-U2	P2-U0	P1-U0	P3-U3	
+Periodo 2:	P0-U0	P0-U1	P0-U0	P3-U0	P1-U0	
+Periodo 3:	P0-U3	P1-U3	P1-U3	P3-U1	P2-U2	
+Periodo 4:	P1-U1	P3-U3	P2-U1	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P0-U1	P0-U3	
+Periodo 6:	P0-U0	P0-U1	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 5 Intentos: 45
+######################################################################
+Fuente 53:
+Salon 1:
+Periodo 1:	P3-U3	P1-U1	P1-U2	P0-U0	P2-U3	
+Periodo 2:	P1-U2	P1-U1	P1-U2	P0-U1	P2-U2	
+Periodo 3:	P1-U0	P0-U1	P3-U3	P1-U0	P0-U3	
+Periodo 4:	P2-U0	P2-U1	P2-U3	P2-U1	P3-U2	
+Periodo 5:	P3-U1	P1-U0	P2-U3	P1-U0	P1-U2	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P1-U2	P2-U2	P0-U3	P2-U1	P0-U1	
+Periodo 2:	P2-U0	P2-U3	P2-U3	P0-U3	P3-U2	
+Periodo 3:	P3-U1	P2-U0	P0-U3	P2-U3	P1-U0	
+Periodo 4:	P0-U3	P0-U3	P2-U0	P0-U2	P1-U2	
+Periodo 5:	P0-U2	P0-U2	P3-U0	P3-U0	P2-U1	
+Periodo 6:	P2-U0	P1-U1	P0-U3	P2-U1	P0-U1	
+Salon 3:
+Periodo 1:	P2-U2	P3-U3	P3-U3	P3-U3	P1-U2	
+Periodo 2:	P3-U3	P3-U0	P3-U1	P1-U2	P0-U2	
+Periodo 3:	P2-U3	P3-U3	P1-U0	P0-U2	P3-U1	
+Periodo 4:	P3-U1	P1-U2	P3-U2	P3-U3	P2-U2	
+Periodo 5:	P2-U1	P2-U2	P0-U2	P2-U3	P3-U2	
+Periodo 6:	P3-U1	P3-U2	P2-U3	P3-U1	P3-U0	
+Salon 4:
+Periodo 1:	P0-U0	P0-U2	P2-U0	P1-U0	P3-U3	
+Periodo 2:	P0-U3	P0-U1	P0-U1	P3-U0	P1-U0	
+Periodo 3:	P0-U3	P1-U3	P1-U3	P3-U1	P2-U2	
+Periodo 4:	P1-U1	P3-U3	P2-U0	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P0-U1	P0-U2	
+Periodo 6:	P0-U1	P0-U1	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 5 Intentos: 26
+######################################################################
+Fuente 54:
+Salon 1:
+Periodo 1:	P3-U3	P1-U1	P1-U2	P0-U1	P2-U3	
+Periodo 2:	P1-U3	P1-U3	P1-U2	P2-U2	P2-U3	
+Periodo 3:	P1-U0	P2-U0	P0-U3	P1-U0	P0-U1	
+Periodo 4:	P2-U0	P2-U1	P0-U1	P2-U1	P3-U3	
+Periodo 5:	P3-U1	P1-U0	P2-U3	P1-U0	P1-U2	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P0-U3	P2-U3	P0-U3	P2-U0	P0-U1	
+Periodo 2:	P2-U0	P2-U3	P2-U3	P0-U3	P3-U2	
+Periodo 3:	P3-U1	P0-U2	P2-U2	P2-U3	P1-U0	
+Periodo 4:	P0-U1	P0-U3	P2-U0	P0-U2	P1-U2	
+Periodo 5:	P0-U2	P0-U2	P3-U0	P3-U0	P2-U1	
+Periodo 6:	P2-U0	P1-U2	P0-U0	P2-U1	P0-U1	
+Salon 3:
+Periodo 1:	P2-U2	P3-U3	P3-U3	P3-U3	P1-U2	
+Periodo 2:	P3-U3	P3-U0	P3-U1	P1-U2	P0-U2	
+Periodo 3:	P2-U3	P3-U3	P1-U0	P0-U2	P3-U1	
+Periodo 4:	P3-U1	P1-U2	P3-U2	P3-U3	P2-U2	
+Periodo 5:	P2-U1	P2-U2	P0-U2	P3-U1	P3-U2	
+Periodo 6:	P3-U1	P3-U2	P2-U3	P3-U0	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P0-U2	P2-U0	P1-U0	P3-U3	
+Periodo 2:	P0-U0	P0-U1	P0-U1	P3-U0	P1-U0	
+Periodo 3:	P0-U3	P1-U3	P1-U3	P3-U1	P2-U2	
+Periodo 4:	P1-U1	P3-U3	P2-U1	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P0-U1	P0-U2	
+Periodo 6:	P0-U1	P0-U1	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 5 Intentos: 19
+######################################################################
+Fuente 55:
+Salon 1:
+Periodo 1:	P3-U3	P1-U1	P1-U2	P0-U1	P2-U2	
+Periodo 2:	P1-U3	P1-U1	P1-U2	P2-U2	P2-U3	
+Periodo 3:	P1-U0	P2-U0	P3-U3	P1-U0	P0-U0	
+Periodo 4:	P2-U0	P2-U1	P1-U2	P2-U1	P3-U2	
+Periodo 5:	P3-U1	P1-U0	P2-U3	P1-U0	P1-U2	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P0-U3	P2-U2	P0-U3	P2-U0	P0-U1	
+Periodo 2:	P2-U0	P2-U2	P2-U3	P0-U3	P3-U1	
+Periodo 3:	P3-U1	P0-U2	P0-U3	P2-U0	P1-U0	
+Periodo 4:	P0-U3	P0-U3	P2-U0	P0-U0	P1-U2	
+Periodo 5:	P0-U2	P0-U2	P3-U0	P2-U3	P2-U1	
+Periodo 6:	P2-U0	P1-U2	P0-U0	P2-U1	P0-U1	
+Salon 3:
+Periodo 1:	P2-U2	P3-U3	P3-U3	P3-U3	P1-U2	
+Periodo 2:	P3-U3	P3-U3	P3-U1	P1-U2	P0-U2	
+Periodo 3:	P2-U3	P3-U3	P3-U3	P0-U2	P3-U0	
+Periodo 4:	P3-U1	P1-U2	P2-U1	P3-U3	P2-U2	
+Periodo 5:	P2-U1	P2-U2	P0-U2	P3-U1	P3-U2	
+Periodo 6:	P3-U1	P3-U2	P2-U3	P3-U1	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P0-U0	P2-U0	P1-U3	P3-U3	
+Periodo 2:	P0-U3	P0-U1	P0-U1	P3-U0	P1-U0	
+Periodo 3:	P0-U3	P1-U1	P1-U3	P3-U1	P2-U2	
+Periodo 4:	P1-U1	P3-U3	P2-U0	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P0-U1	P0-U2	
+Periodo 6:	P0-U1	P0-U1	P1-U0	P2-U3	P2-U0	
+======================================================================
+Fitness : 5 Intentos: 15
+######################################################################
+Fuente 56:
+Salon 1:
+Periodo 1:	P3-U3	P1-U1	P1-U2	P0-U1	P2-U3	
+Periodo 2:	P1-U3	P1-U1	P1-U2	P2-U2	P2-U3	
+Periodo 3:	P1-U0	P0-U3	P3-U3	P1-U0	P0-U0	
+Periodo 4:	P2-U0	P2-U1	P0-U1	P2-U1	P3-U2	
+Periodo 5:	P3-U0	P1-U0	P2-U3	P1-U0	P1-U2	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P0-U3	P2-U2	P0-U3	P2-U1	P0-U1	
+Periodo 2:	P2-U1	P2-U2	P2-U3	P0-U3	P3-U1	
+Periodo 3:	P3-U1	P2-U0	P0-U1	P2-U3	P1-U0	
+Periodo 4:	P0-U3	P0-U3	P1-U3	P0-U0	P1-U1	
+Periodo 5:	P0-U2	P0-U2	P3-U0	P3-U0	P2-U1	
+Periodo 6:	P2-U0	P1-U2	P0-U3	P2-U2	P0-U1	
+Salon 3:
+Periodo 1:	P2-U2	P3-U3	P3-U3	P3-U3	P1-U2	
+Periodo 2:	P3-U3	P3-U0	P3-U1	P1-U2	P0-U2	
+Periodo 3:	P2-U3	P3-U3	P2-U3	P0-U2	P3-U0	
+Periodo 4:	P3-U1	P1-U2	P3-U1	P3-U3	P2-U2	
+Periodo 5:	P2-U1	P2-U2	P0-U2	P2-U3	P3-U2	
+Periodo 6:	P3-U1	P3-U3	P2-U3	P3-U1	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P0-U2	P2-U0	P1-U0	P3-U3	
+Periodo 2:	P0-U0	P0-U1	P0-U1	P3-U0	P1-U0	
+Periodo 3:	P0-U3	P1-U3	P2-U3	P3-U1	P2-U2	
+Periodo 4:	P1-U1	P3-U3	P2-U0	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P0-U1	P0-U2	
+Periodo 6:	P0-U0	P0-U1	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 5 Intentos: 5
+######################################################################
+Fuente 57:
+Salon 1:
+Periodo 1:	P3-U3	P1-U1	P1-U2	P0-U1	P2-U2	
+Periodo 2:	P1-U3	P1-U1	P1-U2	P2-U2	P2-U2	
+Periodo 3:	P1-U0	P0-U3	P3-U3	P1-U2	P0-U1	
+Periodo 4:	P2-U0	P1-U0	P0-U1	P2-U1	P3-U2	
+Periodo 5:	P3-U1	P1-U0	P2-U3	P1-U0	P1-U2	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P0-U3	P2-U2	P0-U3	P2-U0	P0-U3	
+Periodo 2:	P2-U1	P2-U3	P2-U3	P0-U3	P3-U2	
+Periodo 3:	P3-U1	P2-U0	P2-U2	P2-U3	P1-U0	
+Periodo 4:	P0-U1	P0-U3	P2-U0	P0-U2	P1-U2	
+Periodo 5:	P0-U1	P0-U2	P3-U0	P2-U3	P2-U1	
+Periodo 6:	P2-U0	P1-U1	P0-U0	P2-U2	P0-U1	
+Salon 3:
+Periodo 1:	P2-U2	P3-U3	P3-U3	P3-U3	P1-U2	
+Periodo 2:	P3-U3	P3-U0	P3-U1	P1-U2	P0-U2	
+Periodo 3:	P2-U3	P3-U3	P1-U0	P0-U2	P3-U1	
+Periodo 4:	P3-U0	P1-U2	P3-U2	P3-U3	P2-U2	
+Periodo 5:	P2-U1	P2-U2	P0-U2	P3-U1	P3-U2	
+Periodo 6:	P3-U1	P3-U2	P2-U3	P3-U3	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P0-U2	P2-U0	P1-U0	P3-U3	
+Periodo 2:	P0-U0	P0-U1	P0-U1	P3-U0	P1-U0	
+Periodo 3:	P0-U3	P1-U3	P0-U2	P3-U1	P2-U2	
+Periodo 4:	P1-U1	P3-U3	P2-U0	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P0-U1	P0-U2	
+Periodo 6:	P0-U0	P0-U1	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 5 Intentos: 1
+######################################################################
+Fuente 58:
+Salon 1:
+Periodo 1:	P3-U3	P0-U2	P1-U2	P0-U2	P2-U3	
+Periodo 2:	P1-U3	P1-U1	P1-U2	P2-U2	P2-U3	
+Periodo 3:	P1-U0	P2-U3	P3-U3	P1-U0	P0-U0	
+Periodo 4:	P2-U0	P2-U1	P0-U1	P2-U1	P3-U2	
+Periodo 5:	P3-U0	P1-U0	P2-U3	P1-U0	P1-U2	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P0-U3	P2-U2	P0-U2	P2-U1	P0-U1	
+Periodo 2:	P2-U0	P2-U3	P2-U3	P0-U3	P3-U2	
+Periodo 3:	P3-U1	P0-U2	P2-U2	P2-U3	P1-U0	
+Periodo 4:	P0-U3	P0-U3	P1-U3	P0-U2	P1-U1	
+Periodo 5:	P0-U2	P0-U2	P3-U0	P3-U0	P2-U1	
+Periodo 6:	P2-U0	P1-U2	P0-U3	P2-U2	P0-U1	
+Salon 3:
+Periodo 1:	P2-U2	P3-U3	P3-U0	P3-U3	P1-U2	
+Periodo 2:	P3-U3	P3-U0	P3-U1	P1-U2	P0-U2	
+Periodo 3:	P2-U3	P3-U3	P1-U0	P0-U2	P3-U1	
+Periodo 4:	P3-U1	P1-U2	P3-U1	P3-U3	P2-U2	
+Periodo 5:	P2-U1	P2-U2	P0-U2	P2-U3	P3-U2	
+Periodo 6:	P3-U1	P3-U2	P2-U3	P3-U1	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P0-U0	P2-U0	P1-U0	P3-U0	
+Periodo 2:	P0-U0	P0-U1	P0-U1	P3-U0	P1-U0	
+Periodo 3:	P0-U3	P1-U3	P1-U3	P3-U1	P2-U2	
+Periodo 4:	P1-U1	P3-U3	P2-U1	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P0-U1	P0-U3	
+Periodo 6:	P0-U1	P0-U1	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 5 Intentos: 20
+######################################################################
+Fuente 59:
+Salon 1:
+Periodo 1:	P3-U3	P1-U1	P1-U2	P0-U2	P2-U3	
+Periodo 2:	P1-U2	P1-U1	P1-U2	P2-U2	P2-U2	
+Periodo 3:	P1-U0	P0-U1	P3-U3	P1-U0	P0-U3	
+Periodo 4:	P2-U0	P2-U1	P0-U1	P2-U1	P3-U2	
+Periodo 5:	P3-U1	P1-U0	P2-U3	P1-U0	P1-U2	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P0-U3	P2-U2	P0-U3	P2-U0	P0-U1	
+Periodo 2:	P2-U0	P2-U2	P2-U3	P0-U3	P3-U2	
+Periodo 3:	P3-U1	P2-U0	P0-U3	P2-U3	P1-U0	
+Periodo 4:	P0-U3	P0-U3	P2-U0	P0-U2	P1-U2	
+Periodo 5:	P0-U2	P0-U2	P3-U0	P3-U0	P2-U1	
+Periodo 6:	P2-U0	P1-U2	P0-U3	P2-U2	P0-U1	
+Salon 3:
+Periodo 1:	P2-U2	P3-U0	P3-U3	P3-U3	P1-U2	
+Periodo 2:	P3-U3	P3-U0	P3-U1	P1-U2	P0-U2	
+Periodo 3:	P2-U3	P3-U3	P1-U0	P0-U2	P3-U1	
+Periodo 4:	P3-U1	P1-U2	P3-U1	P3-U3	P2-U2	
+Periodo 5:	P2-U1	P2-U2	P0-U2	P2-U3	P3-U2	
+Periodo 6:	P3-U1	P3-U2	P2-U3	P3-U1	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P0-U2	P2-U0	P1-U0	P3-U0	
+Periodo 2:	P0-U3	P0-U1	P0-U1	P3-U0	P1-U0	
+Periodo 3:	P0-U3	P1-U3	P1-U3	P3-U1	P2-U2	
+Periodo 4:	P1-U1	P3-U3	P2-U1	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P0-U1	P0-U3	
+Periodo 6:	P0-U0	P0-U1	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 5 Intentos: 16
+######################################################################
+Fuente 60:
+Salon 1:
+Periodo 1:	P3-U3	P1-U1	P1-U2	P0-U1	P2-U2	
+Periodo 2:	P1-U3	P1-U1	P1-U2	P2-U2	P2-U3	
+Periodo 3:	P1-U0	P2-U0	P3-U3	P1-U0	P0-U1	
+Periodo 4:	P0-U2	P2-U1	P0-U1	P2-U1	P3-U2	
+Periodo 5:	P3-U0	P1-U0	P2-U3	P1-U0	P1-U2	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P0-U3	P2-U2	P0-U3	P2-U1	P0-U1	
+Periodo 2:	P2-U0	P2-U3	P2-U3	P0-U3	P3-U2	
+Periodo 3:	P3-U1	P0-U2	P2-U3	P2-U3	P1-U0	
+Periodo 4:	P0-U1	P0-U3	P1-U3	P0-U2	P1-U2	
+Periodo 5:	P0-U2	P0-U1	P3-U0	P3-U0	P2-U1	
+Periodo 6:	P2-U0	P1-U1	P0-U3	P2-U1	P0-U1	
+Salon 3:
+Periodo 1:	P2-U2	P3-U0	P3-U3	P3-U3	P1-U2	
+Periodo 2:	P3-U3	P3-U0	P3-U1	P1-U2	P0-U2	
+Periodo 3:	P2-U3	P3-U3	P2-U3	P0-U0	P3-U1	
+Periodo 4:	P3-U1	P1-U2	P3-U2	P3-U3	P2-U2	
+Periodo 5:	P2-U1	P2-U2	P0-U2	P2-U3	P3-U2	
+Periodo 6:	P3-U1	P3-U3	P2-U3	P3-U1	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P0-U2	P2-U0	P1-U0	P3-U3	
+Periodo 2:	P0-U0	P0-U1	P0-U1	P3-U0	P1-U0	
+Periodo 3:	P0-U3	P1-U1	P1-U3	P3-U1	P2-U2	
+Periodo 4:	P1-U1	P3-U3	P2-U1	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P0-U1	P0-U2	
+Periodo 6:	P0-U0	P0-U1	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 5 Intentos: 7
+######################################################################
+Fuente 61:
+Salon 1:
+Periodo 1:	P3-U3	P1-U1	P1-U2	P0-U1	P2-U3	
+Periodo 2:	P1-U3	P1-U1	P1-U2	P2-U2	P2-U2	
+Periodo 3:	P1-U0	P0-U1	P3-U3	P2-U1	P0-U1	
+Periodo 4:	P2-U0	P2-U1	P0-U1	P2-U1	P3-U2	
+Periodo 5:	P3-U0	P1-U0	P2-U3	P1-U0	P1-U2	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P0-U3	P2-U2	P0-U3	P2-U0	P0-U1	
+Periodo 2:	P2-U1	P2-U3	P2-U3	P0-U3	P3-U1	
+Periodo 3:	P3-U1	P2-U0	P0-U3	P1-U1	P1-U0	
+Periodo 4:	P0-U1	P0-U3	P1-U3	P0-U2	P3-U0	
+Periodo 5:	P0-U2	P0-U2	P3-U0	P2-U3	P2-U1	
+Periodo 6:	P2-U0	P1-U2	P0-U0	P2-U2	P0-U1	
+Salon 3:
+Periodo 1:	P2-U2	P3-U3	P3-U3	P3-U3	P1-U2	
+Periodo 2:	P3-U3	P3-U0	P3-U1	P1-U2	P0-U3	
+Periodo 3:	P2-U3	P3-U3	P2-U3	P0-U0	P3-U1	
+Periodo 4:	P3-U0	P1-U2	P3-U1	P3-U3	P2-U2	
+Periodo 5:	P2-U1	P2-U2	P0-U2	P3-U1	P3-U2	
+Periodo 6:	P3-U1	P3-U3	P2-U3	P3-U0	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P0-U2	P2-U0	P1-U0	P3-U3	
+Periodo 2:	P0-U3	P0-U1	P0-U1	P3-U0	P1-U0	
+Periodo 3:	P0-U3	P1-U3	P1-U3	P3-U1	P2-U2	
+Periodo 4:	P1-U1	P3-U1	P2-U0	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P0-U1	P0-U2	
+Periodo 6:	P0-U0	P0-U1	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 5 Intentos: 6
+######################################################################
+Fuente 62:
+Salon 1:
+Periodo 1:	P3-U3	P1-U1	P1-U2	P0-U1	P2-U3	
+Periodo 2:	P1-U3	P1-U1	P1-U2	P2-U2	P2-U3	
+Periodo 3:	P1-U0	P0-U1	P3-U3	P1-U0	P0-U0	
+Periodo 4:	P2-U0	P2-U1	P1-U2	P2-U1	P3-U2	
+Periodo 5:	P3-U0	P1-U0	P2-U3	P1-U0	P1-U2	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P0-U3	P2-U1	P0-U3	P2-U0	P0-U1	
+Periodo 2:	P2-U0	P2-U2	P2-U3	P0-U3	P3-U2	
+Periodo 3:	P3-U1	P2-U0	P2-U3	P2-U3	P1-U0	
+Periodo 4:	P0-U1	P0-U3	P2-U0	P0-U2	P1-U2	
+Periodo 5:	P0-U1	P0-U2	P3-U0	P2-U3	P2-U1	
+Periodo 6:	P2-U0	P1-U1	P0-U0	P0-U0	P0-U1	
+Salon 3:
+Periodo 1:	P2-U2	P3-U3	P3-U3	P3-U3	P1-U2	
+Periodo 2:	P3-U3	P3-U0	P3-U1	P1-U2	P0-U2	
+Periodo 3:	P2-U3	P3-U3	P1-U0	P0-U2	P3-U1	
+Periodo 4:	P3-U0	P1-U2	P3-U1	P3-U3	P2-U2	
+Periodo 5:	P2-U1	P2-U2	P0-U2	P3-U1	P3-U2	
+Periodo 6:	P3-U1	P3-U3	P2-U3	P3-U3	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P0-U2	P2-U2	P1-U0	P3-U0	
+Periodo 2:	P0-U0	P0-U1	P0-U1	P3-U0	P1-U0	
+Periodo 3:	P0-U3	P1-U3	P2-U3	P3-U1	P2-U2	
+Periodo 4:	P1-U1	P3-U3	P0-U0	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U1	P1-U1	P0-U1	P0-U3	
+Periodo 6:	P0-U0	P0-U1	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 5 Intentos: 27
+######################################################################
+Fuente 63:
+Salon 1:
+Periodo 1:	P3-U3	P0-U2	P1-U2	P0-U2	P2-U3	
+Periodo 2:	P1-U3	P1-U1	P1-U2	P2-U2	P2-U3	
+Periodo 3:	P1-U0	P2-U0	P3-U3	P1-U0	P0-U1	
+Periodo 4:	P2-U0	P2-U1	P1-U2	P2-U1	P3-U2	
+Periodo 5:	P3-U0	P1-U0	P2-U3	P1-U0	P1-U2	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P1-U2	P2-U1	P0-U3	P2-U1	P0-U1	
+Periodo 2:	P2-U0	P2-U2	P2-U3	P0-U3	P3-U2	
+Periodo 3:	P3-U1	P0-U2	P0-U3	P2-U3	P1-U0	
+Periodo 4:	P0-U3	P0-U3	P1-U3	P0-U0	P1-U1	
+Periodo 5:	P0-U2	P0-U2	P3-U1	P3-U0	P2-U1	
+Periodo 6:	P2-U0	P1-U1	P0-U0	P2-U2	P0-U1	
+Salon 3:
+Periodo 1:	P2-U2	P3-U3	P3-U3	P3-U3	P1-U2	
+Periodo 2:	P3-U3	P3-U3	P3-U1	P1-U2	P0-U2	
+Periodo 3:	P2-U3	P3-U3	P2-U3	P0-U2	P3-U1	
+Periodo 4:	P3-U0	P1-U2	P3-U1	P3-U3	P2-U0	
+Periodo 5:	P2-U1	P2-U2	P0-U2	P2-U3	P3-U2	
+Periodo 6:	P3-U1	P3-U2	P2-U3	P3-U0	P3-U0	
+Salon 4:
+Periodo 1:	P0-U0	P0-U2	P2-U0	P1-U0	P3-U3	
+Periodo 2:	P0-U0	P0-U1	P0-U1	P3-U0	P1-U0	
+Periodo 3:	P0-U3	P1-U3	P1-U3	P3-U1	P2-U2	
+Periodo 4:	P1-U1	P3-U3	P2-U1	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P0-U1	P0-U3	
+Periodo 6:	P0-U0	P0-U1	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 5 Intentos: 34
+######################################################################
+Fuente 64:
+Salon 1:
+Periodo 1:	P3-U3	P0-U2	P1-U2	P0-U2	P2-U3	
+Periodo 2:	P1-U2	P1-U1	P1-U2	P2-U2	P2-U3	
+Periodo 3:	P1-U0	P2-U0	P3-U3	P1-U0	P0-U1	
+Periodo 4:	P2-U0	P2-U1	P0-U1	P2-U1	P3-U2	
+Periodo 5:	P3-U0	P1-U0	P2-U3	P1-U0	P1-U2	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P1-U2	P2-U1	P0-U3	P2-U1	P0-U1	
+Periodo 2:	P2-U0	P2-U2	P2-U3	P0-U3	P3-U2	
+Periodo 3:	P3-U1	P2-U0	P0-U3	P1-U1	P1-U0	
+Periodo 4:	P0-U3	P0-U3	P1-U1	P0-U0	P1-U1	
+Periodo 5:	P0-U2	P0-U2	P3-U1	P3-U0	P2-U1	
+Periodo 6:	P2-U0	P1-U1	P0-U3	P2-U1	P0-U1	
+Salon 3:
+Periodo 1:	P2-U2	P3-U3	P3-U3	P3-U3	P1-U2	
+Periodo 2:	P3-U3	P3-U3	P3-U1	P1-U2	P0-U2	
+Periodo 3:	P2-U3	P3-U3	P2-U3	P0-U2	P3-U1	
+Periodo 4:	P3-U1	P1-U2	P3-U1	P3-U3	P2-U0	
+Periodo 5:	P2-U1	P2-U2	P0-U2	P2-U3	P3-U2	
+Periodo 6:	P3-U1	P3-U2	P2-U3	P3-U0	P3-U0	
+Salon 4:
+Periodo 1:	P0-U0	P0-U2	P2-U0	P1-U0	P3-U3	
+Periodo 2:	P0-U0	P0-U1	P0-U1	P3-U0	P1-U0	
+Periodo 3:	P0-U3	P1-U1	P1-U3	P3-U1	P2-U2	
+Periodo 4:	P1-U0	P3-U3	P2-U1	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P0-U1	P0-U2	
+Periodo 6:	P0-U0	P0-U1	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 5 Intentos: 23
+######################################################################
+Fuente 65:
+Salon 1:
+Periodo 1:	P3-U3	P0-U2	P1-U2	P0-U1	P2-U3	
+Periodo 2:	P1-U2	P1-U1	P1-U2	P0-U1	P2-U3	
+Periodo 3:	P1-U0	P0-U1	P3-U3	P1-U2	P0-U1	
+Periodo 4:	P2-U0	P2-U1	P0-U1	P2-U1	P3-U3	
+Periodo 5:	P3-U0	P1-U0	P2-U3	P1-U0	P1-U2	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P0-U3	P2-U2	P0-U3	P2-U0	P0-U1	
+Periodo 2:	P2-U0	P2-U2	P2-U3	P2-U2	P3-U2	
+Periodo 3:	P3-U1	P0-U2	P2-U2	P2-U3	P1-U0	
+Periodo 4:	P0-U3	P0-U3	P1-U3	P0-U2	P1-U2	
+Periodo 5:	P0-U2	P0-U2	P3-U0	P2-U3	P2-U1	
+Periodo 6:	P2-U0	P1-U1	P0-U0	P2-U1	P0-U1	
+Salon 3:
+Periodo 1:	P2-U2	P3-U3	P3-U3	P3-U3	P1-U2	
+Periodo 2:	P3-U3	P3-U0	P3-U1	P1-U2	P0-U2	
+Periodo 3:	P2-U3	P3-U3	P1-U0	P0-U0	P3-U1	
+Periodo 4:	P3-U1	P1-U2	P3-U1	P3-U3	P2-U2	
+Periodo 5:	P2-U1	P2-U2	P0-U2	P3-U1	P3-U2	
+Periodo 6:	P3-U1	P3-U3	P2-U3	P3-U3	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P1-U0	P2-U0	P1-U0	P3-U0	
+Periodo 2:	P0-U3	P0-U1	P0-U1	P3-U0	P1-U0	
+Periodo 3:	P0-U3	P1-U3	P0-U2	P3-U1	P2-U2	
+Periodo 4:	P1-U1	P3-U3	P2-U0	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P0-U1	P0-U3	
+Periodo 6:	P0-U0	P0-U1	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 5 Intentos: 12
+######################################################################
+Fuente 66:
+Salon 1:
+Periodo 1:	P3-U3	P1-U1	P1-U2	P0-U0	P2-U3	
+Periodo 2:	P1-U2	P1-U1	P1-U2	P0-U1	P2-U3	
+Periodo 3:	P1-U0	P0-U3	P3-U3	P1-U0	P0-U1	
+Periodo 4:	P2-U0	P2-U1	P0-U1	P2-U1	P3-U2	
+Periodo 5:	P3-U1	P1-U0	P2-U3	P1-U0	P1-U2	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P0-U3	P2-U2	P0-U3	P2-U0	P0-U1	
+Periodo 2:	P2-U0	P2-U3	P2-U3	P2-U2	P3-U2	
+Periodo 3:	P3-U1	P2-U0	P0-U3	P2-U3	P1-U0	
+Periodo 4:	P0-U3	P0-U3	P2-U0	P0-U2	P1-U2	
+Periodo 5:	P0-U2	P0-U2	P3-U0	P3-U0	P2-U1	
+Periodo 6:	P2-U0	P1-U1	P0-U3	P2-U1	P0-U1	
+Salon 3:
+Periodo 1:	P2-U2	P3-U3	P3-U0	P3-U3	P1-U2	
+Periodo 2:	P3-U3	P3-U0	P3-U1	P1-U2	P0-U2	
+Periodo 3:	P2-U3	P3-U3	P2-U3	P0-U2	P3-U1	
+Periodo 4:	P3-U1	P1-U2	P3-U2	P3-U3	P2-U2	
+Periodo 5:	P2-U1	P2-U2	P0-U2	P2-U3	P3-U2	
+Periodo 6:	P3-U1	P3-U3	P2-U3	P3-U0	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P0-U2	P2-U0	P1-U0	P3-U3	
+Periodo 2:	P0-U3	P0-U1	P0-U1	P3-U0	P1-U0	
+Periodo 3:	P0-U3	P1-U1	P1-U3	P3-U1	P2-U2	
+Periodo 4:	P1-U1	P3-U3	P2-U0	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P0-U1	P0-U2	
+Periodo 6:	P0-U0	P0-U1	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 5 Intentos: 16
+######################################################################
+Fuente 67:
+Salon 1:
+Periodo 1:	P3-U3	P1-U1	P1-U2	P0-U1	P2-U3	
+Periodo 2:	P1-U2	P1-U1	P1-U2	P2-U2	P2-U3	
+Periodo 3:	P1-U0	P0-U3	P0-U3	P1-U2	P0-U1	
+Periodo 4:	P2-U0	P2-U1	P0-U1	P2-U1	P3-U2	
+Periodo 5:	P3-U1	P1-U0	P2-U3	P1-U0	P1-U2	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P0-U3	P2-U1	P0-U3	P2-U1	P0-U1	
+Periodo 2:	P2-U1	P2-U3	P2-U3	P0-U3	P3-U2	
+Periodo 3:	P3-U1	P2-U0	P2-U3	P2-U0	P1-U0	
+Periodo 4:	P0-U3	P0-U3	P1-U3	P0-U0	P1-U1	
+Periodo 5:	P0-U2	P0-U2	P3-U0	P3-U0	P2-U1	
+Periodo 6:	P2-U0	P1-U2	P0-U3	P2-U1	P0-U1	
+Salon 3:
+Periodo 1:	P2-U2	P3-U3	P3-U3	P3-U3	P1-U2	
+Periodo 2:	P3-U3	P3-U0	P3-U1	P1-U2	P0-U2	
+Periodo 3:	P2-U3	P3-U3	P3-U3	P0-U2	P3-U1	
+Periodo 4:	P3-U1	P1-U2	P3-U1	P3-U3	P2-U0	
+Periodo 5:	P2-U3	P2-U2	P0-U2	P2-U3	P3-U2	
+Periodo 6:	P3-U1	P3-U3	P2-U3	P3-U1	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P0-U2	P2-U2	P1-U0	P3-U3	
+Periodo 2:	P0-U3	P0-U1	P0-U1	P3-U0	P1-U0	
+Periodo 3:	P0-U3	P1-U3	P1-U3	P3-U1	P2-U2	
+Periodo 4:	P1-U0	P3-U3	P2-U0	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P0-U1	P0-U3	
+Periodo 6:	P0-U1	P0-U1	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 4 Intentos: 28
+######################################################################
+Fuente 68:
+Salon 1:
+Periodo 1:	P3-U3	P1-U1	P1-U2	P0-U1	P2-U2	
+Periodo 2:	P1-U2	P1-U1	P1-U2	P0-U1	P2-U2	
+Periodo 3:	P1-U0	P0-U3	P0-U3	P1-U0	P0-U1	
+Periodo 4:	P2-U0	P2-U1	P0-U1	P2-U1	P3-U2	
+Periodo 5:	P3-U1	P1-U0	P2-U3	P1-U0	P1-U2	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P0-U3	P2-U2	P0-U3	P2-U0	P0-U1	
+Periodo 2:	P2-U0	P2-U2	P2-U3	P2-U2	P3-U2	
+Periodo 3:	P3-U1	P2-U0	P2-U2	P2-U0	P1-U0	
+Periodo 4:	P0-U1	P0-U3	P1-U3	P0-U2	P1-U2	
+Periodo 5:	P0-U2	P0-U2	P3-U0	P3-U0	P2-U1	
+Periodo 6:	P2-U0	P1-U1	P0-U3	P2-U1	P0-U1	
+Salon 3:
+Periodo 1:	P2-U2	P3-U3	P3-U3	P3-U3	P1-U2	
+Periodo 2:	P3-U3	P3-U0	P3-U1	P1-U2	P0-U2	
+Periodo 3:	P2-U3	P3-U3	P3-U3	P0-U0	P3-U1	
+Periodo 4:	P3-U1	P1-U2	P3-U1	P3-U3	P2-U2	
+Periodo 5:	P2-U1	P2-U2	P0-U2	P2-U3	P3-U2	
+Periodo 6:	P3-U1	P3-U2	P2-U3	P3-U0	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P0-U2	P2-U0	P1-U0	P3-U3	
+Periodo 2:	P0-U3	P0-U1	P0-U1	P3-U0	P1-U0	
+Periodo 3:	P0-U3	P1-U1	P1-U3	P3-U1	P2-U2	
+Periodo 4:	P1-U1	P3-U3	P2-U1	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P0-U1	P0-U2	
+Periodo 6:	P0-U0	P0-U1	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 4 Intentos: 31
+######################################################################
+Fuente 69:
+Salon 1:
+Periodo 1:	P3-U3	P1-U1	P1-U2	P0-U2	P2-U3	
+Periodo 2:	P1-U3	P1-U1	P1-U2	P2-U2	P2-U3	
+Periodo 3:	P1-U0	P0-U3	P3-U3	P1-U2	P0-U3	
+Periodo 4:	P2-U0	P2-U1	P0-U1	P2-U1	P3-U2	
+Periodo 5:	P3-U0	P1-U0	P2-U3	P1-U0	P1-U2	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P0-U3	P2-U3	P0-U3	P2-U0	P0-U1	
+Periodo 2:	P2-U0	P2-U3	P2-U3	P0-U3	P3-U2	
+Periodo 3:	P3-U1	P2-U0	P2-U3	P2-U0	P1-U0	
+Periodo 4:	P0-U3	P0-U3	P1-U3	P0-U2	P1-U1	
+Periodo 5:	P0-U2	P0-U2	P3-U0	P3-U0	P2-U1	
+Periodo 6:	P2-U0	P1-U2	P0-U3	P2-U2	P0-U1	
+Salon 3:
+Periodo 1:	P2-U2	P3-U3	P3-U0	P3-U3	P1-U2	
+Periodo 2:	P3-U3	P3-U0	P3-U1	P1-U2	P0-U2	
+Periodo 3:	P2-U3	P3-U3	P1-U0	P0-U0	P3-U1	
+Periodo 4:	P3-U1	P1-U2	P3-U1	P3-U3	P2-U2	
+Periodo 5:	P2-U1	P2-U2	P0-U2	P2-U3	P3-U2	
+Periodo 6:	P3-U1	P3-U3	P2-U3	P3-U1	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P0-U0	P2-U0	P1-U0	P3-U3	
+Periodo 2:	P0-U3	P0-U1	P0-U1	P3-U0	P1-U0	
+Periodo 3:	P0-U3	P1-U1	P0-U2	P3-U1	P2-U2	
+Periodo 4:	P1-U1	P3-U3	P2-U1	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P0-U1	P0-U2	
+Periodo 6:	P0-U0	P0-U1	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 4 Intentos: 7
+######################################################################
+Fuente 70:
+Salon 1:
+Periodo 1:	P3-U3	P1-U1	P1-U2	P0-U1	P2-U3	
+Periodo 2:	P1-U2	P1-U1	P1-U2	P0-U1	P2-U3	
+Periodo 3:	P1-U0	P0-U3	P3-U3	P1-U0	P0-U1	
+Periodo 4:	P2-U0	P2-U1	P1-U2	P2-U1	P3-U2	
+Periodo 5:	P3-U1	P1-U0	P2-U3	P1-U0	P1-U2	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P0-U3	P2-U2	P0-U3	P2-U0	P0-U1	
+Periodo 2:	P2-U0	P2-U3	P2-U3	P0-U3	P3-U2	
+Periodo 3:	P3-U1	P2-U0	P2-U2	P2-U3	P1-U0	
+Periodo 4:	P0-U1	P0-U3	P2-U0	P0-U2	P1-U1	
+Periodo 5:	P0-U1	P0-U2	P3-U0	P3-U0	P2-U1	
+Periodo 6:	P2-U0	P1-U2	P0-U3	P2-U2	P0-U1	
+Salon 3:
+Periodo 1:	P2-U2	P3-U0	P3-U0	P3-U3	P1-U2	
+Periodo 2:	P3-U3	P3-U0	P3-U1	P1-U2	P0-U2	
+Periodo 3:	P2-U3	P3-U3	P2-U3	P0-U2	P3-U1	
+Periodo 4:	P3-U1	P1-U2	P3-U2	P3-U3	P2-U2	
+Periodo 5:	P2-U1	P2-U2	P0-U2	P2-U3	P3-U2	
+Periodo 6:	P3-U1	P3-U2	P2-U3	P3-U3	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P0-U2	P2-U0	P1-U0	P3-U3	
+Periodo 2:	P0-U3	P0-U1	P0-U1	P3-U0	P1-U0	
+Periodo 3:	P0-U3	P1-U1	P1-U3	P3-U1	P2-U2	
+Periodo 4:	P1-U1	P3-U3	P0-U0	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P0-U1	P0-U2	
+Periodo 6:	P0-U0	P0-U1	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 4 Intentos: 15
+######################################################################
+Fuente 71:
+Salon 1:
+Periodo 1:	P3-U3	P1-U1	P1-U2	P0-U0	P2-U3	
+Periodo 2:	P1-U2	P1-U1	P1-U2	P2-U2	P2-U3	
+Periodo 3:	P1-U0	P2-U0	P3-U3	P1-U0	P0-U0	
+Periodo 4:	P2-U0	P2-U1	P0-U1	P2-U1	P3-U3	
+Periodo 5:	P3-U0	P1-U0	P2-U3	P1-U0	P1-U2	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P0-U3	P2-U2	P0-U3	P2-U0	P0-U1	
+Periodo 2:	P2-U1	P2-U2	P2-U3	P0-U3	P3-U1	
+Periodo 3:	P3-U1	P0-U2	P0-U3	P2-U3	P1-U0	
+Periodo 4:	P0-U3	P0-U3	P1-U3	P0-U2	P1-U2	
+Periodo 5:	P0-U2	P0-U2	P3-U0	P2-U3	P2-U1	
+Periodo 6:	P2-U0	P1-U2	P0-U0	P2-U1	P0-U1	
+Salon 3:
+Periodo 1:	P2-U2	P3-U3	P3-U3	P3-U3	P1-U2	
+Periodo 2:	P3-U3	P3-U0	P3-U1	P1-U2	P0-U2	
+Periodo 3:	P2-U3	P3-U3	P1-U0	P0-U2	P3-U1	
+Periodo 4:	P3-U1	P1-U2	P3-U1	P3-U3	P2-U2	
+Periodo 5:	P2-U1	P2-U2	P0-U2	P3-U1	P3-U2	
+Periodo 6:	P3-U1	P3-U2	P2-U3	P3-U3	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P0-U0	P2-U2	P1-U0	P3-U3	
+Periodo 2:	P0-U3	P0-U1	P0-U1	P3-U0	P1-U0	
+Periodo 3:	P0-U3	P1-U3	P2-U3	P3-U1	P2-U2	
+Periodo 4:	P1-U1	P3-U3	P2-U1	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P0-U1	P0-U2	
+Periodo 6:	P0-U0	P0-U1	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 4 Intentos: 36
+######################################################################
+Fuente 72:
+Salon 1:
+Periodo 1:	P3-U3	P1-U1	P1-U2	P0-U1	P2-U3	
+Periodo 2:	P1-U3	P1-U0	P1-U2	P2-U2	P2-U3	
+Periodo 3:	P1-U0	P0-U3	P3-U3	P1-U0	P0-U1	
+Periodo 4:	P2-U0	P2-U1	P0-U1	P2-U1	P3-U2	
+Periodo 5:	P3-U0	P1-U0	P2-U3	P1-U0	P1-U2	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P0-U3	P2-U1	P0-U3	P2-U0	P0-U1	
+Periodo 2:	P2-U0	P2-U2	P2-U3	P0-U3	P3-U2	
+Periodo 3:	P3-U1	P2-U0	P0-U1	P2-U3	P1-U0	
+Periodo 4:	P0-U3	P0-U3	P1-U3	P0-U2	P1-U1	
+Periodo 5:	P0-U2	P0-U2	P3-U0	P3-U0	P2-U1	
+Periodo 6:	P2-U0	P1-U2	P0-U3	P2-U1	P0-U1	
+Salon 3:
+Periodo 1:	P2-U2	P3-U3	P3-U3	P3-U3	P1-U2	
+Periodo 2:	P3-U3	P3-U0	P3-U1	P1-U2	P0-U2	
+Periodo 3:	P2-U3	P3-U3	P2-U3	P0-U2	P3-U0	
+Periodo 4:	P3-U1	P1-U2	P3-U1	P3-U3	P2-U2	
+Periodo 5:	P2-U1	P2-U2	P0-U2	P2-U3	P3-U2	
+Periodo 6:	P3-U1	P3-U3	P2-U3	P3-U1	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P0-U2	P2-U0	P1-U0	P3-U3	
+Periodo 2:	P0-U3	P0-U1	P0-U1	P3-U0	P1-U0	
+Periodo 3:	P0-U3	P1-U3	P1-U3	P3-U1	P2-U2	
+Periodo 4:	P1-U1	P3-U1	P2-U1	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P0-U1	P0-U3	
+Periodo 6:	P0-U0	P0-U1	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 4 Intentos: 13
+######################################################################
+Fuente 73:
+Salon 1:
+Periodo 1:	P3-U3	P1-U1	P1-U2	P0-U1	P2-U3	
+Periodo 2:	P1-U3	P1-U1	P1-U2	P2-U2	P2-U3	
+Periodo 3:	P1-U0	P2-U0	P0-U0	P1-U0	P0-U1	
+Periodo 4:	P2-U0	P2-U1	P1-U2	P2-U1	P3-U2	
+Periodo 5:	P3-U1	P1-U0	P2-U3	P1-U0	P1-U2	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P0-U3	P2-U2	P0-U3	P2-U0	P0-U1	
+Periodo 2:	P2-U1	P2-U2	P2-U3	P0-U3	P3-U2	
+Periodo 3:	P3-U1	P0-U2	P2-U2	P1-U1	P1-U0	
+Periodo 4:	P0-U3	P0-U3	P2-U0	P0-U0	P1-U2	
+Periodo 5:	P0-U2	P0-U2	P3-U0	P2-U3	P2-U1	
+Periodo 6:	P2-U0	P1-U1	P0-U0	P2-U1	P0-U1	
+Salon 3:
+Periodo 1:	P2-U2	P3-U3	P3-U3	P3-U3	P1-U2	
+Periodo 2:	P3-U3	P3-U0	P3-U1	P1-U2	P0-U2	
+Periodo 3:	P2-U3	P3-U3	P3-U3	P0-U2	P3-U0	
+Periodo 4:	P3-U0	P1-U2	P3-U1	P3-U3	P2-U2	
+Periodo 5:	P2-U2	P2-U2	P0-U2	P3-U1	P3-U2	
+Periodo 6:	P3-U1	P3-U3	P2-U3	P3-U3	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P0-U2	P2-U0	P1-U0	P3-U3	
+Periodo 2:	P0-U3	P0-U1	P0-U1	P3-U0	P1-U0	
+Periodo 3:	P0-U3	P1-U1	P1-U3	P3-U1	P2-U2	
+Periodo 4:	P1-U1	P3-U3	P0-U0	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P0-U1	P0-U3	
+Periodo 6:	P0-U1	P0-U1	P1-U0	P2-U3	P2-U0	
+======================================================================
+Fitness : 4 Intentos: 37
+######################################################################
+Fuente 74:
+Salon 1:
+Periodo 1:	P3-U3	P1-U1	P1-U2	P0-U1	P2-U3	
+Periodo 2:	P1-U2	P1-U1	P1-U2	P0-U3	P2-U2	
+Periodo 3:	P1-U0	P2-U3	P0-U0	P1-U0	P0-U1	
+Periodo 4:	P2-U0	P2-U1	P0-U1	P2-U1	P3-U2	
+Periodo 5:	P3-U0	P1-U0	P2-U3	P1-U0	P1-U2	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P0-U3	P2-U1	P0-U3	P2-U0	P0-U1	
+Periodo 2:	P2-U0	P2-U2	P2-U3	P2-U2	P3-U1	
+Periodo 3:	P3-U1	P0-U2	P3-U0	P2-U3	P1-U0	
+Periodo 4:	P0-U3	P0-U3	P2-U0	P0-U2	P1-U1	
+Periodo 5:	P0-U2	P0-U2	P3-U0	P2-U3	P2-U1	
+Periodo 6:	P2-U0	P1-U2	P0-U0	P2-U1	P0-U1	
+Salon 3:
+Periodo 1:	P2-U2	P3-U3	P3-U3	P3-U0	P1-U2	
+Periodo 2:	P3-U3	P3-U0	P3-U1	P1-U2	P0-U2	
+Periodo 3:	P2-U3	P3-U3	P1-U0	P0-U2	P3-U1	
+Periodo 4:	P3-U1	P1-U2	P3-U1	P3-U3	P2-U2	
+Periodo 5:	P2-U1	P2-U2	P0-U2	P3-U1	P3-U2	
+Periodo 6:	P3-U1	P3-U3	P2-U3	P3-U1	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P0-U2	P2-U2	P1-U0	P3-U3	
+Periodo 2:	P0-U3	P0-U1	P0-U1	P3-U0	P1-U0	
+Periodo 3:	P0-U3	P1-U1	P1-U3	P3-U1	P2-U2	
+Periodo 4:	P1-U1	P3-U3	P2-U1	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P0-U1	P0-U3	
+Periodo 6:	P0-U0	P0-U1	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 4 Intentos: 9
+######################################################################
+Fuente 75:
+Salon 1:
+Periodo 1:	P3-U3	P1-U1	P1-U2	P0-U0	P2-U3	
+Periodo 2:	P1-U2	P1-U1	P1-U2	P0-U0	P2-U3	
+Periodo 3:	P1-U0	P0-U3	P3-U1	P1-U2	P0-U1	
+Periodo 4:	P2-U0	P2-U1	P2-U3	P2-U1	P3-U2	
+Periodo 5:	P3-U1	P1-U0	P2-U3	P1-U0	P1-U2	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P0-U3	P2-U2	P0-U3	P2-U0	P0-U1	
+Periodo 2:	P2-U0	P2-U2	P2-U3	P1-U1	P3-U2	
+Periodo 3:	P3-U1	P2-U0	P0-U3	P2-U3	P1-U0	
+Periodo 4:	P0-U1	P0-U3	P1-U3	P0-U2	P1-U2	
+Periodo 5:	P0-U1	P0-U2	P3-U0	P2-U3	P2-U1	
+Periodo 6:	P2-U0	P1-U2	P0-U3	P2-U1	P0-U1	
+Salon 3:
+Periodo 1:	P2-U2	P3-U3	P3-U0	P3-U3	P1-U2	
+Periodo 2:	P3-U3	P3-U0	P3-U1	P1-U2	P0-U2	
+Periodo 3:	P2-U3	P3-U3	P2-U3	P0-U2	P3-U1	
+Periodo 4:	P3-U1	P1-U2	P3-U2	P3-U3	P2-U0	
+Periodo 5:	P2-U1	P2-U2	P0-U2	P3-U1	P3-U2	
+Periodo 6:	P3-U1	P3-U2	P2-U3	P3-U0	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P0-U0	P2-U0	P1-U3	P3-U3	
+Periodo 2:	P0-U3	P0-U1	P0-U1	P3-U0	P1-U0	
+Periodo 3:	P0-U3	P1-U3	P1-U3	P3-U1	P2-U2	
+Periodo 4:	P1-U1	P3-U3	P2-U0	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P0-U1	P0-U2	
+Periodo 6:	P0-U0	P0-U1	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 4 Intentos: 11
+######################################################################
+Fuente 76:
+Salon 1:
+Periodo 1:	P3-U3	P1-U1	P1-U3	P0-U0	P2-U3	
+Periodo 2:	P1-U2	P1-U1	P1-U2	P0-U1	P2-U3	
+Periodo 3:	P1-U0	P2-U0	P3-U3	P1-U0	P0-U1	
+Periodo 4:	P2-U0	P2-U1	P2-U3	P2-U1	P3-U3	
+Periodo 5:	P3-U1	P1-U0	P2-U3	P1-U0	P1-U2	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P0-U3	P2-U2	P0-U3	P2-U1	P0-U1	
+Periodo 2:	P2-U0	P2-U2	P2-U3	P2-U2	P3-U2	
+Periodo 3:	P3-U1	P0-U2	P0-U3	P2-U0	P1-U0	
+Periodo 4:	P0-U3	P0-U3	P1-U3	P0-U2	P1-U1	
+Periodo 5:	P0-U2	P0-U2	P3-U0	P2-U3	P2-U1	
+Periodo 6:	P2-U0	P1-U2	P0-U3	P2-U2	P0-U1	
+Salon 3:
+Periodo 1:	P2-U2	P3-U3	P3-U0	P3-U3	P1-U2	
+Periodo 2:	P3-U3	P3-U0	P3-U1	P1-U2	P0-U2	
+Periodo 3:	P2-U3	P3-U3	P1-U0	P0-U2	P3-U1	
+Periodo 4:	P3-U1	P1-U2	P3-U1	P3-U3	P2-U2	
+Periodo 5:	P2-U1	P2-U2	P0-U2	P3-U1	P3-U2	
+Periodo 6:	P3-U1	P3-U2	P2-U3	P3-U1	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P0-U2	P2-U0	P1-U0	P3-U3	
+Periodo 2:	P0-U3	P0-U1	P0-U1	P3-U0	P1-U0	
+Periodo 3:	P0-U0	P1-U3	P0-U2	P3-U1	P2-U2	
+Periodo 4:	P1-U1	P3-U3	P2-U0	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P0-U1	P0-U3	
+Periodo 6:	P0-U0	P0-U1	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 4 Intentos: 21
+######################################################################
+Fuente 77:
+Salon 1:
+Periodo 1:	P3-U3	P1-U1	P1-U2	P0-U1	P2-U3	
+Periodo 2:	P1-U2	P1-U1	P1-U2	P2-U2	P2-U3	
+Periodo 3:	P1-U0	P2-U0	P3-U3	P1-U2	P0-U1	
+Periodo 4:	P2-U0	P2-U1	P1-U2	P2-U1	P3-U2	
+Periodo 5:	P3-U1	P1-U0	P2-U3	P1-U0	P1-U2	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P0-U3	P2-U2	P0-U3	P2-U0	P0-U3	
+Periodo 2:	P2-U1	P2-U2	P2-U3	P0-U3	P3-U2	
+Periodo 3:	P3-U1	P0-U2	P0-U3	P2-U3	P1-U0	
+Periodo 4:	P0-U3	P0-U3	P2-U0	P0-U0	P1-U2	
+Periodo 5:	P0-U1	P0-U2	P3-U0	P2-U3	P2-U1	
+Periodo 6:	P2-U0	P1-U2	P0-U0	P2-U2	P0-U1	
+Salon 3:
+Periodo 1:	P2-U2	P3-U3	P3-U3	P3-U3	P1-U2	
+Periodo 2:	P3-U3	P3-U3	P3-U1	P1-U2	P0-U2	
+Periodo 3:	P2-U3	P3-U3	P1-U0	P0-U2	P3-U0	
+Periodo 4:	P3-U0	P1-U2	P3-U2	P3-U3	P2-U0	
+Periodo 5:	P2-U1	P2-U2	P0-U2	P3-U1	P3-U2	
+Periodo 6:	P3-U1	P3-U3	P2-U3	P3-U3	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P0-U2	P2-U0	P1-U0	P3-U3	
+Periodo 2:	P0-U0	P0-U1	P0-U1	P3-U0	P1-U0	
+Periodo 3:	P0-U3	P1-U1	P0-U2	P3-U1	P2-U2	
+Periodo 4:	P1-U1	P3-U3	P0-U0	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P0-U1	P0-U2	
+Periodo 6:	P0-U1	P0-U1	P1-U0	P2-U3	P2-U0	
+======================================================================
+Fitness : 4 Intentos: 25
+######################################################################
+Fuente 78:
+Salon 1:
+Periodo 1:	P3-U3	P1-U1	P1-U2	P0-U1	P2-U3	
+Periodo 2:	P1-U2	P1-U1	P1-U2	P2-U2	P2-U3	
+Periodo 3:	P1-U0	P2-U0	P3-U3	P1-U2	P0-U1	
+Periodo 4:	P2-U0	P2-U1	P0-U1	P2-U1	P3-U2	
+Periodo 5:	P3-U0	P1-U0	P2-U3	P1-U0	P1-U2	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P0-U3	P2-U2	P0-U3	P2-U1	P0-U1	
+Periodo 2:	P2-U0	P2-U3	P2-U3	P2-U2	P3-U2	
+Periodo 3:	P3-U1	P0-U2	P0-U3	P2-U0	P1-U0	
+Periodo 4:	P0-U3	P0-U3	P1-U3	P0-U2	P1-U2	
+Periodo 5:	P0-U1	P0-U2	P3-U0	P3-U0	P2-U1	
+Periodo 6:	P2-U0	P1-U2	P0-U3	P2-U1	P0-U1	
+Salon 3:
+Periodo 1:	P2-U2	P3-U3	P3-U3	P3-U3	P1-U2	
+Periodo 2:	P3-U3	P3-U0	P3-U1	P1-U2	P0-U2	
+Periodo 3:	P2-U3	P3-U3	P2-U3	P0-U2	P3-U1	
+Periodo 4:	P3-U0	P1-U2	P3-U1	P3-U3	P2-U0	
+Periodo 5:	P2-U1	P2-U2	P0-U2	P2-U3	P3-U2	
+Periodo 6:	P3-U1	P3-U2	P2-U3	P3-U1	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P0-U0	P2-U0	P1-U3	P3-U3	
+Periodo 2:	P0-U3	P0-U1	P0-U1	P3-U0	P1-U0	
+Periodo 3:	P0-U3	P1-U3	P1-U3	P3-U1	P2-U2	
+Periodo 4:	P1-U0	P3-U3	P0-U0	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P0-U1	P0-U3	
+Periodo 6:	P0-U0	P0-U1	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 4 Intentos: 2
+######################################################################
+Fuente 79:
+Salon 1:
+Periodo 1:	P3-U3	P1-U1	P1-U2	P0-U2	P2-U3	
+Periodo 2:	P1-U3	P1-U0	P1-U2	P2-U2	P2-U2	
+Periodo 3:	P1-U0	P0-U3	P0-U3	P1-U2	P0-U0	
+Periodo 4:	P2-U0	P2-U1	P2-U3	P2-U1	P3-U2	
+Periodo 5:	P3-U1	P1-U0	P2-U3	P1-U0	P1-U2	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P0-U3	P2-U2	P0-U3	P2-U0	P0-U1	
+Periodo 2:	P2-U0	P2-U2	P2-U3	P0-U3	P3-U2	
+Periodo 3:	P3-U1	P2-U0	P2-U3	P2-U3	P1-U0	
+Periodo 4:	P0-U1	P0-U3	P1-U3	P0-U0	P1-U2	
+Periodo 5:	P0-U2	P0-U2	P3-U0	P3-U0	P2-U1	
+Periodo 6:	P2-U0	P1-U2	P0-U3	P2-U2	P0-U1	
+Salon 3:
+Periodo 1:	P2-U2	P3-U0	P3-U3	P3-U3	P1-U2	
+Periodo 2:	P3-U3	P3-U0	P3-U1	P1-U2	P0-U2	
+Periodo 3:	P2-U3	P3-U3	P3-U3	P0-U2	P3-U1	
+Periodo 4:	P3-U1	P1-U2	P3-U2	P3-U3	P2-U2	
+Periodo 5:	P2-U1	P2-U2	P0-U2	P2-U3	P3-U2	
+Periodo 6:	P3-U1	P3-U2	P2-U3	P3-U1	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P0-U2	P2-U0	P1-U0	P3-U3	
+Periodo 2:	P0-U0	P0-U1	P0-U1	P3-U0	P1-U0	
+Periodo 3:	P0-U3	P1-U3	P1-U1	P3-U1	P2-U2	
+Periodo 4:	P1-U1	P3-U3	P0-U0	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P0-U1	P0-U2	
+Periodo 6:	P0-U0	P0-U1	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 4 Intentos: 46
+######################################################################
+Fuente 80:
+Salon 1:
+Periodo 1:	P3-U3	P1-U1	P1-U2	P0-U1	P2-U3	
+Periodo 2:	P1-U2	P1-U1	P1-U2	P0-U3	P2-U3	
+Periodo 3:	P1-U0	P2-U0	P3-U3	P1-U0	P0-U1	
+Periodo 4:	P2-U0	P2-U1	P1-U2	P2-U1	P3-U2	
+Periodo 5:	P3-U1	P1-U0	P2-U3	P1-U0	P1-U2	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P0-U3	P2-U2	P0-U3	P2-U0	P0-U1	
+Periodo 2:	P2-U1	P2-U3	P2-U3	P2-U2	P3-U2	
+Periodo 3:	P3-U1	P0-U2	P0-U3	P2-U3	P1-U0	
+Periodo 4:	P0-U3	P0-U3	P2-U0	P0-U0	P1-U2	
+Periodo 5:	P0-U2	P0-U2	P3-U0	P2-U3	P2-U1	
+Periodo 6:	P2-U0	P1-U2	P0-U0	P2-U2	P0-U1	
+Salon 3:
+Periodo 1:	P2-U2	P3-U3	P3-U0	P3-U3	P1-U2	
+Periodo 2:	P3-U3	P3-U0	P3-U1	P1-U2	P0-U2	
+Periodo 3:	P2-U3	P3-U3	P1-U0	P0-U2	P3-U1	
+Periodo 4:	P3-U1	P1-U2	P3-U2	P3-U3	P2-U2	
+Periodo 5:	P2-U1	P2-U2	P0-U2	P3-U1	P3-U2	
+Periodo 6:	P3-U1	P3-U3	P2-U3	P3-U1	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P0-U0	P2-U0	P1-U0	P3-U3	
+Periodo 2:	P0-U3	P0-U1	P0-U1	P3-U0	P1-U0	
+Periodo 3:	P0-U3	P1-U3	P0-U2	P3-U1	P2-U2	
+Periodo 4:	P1-U1	P3-U3	P0-U0	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P0-U1	P0-U3	
+Periodo 6:	P0-U1	P0-U1	P1-U0	P2-U3	P2-U0	
+======================================================================
+Fitness : 4 Intentos: 24
+######################################################################
+Fuente 81:
+Salon 1:
+Periodo 1:	P3-U3	P1-U1	P1-U2	P0-U0	P2-U3	
+Periodo 2:	P1-U3	P1-U1	P1-U2	P2-U2	P2-U3	
+Periodo 3:	P1-U0	P2-U0	P3-U3	P1-U2	P0-U1	
+Periodo 4:	P2-U0	P2-U1	P0-U1	P2-U1	P3-U3	
+Periodo 5:	P3-U0	P1-U0	P2-U3	P1-U0	P1-U2	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P0-U3	P2-U1	P0-U3	P2-U0	P0-U1	
+Periodo 2:	P2-U0	P2-U3	P2-U3	P0-U3	P3-U1	
+Periodo 3:	P3-U1	P0-U2	P0-U3	P2-U0	P1-U0	
+Periodo 4:	P0-U1	P0-U3	P1-U3	P0-U2	P1-U2	
+Periodo 5:	P0-U2	P0-U2	P3-U1	P2-U3	P2-U1	
+Periodo 6:	P2-U0	P1-U2	P0-U0	P2-U1	P0-U1	
+Salon 3:
+Periodo 1:	P2-U2	P3-U3	P3-U3	P3-U3	P1-U2	
+Periodo 2:	P3-U3	P3-U0	P3-U1	P1-U2	P0-U2	
+Periodo 3:	P2-U3	P3-U3	P1-U0	P0-U2	P3-U1	
+Periodo 4:	P3-U1	P1-U2	P3-U1	P3-U3	P2-U2	
+Periodo 5:	P2-U1	P2-U2	P0-U2	P3-U1	P3-U2	
+Periodo 6:	P3-U1	P3-U2	P2-U3	P3-U3	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P0-U0	P2-U0	P1-U0	P3-U3	
+Periodo 2:	P0-U3	P0-U1	P0-U1	P3-U0	P1-U0	
+Periodo 3:	P0-U3	P1-U3	P2-U3	P3-U1	P2-U2	
+Periodo 4:	P1-U1	P3-U3	P2-U1	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P0-U1	P0-U2	
+Periodo 6:	P0-U0	P0-U1	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 4 Intentos: 13
+######################################################################
+Fuente 82:
+Salon 1:
+Periodo 1:	P3-U3	P1-U1	P1-U2	P0-U1	P2-U3	
+Periodo 2:	P1-U2	P1-U1	P1-U2	P2-U2	P2-U3	
+Periodo 3:	P1-U0	P0-U1	P3-U3	P1-U0	P0-U1	
+Periodo 4:	P2-U0	P2-U1	P0-U1	P2-U1	P3-U2	
+Periodo 5:	P3-U1	P1-U0	P2-U3	P1-U0	P1-U2	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P0-U3	P2-U3	P0-U3	P2-U0	P0-U1	
+Periodo 2:	P2-U0	P2-U3	P2-U3	P0-U3	P3-U2	
+Periodo 3:	P3-U1	P2-U0	P0-U3	P2-U3	P1-U0	
+Periodo 4:	P0-U1	P0-U3	P1-U1	P0-U0	P1-U1	
+Periodo 5:	P0-U2	P0-U2	P3-U0	P3-U0	P2-U1	
+Periodo 6:	P2-U0	P1-U2	P0-U3	P2-U2	P0-U1	
+Salon 3:
+Periodo 1:	P2-U2	P3-U3	P3-U3	P3-U3	P1-U2	
+Periodo 2:	P3-U3	P3-U0	P3-U1	P1-U2	P0-U2	
+Periodo 3:	P2-U3	P3-U3	P3-U3	P0-U2	P3-U1	
+Periodo 4:	P2-U0	P1-U2	P3-U2	P3-U3	P2-U2	
+Periodo 5:	P2-U1	P2-U2	P0-U2	P2-U3	P3-U2	
+Periodo 6:	P3-U1	P3-U2	P2-U3	P3-U1	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P0-U2	P2-U0	P1-U0	P3-U3	
+Periodo 2:	P0-U3	P0-U1	P0-U1	P3-U0	P1-U0	
+Periodo 3:	P0-U3	P1-U3	P1-U1	P3-U1	P2-U2	
+Periodo 4:	P1-U1	P3-U3	P2-U1	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P0-U1	P0-U2	
+Periodo 6:	P0-U1	P0-U1	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 4 Intentos: 14
+######################################################################
+Fuente 83:
+Salon 1:
+Periodo 1:	P3-U3	P1-U1	P1-U2	P0-U1	P2-U2	
+Periodo 2:	P1-U2	P1-U1	P1-U2	P2-U2	P2-U3	
+Periodo 3:	P1-U0	P0-U3	P3-U3	P1-U2	P0-U0	
+Periodo 4:	P2-U0	P2-U1	P0-U1	P2-U1	P3-U2	
+Periodo 5:	P3-U0	P1-U0	P2-U3	P1-U0	P1-U2	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P0-U3	P2-U2	P0-U3	P2-U1	P0-U1	
+Periodo 2:	P2-U0	P2-U2	P2-U3	P0-U3	P3-U2	
+Periodo 3:	P3-U1	P2-U0	P0-U3	P2-U3	P1-U0	
+Periodo 4:	P0-U1	P0-U3	P1-U1	P0-U2	P1-U1	
+Periodo 5:	P0-U2	P0-U1	P3-U0	P3-U0	P2-U1	
+Periodo 6:	P2-U0	P1-U1	P0-U3	P2-U1	P0-U1	
+Salon 3:
+Periodo 1:	P2-U2	P3-U3	P3-U3	P3-U3	P1-U2	
+Periodo 2:	P3-U3	P3-U0	P3-U1	P1-U2	P0-U2	
+Periodo 3:	P2-U3	P3-U3	P2-U3	P0-U2	P3-U1	
+Periodo 4:	P3-U1	P1-U2	P3-U1	P3-U3	P2-U2	
+Periodo 5:	P2-U1	P2-U2	P0-U2	P2-U3	P3-U2	
+Periodo 6:	P3-U1	P3-U3	P2-U3	P3-U1	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P0-U2	P2-U0	P1-U0	P3-U3	
+Periodo 2:	P0-U3	P0-U1	P0-U1	P3-U0	P1-U0	
+Periodo 3:	P0-U3	P1-U1	P1-U3	P3-U1	P2-U2	
+Periodo 4:	P1-U1	P3-U3	P2-U0	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P0-U1	P0-U2	
+Periodo 6:	P0-U0	P0-U1	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 3 Intentos: 32
+######################################################################
+Fuente 84:
+Salon 1:
+Periodo 1:	P3-U3	P1-U1	P1-U2	P0-U1	P2-U3	
+Periodo 2:	P1-U3	P1-U1	P1-U2	P2-U2	P2-U3	
+Periodo 3:	P1-U0	P2-U3	P3-U3	P1-U0	P0-U0	
+Periodo 4:	P2-U0	P2-U1	P0-U1	P2-U1	P3-U2	
+Periodo 5:	P3-U0	P1-U0	P2-U3	P1-U0	P1-U2	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P0-U3	P2-U2	P0-U3	P2-U1	P0-U1	
+Periodo 2:	P2-U0	P2-U3	P2-U3	P0-U3	P3-U2	
+Periodo 3:	P3-U1	P0-U2	P0-U1	P2-U0	P1-U0	
+Periodo 4:	P0-U3	P0-U3	P1-U3	P0-U2	P1-U1	
+Periodo 5:	P0-U2	P0-U2	P3-U0	P3-U0	P2-U1	
+Periodo 6:	P2-U0	P1-U2	P0-U3	P2-U2	P0-U1	
+Salon 3:
+Periodo 1:	P2-U2	P3-U3	P3-U3	P3-U3	P1-U2	
+Periodo 2:	P3-U3	P3-U0	P3-U1	P1-U2	P0-U2	
+Periodo 3:	P2-U3	P3-U3	P2-U3	P0-U2	P3-U0	
+Periodo 4:	P3-U1	P1-U2	P3-U1	P3-U3	P2-U0	
+Periodo 5:	P2-U1	P2-U2	P0-U2	P2-U3	P3-U2	
+Periodo 6:	P3-U1	P3-U3	P2-U3	P3-U1	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P0-U2	P2-U0	P1-U0	P3-U3	
+Periodo 2:	P0-U3	P0-U1	P0-U1	P3-U0	P1-U0	
+Periodo 3:	P0-U3	P1-U3	P1-U3	P3-U1	P2-U2	
+Periodo 4:	P1-U1	P3-U1	P2-U0	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P0-U1	P0-U3	
+Periodo 6:	P0-U1	P0-U1	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 3 Intentos: 20
+######################################################################
+Fuente 85:
+Salon 1:
+Periodo 1:	P3-U3	P1-U1	P1-U2	P0-U1	P2-U2	
+Periodo 2:	P1-U3	P1-U1	P1-U2	P2-U2	P2-U3	
+Periodo 3:	P1-U0	P0-U3	P3-U3	P1-U2	P0-U0	
+Periodo 4:	P2-U0	P2-U1	P0-U1	P2-U1	P3-U2	
+Periodo 5:	P3-U0	P1-U0	P2-U3	P1-U0	P1-U2	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P0-U3	P2-U2	P0-U3	P2-U0	P0-U1	
+Periodo 2:	P2-U1	P2-U2	P2-U3	P0-U3	P3-U1	
+Periodo 3:	P3-U1	P2-U0	P0-U1	P2-U3	P1-U0	
+Periodo 4:	P0-U1	P0-U3	P1-U1	P0-U0	P1-U1	
+Periodo 5:	P0-U2	P0-U1	P3-U0	P3-U0	P2-U1	
+Periodo 6:	P2-U0	P1-U2	P0-U3	P2-U2	P0-U1	
+Salon 3:
+Periodo 1:	P2-U2	P3-U3	P3-U3	P3-U3	P1-U2	
+Periodo 2:	P3-U3	P3-U0	P3-U1	P1-U2	P0-U2	
+Periodo 3:	P2-U3	P3-U3	P2-U3	P0-U2	P3-U0	
+Periodo 4:	P3-U1	P1-U2	P3-U1	P3-U3	P2-U2	
+Periodo 5:	P2-U1	P2-U2	P0-U2	P2-U3	P3-U2	
+Periodo 6:	P3-U1	P3-U2	P2-U3	P3-U1	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P0-U2	P2-U0	P1-U0	P3-U3	
+Periodo 2:	P0-U3	P0-U1	P0-U1	P3-U0	P1-U0	
+Periodo 3:	P0-U3	P1-U3	P1-U3	P3-U1	P2-U2	
+Periodo 4:	P1-U1	P3-U1	P2-U0	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P0-U1	P0-U2	
+Periodo 6:	P0-U0	P0-U1	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 3 Intentos: 11
+######################################################################
+Fuente 86:
+Salon 1:
+Periodo 1:	P3-U3	P1-U1	P1-U2	P0-U1	P2-U3	
+Periodo 2:	P1-U2	P1-U3	P1-U2	P2-U2	P2-U3	
+Periodo 3:	P1-U0	P0-U3	P0-U3	P1-U0	P0-U1	
+Periodo 4:	P2-U0	P2-U1	P0-U1	P2-U1	P3-U2	
+Periodo 5:	P3-U0	P1-U0	P2-U3	P1-U0	P1-U2	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P0-U3	P2-U2	P0-U3	P2-U0	P0-U1	
+Periodo 2:	P2-U1	P2-U3	P2-U3	P0-U3	P3-U2	
+Periodo 3:	P3-U1	P2-U0	P2-U3	P2-U3	P1-U0	
+Periodo 4:	P0-U1	P0-U3	P1-U3	P0-U2	P1-U2	
+Periodo 5:	P0-U2	P0-U2	P3-U0	P3-U0	P2-U1	
+Periodo 6:	P2-U0	P1-U2	P0-U3	P2-U1	P0-U1	
+Salon 3:
+Periodo 1:	P2-U2	P3-U3	P3-U3	P3-U3	P1-U2	
+Periodo 2:	P3-U3	P3-U0	P3-U1	P1-U2	P0-U2	
+Periodo 3:	P2-U3	P3-U3	P3-U3	P0-U0	P3-U1	
+Periodo 4:	P3-U0	P1-U2	P3-U1	P3-U3	P2-U2	
+Periodo 5:	P2-U1	P2-U2	P0-U2	P2-U3	P3-U2	
+Periodo 6:	P3-U1	P3-U2	P2-U3	P3-U1	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P0-U2	P2-U0	P1-U0	P3-U3	
+Periodo 2:	P0-U3	P0-U1	P0-U1	P3-U0	P1-U0	
+Periodo 3:	P0-U3	P1-U3	P1-U1	P3-U1	P2-U2	
+Periodo 4:	P1-U1	P3-U3	P2-U0	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P0-U1	P0-U2	
+Periodo 6:	P0-U0	P0-U1	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 3 Intentos: 10
+######################################################################
+Fuente 87:
+Salon 1:
+Periodo 1:	P3-U3	P1-U1	P1-U2	P0-U1	P2-U2	
+Periodo 2:	P1-U3	P1-U3	P1-U2	P2-U2	P2-U3	
+Periodo 3:	P1-U0	P0-U3	P0-U3	P1-U0	P0-U1	
+Periodo 4:	P2-U0	P2-U1	P0-U1	P2-U1	P3-U2	
+Periodo 5:	P3-U1	P1-U0	P2-U3	P1-U0	P1-U2	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P0-U3	P2-U3	P0-U3	P2-U0	P0-U1	
+Periodo 2:	P2-U1	P2-U3	P2-U3	P0-U3	P3-U2	
+Periodo 3:	P3-U1	P2-U0	P2-U3	P2-U3	P1-U0	
+Periodo 4:	P0-U3	P0-U3	P1-U1	P0-U0	P1-U2	
+Periodo 5:	P0-U2	P0-U2	P3-U0	P2-U3	P2-U1	
+Periodo 6:	P2-U0	P1-U2	P0-U0	P2-U1	P0-U1	
+Salon 3:
+Periodo 1:	P2-U2	P3-U3	P3-U3	P3-U3	P1-U2	
+Periodo 2:	P3-U3	P3-U0	P3-U1	P1-U2	P0-U2	
+Periodo 3:	P2-U3	P3-U3	P3-U3	P0-U2	P3-U1	
+Periodo 4:	P3-U1	P1-U2	P3-U2	P3-U3	P2-U2	
+Periodo 5:	P2-U1	P2-U2	P0-U2	P3-U1	P3-U2	
+Periodo 6:	P3-U1	P3-U2	P2-U3	P3-U0	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P0-U2	P2-U0	P1-U0	P3-U3	
+Periodo 2:	P0-U0	P0-U1	P0-U1	P3-U0	P1-U0	
+Periodo 3:	P0-U3	P1-U3	P1-U1	P3-U1	P2-U2	
+Periodo 4:	P1-U1	P3-U3	P2-U1	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P0-U1	P0-U2	
+Periodo 6:	P0-U1	P0-U1	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 3 Intentos: 38
+######################################################################
+Fuente 88:
+Salon 1:
+Periodo 1:	P3-U3	P1-U1	P1-U2	P0-U2	P2-U2	
+Periodo 2:	P1-U2	P1-U1	P1-U2	P2-U2	P2-U3	
+Periodo 3:	P1-U0	P0-U3	P3-U3	P1-U0	P0-U1	
+Periodo 4:	P2-U0	P2-U1	P0-U1	P2-U1	P1-U3	
+Periodo 5:	P3-U1	P1-U0	P2-U3	P1-U0	P1-U2	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P0-U3	P2-U2	P0-U3	P2-U0	P0-U1	
+Periodo 2:	P2-U0	P2-U3	P2-U3	P0-U3	P3-U2	
+Periodo 3:	P3-U1	P2-U0	P2-U2	P2-U0	P1-U0	
+Periodo 4:	P0-U1	P0-U3	P1-U3	P0-U2	P3-U0	
+Periodo 5:	P0-U2	P0-U2	P3-U0	P2-U3	P2-U1	
+Periodo 6:	P2-U0	P1-U2	P0-U0	P2-U1	P0-U1	
+Salon 3:
+Periodo 1:	P2-U2	P3-U3	P3-U3	P3-U3	P1-U2	
+Periodo 2:	P3-U3	P3-U0	P3-U1	P1-U2	P0-U3	
+Periodo 3:	P2-U3	P3-U3	P2-U3	P0-U0	P3-U1	
+Periodo 4:	P3-U1	P1-U2	P3-U1	P3-U3	P2-U2	
+Periodo 5:	P2-U1	P2-U2	P0-U2	P3-U1	P3-U2	
+Periodo 6:	P3-U1	P3-U2	P2-U3	P3-U0	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P0-U2	P2-U0	P1-U0	P3-U3	
+Periodo 2:	P0-U3	P0-U1	P0-U1	P3-U0	P1-U0	
+Periodo 3:	P0-U3	P1-U3	P1-U3	P3-U1	P2-U2	
+Periodo 4:	P1-U1	P3-U3	P2-U1	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P0-U1	P0-U2	
+Periodo 6:	P0-U0	P0-U1	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 3 Intentos: 27
+######################################################################
+Fuente 89:
+Salon 1:
+Periodo 1:	P3-U3	P1-U1	P1-U2	P0-U1	P2-U2	
+Periodo 2:	P1-U2	P1-U1	P1-U2	P2-U2	P2-U3	
+Periodo 3:	P1-U0	P0-U1	P3-U3	P1-U0	P0-U0	
+Periodo 4:	P2-U0	P2-U1	P0-U1	P2-U1	P3-U2	
+Periodo 5:	P3-U0	P1-U0	P2-U3	P1-U0	P1-U2	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P0-U3	P2-U3	P0-U3	P2-U1	P0-U1	
+Periodo 2:	P2-U0	P2-U2	P2-U3	P0-U3	P3-U2	
+Periodo 3:	P3-U1	P2-U0	P0-U3	P2-U3	P1-U0	
+Periodo 4:	P0-U1	P0-U3	P1-U1	P0-U0	P1-U2	
+Periodo 5:	P0-U2	P0-U1	P3-U0	P3-U0	P2-U1	
+Periodo 6:	P2-U0	P1-U2	P0-U3	P2-U1	P0-U1	
+Salon 3:
+Periodo 1:	P2-U2	P3-U3	P3-U3	P3-U3	P1-U2	
+Periodo 2:	P3-U3	P3-U0	P3-U1	P1-U2	P0-U2	
+Periodo 3:	P2-U3	P3-U3	P2-U3	P0-U2	P3-U1	
+Periodo 4:	P3-U1	P1-U2	P3-U2	P3-U3	P2-U2	
+Periodo 5:	P2-U1	P2-U2	P0-U2	P2-U3	P3-U2	
+Periodo 6:	P3-U1	P3-U3	P2-U3	P3-U1	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P0-U2	P2-U0	P1-U0	P3-U3	
+Periodo 2:	P0-U3	P0-U1	P0-U1	P3-U0	P1-U0	
+Periodo 3:	P0-U3	P1-U1	P1-U3	P3-U1	P2-U2	
+Periodo 4:	P1-U1	P3-U3	P2-U0	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P0-U1	P0-U2	
+Periodo 6:	P0-U0	P0-U1	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 3 Intentos: 11
+######################################################################
+Fuente 90:
+Salon 1:
+Periodo 1:	P3-U3	P1-U1	P1-U2	P0-U0	P2-U3	
+Periodo 2:	P1-U3	P1-U1	P1-U3	P0-U3	P2-U2	
+Periodo 3:	P1-U0	P2-U3	P3-U1	P1-U0	P0-U1	
+Periodo 4:	P2-U0	P2-U1	P0-U1	P2-U1	P3-U3	
+Periodo 5:	P3-U1	P1-U0	P2-U3	P1-U0	P1-U1	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P0-U3	P2-U1	P0-U3	P2-U0	P0-U1	
+Periodo 2:	P2-U1	P2-U2	P2-U3	P2-U2	P3-U1	
+Periodo 3:	P3-U1	P0-U2	P0-U3	P2-U3	P1-U0	
+Periodo 4:	P0-U3	P0-U3	P1-U3	P0-U2	P1-U1	
+Periodo 5:	P0-U2	P0-U2	P3-U0	P2-U3	P2-U1	
+Periodo 6:	P2-U0	P1-U2	P0-U0	P2-U2	P0-U1	
+Salon 3:
+Periodo 1:	P2-U2	P3-U3	P3-U3	P3-U0	P1-U2	
+Periodo 2:	P3-U3	P3-U0	P3-U1	P1-U2	P0-U2	
+Periodo 3:	P2-U3	P3-U3	P1-U0	P0-U2	P3-U1	
+Periodo 4:	P3-U1	P1-U2	P3-U1	P3-U3	P2-U2	
+Periodo 5:	P2-U1	P2-U2	P0-U2	P3-U1	P3-U2	
+Periodo 6:	P3-U1	P3-U2	P2-U3	P3-U3	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P0-U2	P2-U0	P1-U0	P3-U3	
+Periodo 2:	P0-U3	P0-U1	P0-U1	P3-U0	P1-U0	
+Periodo 3:	P0-U3	P1-U1	P2-U3	P3-U1	P2-U2	
+Periodo 4:	P1-U1	P3-U3	P2-U1	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P0-U1	P0-U2	
+Periodo 6:	P0-U0	P0-U1	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 3 Intentos: 9
+######################################################################
+Fuente 91:
+Salon 1:
+Periodo 1:	P3-U3	P1-U1	P1-U2	P0-U1	P2-U2	
+Periodo 2:	P1-U2	P1-U1	P1-U2	P2-U2	P2-U2	
+Periodo 3:	P1-U0	P0-U3	P0-U3	P1-U0	P0-U1	
+Periodo 4:	P2-U0	P2-U1	P0-U1	P2-U1	P3-U2	
+Periodo 5:	P3-U1	P1-U0	P2-U3	P1-U0	P1-U2	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P0-U3	P2-U2	P0-U3	P2-U0	P0-U1	
+Periodo 2:	P2-U0	P2-U3	P2-U3	P0-U3	P3-U2	
+Periodo 3:	P3-U1	P2-U0	P2-U2	P2-U0	P1-U0	
+Periodo 4:	P0-U1	P0-U3	P1-U3	P0-U2	P1-U2	
+Periodo 5:	P0-U2	P0-U2	P3-U0	P3-U0	P2-U1	
+Periodo 6:	P2-U0	P1-U2	P0-U3	P2-U1	P0-U1	
+Salon 3:
+Periodo 1:	P2-U2	P3-U3	P3-U3	P3-U3	P1-U2	
+Periodo 2:	P3-U3	P3-U0	P3-U1	P1-U2	P0-U2	
+Periodo 3:	P2-U3	P3-U3	P3-U3	P0-U0	P3-U1	
+Periodo 4:	P3-U1	P1-U2	P3-U1	P3-U3	P2-U2	
+Periodo 5:	P2-U1	P2-U2	P0-U2	P2-U3	P3-U2	
+Periodo 6:	P3-U1	P3-U2	P2-U3	P3-U0	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P0-U2	P2-U0	P1-U0	P3-U3	
+Periodo 2:	P0-U3	P0-U1	P0-U1	P3-U0	P1-U0	
+Periodo 3:	P0-U3	P1-U3	P1-U3	P3-U1	P2-U2	
+Periodo 4:	P1-U1	P3-U3	P2-U1	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P0-U1	P0-U2	
+Periodo 6:	P0-U0	P0-U1	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 3 Intentos: 36
+######################################################################
+Fuente 92:
+Salon 1:
+Periodo 1:	P3-U3	P1-U1	P1-U2	P0-U2	P2-U2	
+Periodo 2:	P1-U3	P1-U1	P1-U2	P2-U2	P2-U3	
+Periodo 3:	P1-U0	P0-U3	P3-U3	P1-U0	P0-U1	
+Periodo 4:	P2-U0	P2-U1	P0-U1	P2-U1	P3-U2	
+Periodo 5:	P3-U1	P1-U0	P2-U3	P1-U0	P1-U2	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P0-U3	P2-U1	P0-U3	P2-U0	P0-U1	
+Periodo 2:	P2-U0	P2-U3	P2-U3	P0-U3	P3-U2	
+Periodo 3:	P3-U1	P2-U0	P2-U2	P2-U3	P1-U0	
+Periodo 4:	P0-U1	P0-U3	P1-U3	P0-U2	P1-U2	
+Periodo 5:	P0-U2	P0-U2	P3-U0	P3-U0	P2-U1	
+Periodo 6:	P2-U0	P1-U1	P0-U3	P2-U2	P0-U1	
+Salon 3:
+Periodo 1:	P2-U2	P3-U3	P3-U3	P3-U3	P1-U2	
+Periodo 2:	P3-U3	P3-U0	P3-U1	P1-U2	P0-U2	
+Periodo 3:	P2-U3	P3-U3	P1-U0	P0-U2	P3-U1	
+Periodo 4:	P3-U1	P1-U2	P3-U1	P3-U3	P2-U2	
+Periodo 5:	P2-U1	P2-U2	P0-U2	P2-U3	P3-U2	
+Periodo 6:	P3-U1	P3-U2	P2-U3	P3-U0	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P0-U2	P2-U0	P1-U0	P3-U0	
+Periodo 2:	P0-U0	P0-U1	P0-U1	P3-U0	P1-U0	
+Periodo 3:	P0-U3	P1-U3	P0-U2	P3-U1	P2-U2	
+Periodo 4:	P1-U1	P3-U3	P2-U1	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P0-U1	P0-U2	
+Periodo 6:	P0-U0	P0-U1	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 2 Intentos: 6
+######################################################################
+Fuente 93:
+Salon 1:
+Periodo 1:	P3-U3	P1-U1	P1-U2	P0-U1	P2-U3	
+Periodo 2:	P1-U2	P1-U1	P1-U2	P2-U2	P2-U3	
+Periodo 3:	P1-U0	P2-U3	P3-U3	P1-U0	P0-U1	
+Periodo 4:	P2-U0	P2-U1	P0-U1	P2-U1	P3-U2	
+Periodo 5:	P3-U1	P1-U0	P2-U3	P1-U0	P1-U2	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P0-U3	P2-U2	P0-U3	P2-U0	P0-U1	
+Periodo 2:	P2-U0	P2-U2	P2-U3	P0-U3	P3-U2	
+Periodo 3:	P3-U1	P0-U2	P0-U3	P2-U3	P1-U0	
+Periodo 4:	P0-U3	P0-U3	P1-U1	P0-U2	P1-U2	
+Periodo 5:	P0-U1	P0-U2	P3-U0	P3-U0	P2-U1	
+Periodo 6:	P2-U0	P1-U2	P0-U3	P2-U2	P0-U1	
+Salon 3:
+Periodo 1:	P2-U2	P3-U3	P3-U0	P3-U3	P1-U2	
+Periodo 2:	P3-U3	P3-U0	P3-U1	P1-U2	P0-U3	
+Periodo 3:	P2-U3	P3-U3	P2-U3	P0-U0	P3-U1	
+Periodo 4:	P3-U1	P1-U2	P3-U2	P3-U3	P2-U2	
+Periodo 5:	P2-U1	P2-U2	P0-U2	P2-U3	P3-U2	
+Periodo 6:	P3-U1	P3-U3	P2-U3	P3-U1	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P0-U0	P2-U0	P1-U0	P3-U3	
+Periodo 2:	P0-U3	P0-U1	P0-U1	P3-U0	P1-U0	
+Periodo 3:	P0-U3	P1-U1	P1-U3	P3-U1	P2-U2	
+Periodo 4:	P1-U0	P3-U3	P2-U0	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P0-U1	P0-U2	
+Periodo 6:	P0-U1	P0-U1	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 2 Intentos: 11
+######################################################################
+Fuente 94:
+Salon 1:
+Periodo 1:	P3-U3	P1-U1	P1-U2	P0-U1	P2-U3	
+Periodo 2:	P1-U2	P1-U1	P1-U2	P2-U2	P2-U3	
+Periodo 3:	P1-U0	P0-U3	P0-U3	P1-U0	P0-U1	
+Periodo 4:	P2-U0	P2-U1	P0-U1	P2-U1	P3-U2	
+Periodo 5:	P3-U0	P1-U0	P2-U3	P1-U0	P1-U2	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P0-U3	P2-U2	P0-U3	P2-U0	P0-U1	
+Periodo 2:	P2-U1	P2-U3	P2-U3	P0-U3	P3-U2	
+Periodo 3:	P3-U1	P2-U0	P2-U3	P2-U3	P1-U0	
+Periodo 4:	P0-U1	P0-U3	P1-U1	P0-U2	P1-U1	
+Periodo 5:	P0-U2	P0-U2	P3-U0	P2-U3	P2-U1	
+Periodo 6:	P2-U0	P1-U2	P0-U3	P2-U2	P0-U1	
+Salon 3:
+Periodo 1:	P2-U2	P3-U3	P3-U3	P3-U3	P1-U2	
+Periodo 2:	P3-U3	P3-U0	P3-U1	P1-U2	P0-U2	
+Periodo 3:	P2-U3	P3-U3	P3-U3	P0-U0	P3-U1	
+Periodo 4:	P3-U0	P1-U2	P3-U1	P3-U3	P2-U2	
+Periodo 5:	P2-U1	P2-U2	P0-U2	P3-U1	P3-U2	
+Periodo 6:	P3-U1	P3-U2	P2-U3	P3-U1	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P0-U2	P2-U0	P1-U0	P3-U3	
+Periodo 2:	P0-U3	P0-U1	P0-U1	P3-U0	P1-U0	
+Periodo 3:	P0-U3	P1-U3	P1-U1	P3-U1	P2-U2	
+Periodo 4:	P1-U1	P3-U3	P2-U0	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P0-U1	P0-U2	
+Periodo 6:	P0-U0	P0-U1	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 2 Intentos: 11
+######################################################################
+Fuente 95:
+Salon 1:
+Periodo 1:	P3-U3	P1-U1	P1-U2	P0-U2	P2-U3	
+Periodo 2:	P1-U3	P1-U1	P1-U2	P2-U2	P2-U3	
+Periodo 3:	P1-U0	P0-U3	P3-U3	P1-U2	P0-U0	
+Periodo 4:	P2-U0	P2-U1	P0-U1	P2-U1	P3-U2	
+Periodo 5:	P3-U1	P1-U0	P2-U3	P1-U0	P1-U2	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P0-U3	P2-U1	P0-U2	P2-U1	P0-U1	
+Periodo 2:	P2-U0	P2-U2	P2-U3	P0-U3	P3-U2	
+Periodo 3:	P3-U1	P2-U0	P0-U3	P2-U3	P1-U0	
+Periodo 4:	P0-U1	P0-U3	P1-U3	P0-U2	P1-U1	
+Periodo 5:	P0-U2	P0-U2	P3-U0	P3-U0	P2-U1	
+Periodo 6:	P2-U0	P1-U1	P0-U3	P2-U2	P0-U1	
+Salon 3:
+Periodo 1:	P2-U2	P3-U3	P3-U3	P3-U3	P1-U2	
+Periodo 2:	P3-U3	P3-U0	P3-U1	P1-U2	P0-U2	
+Periodo 3:	P2-U3	P3-U3	P1-U0	P0-U2	P3-U1	
+Periodo 4:	P3-U1	P1-U2	P3-U1	P3-U3	P2-U2	
+Periodo 5:	P2-U1	P2-U2	P0-U2	P2-U3	P3-U2	
+Periodo 6:	P3-U1	P3-U2	P2-U3	P3-U0	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P0-U2	P2-U0	P1-U0	P3-U0	
+Periodo 2:	P0-U0	P0-U1	P0-U0	P3-U0	P1-U0	
+Periodo 3:	P0-U3	P1-U3	P2-U3	P3-U1	P2-U2	
+Periodo 4:	P1-U1	P3-U3	P2-U1	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P0-U1	P0-U3	
+Periodo 6:	P0-U0	P0-U1	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 2 Intentos: 24
+######################################################################
+Fuente 96:
+Salon 1:
+Periodo 1:	P3-U3	P1-U1	P1-U2	P0-U1	P2-U3	
+Periodo 2:	P1-U3	P1-U1	P1-U2	P2-U2	P2-U3	
+Periodo 3:	P1-U0	P2-U3	P3-U3	P1-U0	P0-U0	
+Periodo 4:	P2-U0	P2-U1	P0-U1	P2-U1	P3-U2	
+Periodo 5:	P3-U0	P1-U0	P2-U3	P1-U0	P1-U2	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P0-U3	P2-U2	P0-U3	P2-U1	P0-U1	
+Periodo 2:	P2-U0	P2-U3	P2-U3	P0-U3	P3-U2	
+Periodo 3:	P3-U1	P0-U2	P0-U3	P2-U3	P1-U0	
+Periodo 4:	P0-U3	P0-U3	P1-U1	P0-U2	P1-U2	
+Periodo 5:	P0-U1	P0-U2	P3-U0	P3-U0	P2-U1	
+Periodo 6:	P2-U0	P1-U2	P0-U3	P2-U1	P0-U1	
+Salon 3:
+Periodo 1:	P2-U2	P3-U3	P3-U0	P3-U3	P1-U2	
+Periodo 2:	P3-U3	P3-U0	P3-U1	P1-U2	P0-U2	
+Periodo 3:	P2-U3	P3-U3	P2-U3	P0-U2	P3-U1	
+Periodo 4:	P3-U1	P1-U2	P3-U1	P3-U3	P2-U0	
+Periodo 5:	P2-U1	P2-U2	P0-U2	P2-U3	P3-U2	
+Periodo 6:	P3-U1	P3-U3	P2-U3	P3-U1	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P0-U2	P2-U0	P1-U0	P3-U3	
+Periodo 2:	P0-U0	P0-U1	P0-U1	P3-U0	P1-U0	
+Periodo 3:	P0-U3	P1-U3	P1-U3	P3-U1	P2-U2	
+Periodo 4:	P1-U0	P3-U3	P2-U0	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P0-U1	P0-U2	
+Periodo 6:	P0-U1	P0-U1	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 2 Intentos: 23
+######################################################################
+Fuente 97:
+Salon 1:
+Periodo 1:	P3-U3	P1-U1	P1-U2	P0-U2	P2-U3	
+Periodo 2:	P1-U3	P1-U1	P1-U2	P2-U2	P2-U3	
+Periodo 3:	P1-U0	P0-U3	P3-U3	P1-U0	P0-U1	
+Periodo 4:	P2-U0	P2-U1	P0-U1	P2-U1	P3-U2	
+Periodo 5:	P3-U1	P1-U0	P2-U3	P1-U0	P1-U2	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P0-U3	P2-U1	P0-U3	P2-U1	P0-U1	
+Periodo 2:	P2-U0	P2-U3	P2-U3	P0-U3	P3-U2	
+Periodo 3:	P3-U1	P2-U0	P2-U3	P2-U0	P1-U0	
+Periodo 4:	P0-U3	P0-U3	P1-U3	P0-U2	P1-U1	
+Periodo 5:	P0-U2	P0-U2	P3-U0	P3-U0	P2-U1	
+Periodo 6:	P2-U0	P1-U2	P0-U3	P2-U2	P0-U1	
+Salon 3:
+Periodo 1:	P2-U2	P3-U3	P3-U0	P3-U3	P1-U2	
+Periodo 2:	P3-U3	P3-U0	P3-U1	P1-U2	P0-U2	
+Periodo 3:	P2-U3	P3-U3	P1-U0	P0-U2	P3-U1	
+Periodo 4:	P3-U1	P1-U2	P3-U1	P3-U3	P2-U2	
+Periodo 5:	P2-U1	P2-U2	P0-U2	P2-U3	P3-U2	
+Periodo 6:	P3-U1	P3-U2	P2-U3	P3-U1	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P0-U2	P2-U0	P1-U0	P3-U3	
+Periodo 2:	P0-U3	P0-U1	P0-U1	P3-U0	P1-U0	
+Periodo 3:	P0-U0	P1-U3	P0-U2	P3-U1	P2-U2	
+Periodo 4:	P1-U1	P3-U3	P2-U1	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P0-U1	P0-U3	
+Periodo 6:	P0-U0	P0-U1	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 2 Intentos: 14
+######################################################################
+Fuente 98:
+Salon 1:
+Periodo 1:	P3-U3	P1-U1	P1-U2	P0-U1	P2-U2	
+Periodo 2:	P1-U2	P1-U1	P1-U2	P2-U2	P2-U3	
+Periodo 3:	P1-U0	P2-U3	P3-U3	P1-U0	P0-U0	
+Periodo 4:	P2-U0	P2-U1	P0-U1	P2-U1	P3-U2	
+Periodo 5:	P3-U0	P1-U0	P2-U3	P1-U0	P1-U2	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P0-U3	P2-U2	P0-U3	P2-U1	P0-U1	
+Periodo 2:	P2-U0	P2-U3	P2-U3	P0-U3	P3-U2	
+Periodo 3:	P3-U1	P0-U2	P0-U3	P2-U0	P1-U0	
+Periodo 4:	P0-U3	P0-U3	P1-U1	P0-U2	P1-U1	
+Periodo 5:	P0-U1	P0-U2	P3-U0	P3-U0	P2-U1	
+Periodo 6:	P2-U0	P1-U2	P0-U0	P2-U1	P0-U1	
+Salon 3:
+Periodo 1:	P2-U2	P3-U3	P3-U3	P3-U3	P1-U2	
+Periodo 2:	P3-U3	P3-U0	P3-U1	P1-U2	P0-U2	
+Periodo 3:	P2-U3	P3-U3	P2-U3	P0-U2	P3-U1	
+Periodo 4:	P3-U1	P1-U2	P3-U1	P3-U3	P2-U2	
+Periodo 5:	P2-U1	P2-U2	P0-U2	P2-U3	P3-U2	
+Periodo 6:	P3-U1	P3-U3	P2-U3	P3-U0	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P0-U2	P2-U0	P1-U3	P3-U3	
+Periodo 2:	P0-U0	P0-U1	P0-U1	P3-U0	P1-U0	
+Periodo 3:	P0-U3	P1-U3	P1-U3	P3-U1	P2-U2	
+Periodo 4:	P1-U0	P3-U3	P2-U0	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P0-U1	P0-U3	
+Periodo 6:	P0-U1	P0-U1	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 2 Intentos: 11
+######################################################################
+Fuente 99:
+Salon 1:
+Periodo 1:	P3-U3	P1-U1	P1-U2	P0-U1	P2-U3	
+Periodo 2:	P1-U2	P1-U1	P1-U2	P0-U1	P2-U3	
+Periodo 3:	P1-U0	P2-U0	P3-U3	P1-U0	P0-U1	
+Periodo 4:	P2-U0	P2-U1	P0-U1	P2-U1	P3-U2	
+Periodo 5:	P3-U0	P1-U0	P2-U3	P1-U0	P1-U2	
+Periodo 6:	P1-U2	P2-U1	P3-U1	P1-U0	P1-U0	
+Salon 2:
+Periodo 1:	P0-U3	P2-U2	P0-U3	P2-U0	P0-U1	
+Periodo 2:	P2-U0	P2-U3	P2-U3	P2-U2	P3-U2	
+Periodo 3:	P3-U1	P0-U2	P0-U3	P2-U0	P1-U0	
+Periodo 4:	P0-U3	P0-U3	P1-U3	P0-U2	P1-U2	
+Periodo 5:	P0-U1	P0-U2	P3-U0	P3-U0	P2-U1	
+Periodo 6:	P2-U0	P1-U2	P0-U0	P2-U2	P0-U1	
+Salon 3:
+Periodo 1:	P2-U2	P3-U3	P3-U3	P3-U3	P1-U2	
+Periodo 2:	P3-U3	P3-U0	P3-U1	P1-U2	P0-U2	
+Periodo 3:	P2-U3	P3-U3	P2-U3	P0-U2	P3-U1	
+Periodo 4:	P3-U1	P1-U2	P3-U1	P3-U3	P2-U2	
+Periodo 5:	P2-U1	P2-U2	P0-U2	P2-U3	P3-U2	
+Periodo 6:	P3-U1	P3-U2	P2-U3	P3-U1	P3-U0	
+Salon 4:
+Periodo 1:	P1-U0	P0-U0	P2-U0	P1-U0	P3-U3	
+Periodo 2:	P0-U3	P0-U1	P0-U1	P3-U0	P1-U0	
+Periodo 3:	P0-U3	P1-U3	P1-U3	P3-U1	P2-U2	
+Periodo 4:	P1-U1	P3-U3	P2-U0	P1-U0	P0-U2	
+Periodo 5:	P1-U2	P3-U0	P1-U1	P0-U1	P0-U3	
+Periodo 6:	P0-U1	P0-U1	P1-U0	P0-U2	P2-U0	
+======================================================================
+Fitness : 0 Intentos: 1
+######################################################################
+761
